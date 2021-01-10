@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003348</color>
+    <color name="colorPrimaryDark">#00415c</color>
+    <color name="colorAccent">#0078aa</color>
+    <color name="colorBlue">#009fe1</color>
+    <color name="actions">#004d40</color>
+    <color name="action">#009688</color>
+    <color name="krem">#ffffff</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="color1">#003348</color>
+    <color name="color2">#00415c</color>
+    <color name="color3">#004f70</color>
+    <color name="color4">#005d83</color>
+    <color name="color5">#006b97</color>
+    <color name="color6">#0078aa</color>
+    <color name="color7">#0086be</color>
+    <color name="color8">#0094d2</color>
+    <color name="color9">#00a2e5</color>
+    <color name="color10">#00b0f9</color>
+
+
+    <color name="ayetBaslikColor">#00415c</color>
+    <color name="ayetBackroundcolor">#004f6f</color>
+
+
+    <color name="tarihAyOlay">#005d83</color>
+
+    <color name="hadisBaslikColor">#006b96</color>
+    <color name="hadisBackroundcolor">#0078aa</color>
+
+    <color name="sehirColor">#002534</color>
+    <color name="sehirVakitlerColor">#003348</color>
+
+
+    <color name="gecerliVakitColor">#20B2AA</color>
+
+    <color name="sunnetBaslikColor">#004f6f</color>
+    <color name="sunnetBackroundColor">#005d83</color>
+
+
+    <color name="haftalikColor">#006b96</color>
+    <color name="haftalikBackroundColor">#0078aa</color>
+
+
+    <color name="yemekBaslikColor">#004f6f</color>
+    <color name="yemekBackroundColor">#005d83</color>
+
+    <color name="isimColor">#006b96</color>
+    <color name="isimBackroundColor">#0078aa</color>
+
+    <color name="ozluSozColor">#0086be</color>
+    <color name="ozlusozBackroundColor">#0094d1</color>
+
+
+    <color name="esmalarColor">#004f6f</color>
+    <color name="esmalarBackroundColor">#005d83</color>
+
+    <color name="dualarColor">#006b96</color>
+    <color name="dualarBackroundColor">#0078aa</color>
+
+
+    <color name="ilgincColor">#0086be</color>
+    <color name="ilgincBackroundColor">#0094d1</color>
+
+
+    <color name="row1Color">#006b96</color>
+    <color name="row2Color">#0078aa</color>
+
+
+
+    <color name="black">#000000</color>
+    <color name="turuncu">#ff5f00</color>
+    <color name="bordo">#610000</color>
+    <color name="yesil">#fdfdfd</color>
+    <color name="kahverengi">#683a00 </color>
+    <color name="eflatun">#570095 </color>
+    <color name="yavruagzi">#fc5d3d	 </color>
+    <color name="mor">#1e0d4a</color>
+    <color name="arkaplan">#009688</color>
+    <color name="buton_rengi">#004d40</color>
+    <color name="buton_rengi_pres">#e5faf7</color>
+    <color name="splash">#701919</color>
+
+
+
+    <color name="renk1">#000000</color>
+    <color name="renk2">#528B8B</color>
+    <color name="renk3">#228B22</color>
+    <color name="renk4">#191970</color>
+    <color name="renk5">#7A373B</color>
+    <color name="renk6">#CD2990</color>
+    <color name="renk7">#000080</color>
+    <color name="renk8">#1C1C1C</color>
+    <color name="renk9">#0000CD</color>
+    <color name="renk10">#00008B</color>
+    <color name="renk11">#8B2323</color>
+    <color name="renk12">#9932CC</color>
+    <color name="renk13">#8B3A62</color>
+    <color name="renk14">#CD6090</color>
+    <color name="renk15">#9400D3</color>
+
+
+
+</resources>

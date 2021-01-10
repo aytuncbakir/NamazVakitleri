@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:title="Titreşim"
+        android:summary="Butona dokunulduğunda titreşim oluşsun mu?"
+        android:key="titresim"
+        android:summaryOn="Titreşim Açık"
+        android:summaryOff="Titreşim Kapalı"
+        />
+
+    <CheckBoxPreference
+        android:title="Ses"
+        android:summary="Butona dokunulduğunda ses oluşsun mu?"
+        android:key="ses"
+        android:summaryOn="Ses Açık"
+        android:summaryOff="Ses Kapalı"
+        />
+
+    <ListPreference
+        android:entries="@array/temalar"
+        android:entryValues="@array/tema_pozisyon"
+        android:key="arkaplan"
+        android:summary="Tema veya Renk seçiniz."
+        android:title="Arkaplan Tema ve Renkleri"
+        />
+
+
+</PreferenceScreen>

@@ -1,0 +1,1170 @@
+<iller name="almanya">
+
+   <ilce value="11075" data-url="/tr-TR/11075/aachen-icin-namaz-vakti">AACHEN</ilce>
+   <ilce value="11038" data-url="/tr-TR/11038/aalen-icin-namaz-vakti">AALEN</ilce>
+   <ilce value="10870" data-url="/tr-TR/10870/achern-icin-namaz-vakti">ACHERN</ilce>
+   <ilce value="10871" data-url="/tr-TR/10871/achim-icin-namaz-vakti">ACHIM</ilce>
+   <ilce value="10643" data-url="/tr-TR/10643/adelebsen-icin-namaz-vakti">ADELEBSEN</ilce>
+   <ilce value="10872" data-url="/tr-TR/10872/adenau-icin-namaz-vakti">ADENAU</ilce>
+   <ilce value="10873" data-url="/tr-TR/10873/ahaus-icin-namaz-vakti">AHAUS</ilce>
+   <ilce value="11057" data-url="/tr-TR/11057/ahlen-icin-namaz-vakti">AHLEN</ilce>
+   <ilce value="10880" data-url="/tr-TR/10880/ahrensburg-icin-namaz-vakti">AHRENSBURG</ilce>
+   <ilce value="10881" data-url="/tr-TR/10881/aichach-icin-namaz-vakti">AICHACH</ilce>
+   <ilce value="10846" data-url="/tr-TR/10846/aidlingen-icin-namaz-vakti">AIDLINGEN</ilce>
+   <ilce value="10688" data-url="/tr-TR/10688/aken-icin-namaz-vakti">AKEN </ilce>
+   <ilce value="11086" data-url="/tr-TR/11086/albstadt-icin-namaz-vakti">ALBSTADT</ilce>
+   <ilce value="10877" data-url="/tr-TR/10877/aldenhoven-icin-namaz-vakti">ALDENHOVEN</ilce>
+   <ilce value="10882" data-url="/tr-TR/10882/alfeld-leine-icin-namaz-vakti">ALFELD-LEINE</ilce>
+   <ilce value="10878" data-url="/tr-TR/10878/alfter-icin-namaz-vakti">ALFTER</ilce>
+   <ilce value="11110" data-url="/tr-TR/11110/allach-icin-namaz-vakti">ALLACH</ilce>
+   <ilce value="10879" data-url="/tr-TR/10879/allendorfeder-icin-namaz-vakti">ALLENDORF/EDER</ilce>
+   <ilce value="10045" data-url="/tr-TR/10045/allensbach-icin-namaz-vakti">ALLENSBACH</ilce>
+   <ilce value="10883" data-url="/tr-TR/10883/allersberg-icin-namaz-vakti">ALLERSBERG</ilce>
+   <ilce value="10840" data-url="/tr-TR/10840/alpirsbach-icin-namaz-vakti">ALPIRSBACH</ilce>
+   <ilce value="10884" data-url="/tr-TR/10884/alsdorf-icin-namaz-vakti">ALSDORF</ilce>
+   <ilce value="10764" data-url="/tr-TR/10764/alsenborn-icin-namaz-vakti">ALSENBORN</ilce>
+   <ilce value="10044" data-url="/tr-TR/10044/alsfeld-hessen-icin-namaz-vakti">ALSFELD-HESSEN</ilce>
+   <ilce value="10046" data-url="/tr-TR/10046/altdorf-b-nurnberg-icin-namaz-vakti">ALTDORF B. NURNBERG</ilce>
+   <ilce value="10886" data-url="/tr-TR/10886/altena-icin-namaz-vakti">ALTENA</ilce>
+   <ilce value="10887" data-url="/tr-TR/10887/altenerding-icin-namaz-vakti">ALTENERDING</ilce>
+   <ilce value="10888" data-url="/tr-TR/10888/altenkirchen-icin-namaz-vakti">ALTENKIRCHEN</ilce>
+   <ilce value="10847" data-url="/tr-TR/10847/althengstett-icin-namaz-vakti">ALTHENGSTETT</ilce>
+   <ilce value="10731" data-url="/tr-TR/10731/alzenau-icin-namaz-vakti">ALZENAU</ilce>
+   <ilce value="10889" data-url="/tr-TR/10889/alzey-icin-namaz-vakti">ALZEY</ilce>
+   <ilce value="10890" data-url="/tr-TR/10890/amberg-icin-namaz-vakti">AMBERG</ilce>
+   <ilce value="10891" data-url="/tr-TR/10891/andernach-icin-namaz-vakti">ANDERNACH</ilce>
+   <ilce value="10736" data-url="/tr-TR/10736/annweiler-icin-namaz-vakti">ANNWEILER</ilce>
+   <ilce value="11106" data-url="/tr-TR/11106/ansbach-icin-namaz-vakti">ANSBACH</ilce>
+   <ilce value="10621" data-url="/tr-TR/10621/apolda-icin-namaz-vakti">APOLDA</ilce>
+   <ilce value="10892" data-url="/tr-TR/10892/arnsberg-icin-namaz-vakti">ARNSBERG</ilce>
+   <ilce value="10622" data-url="/tr-TR/10622/arnstadt-icin-namaz-vakti">ARNSTADT</ilce>
+   <ilce value="10048" data-url="/tr-TR/10048/arnstorf-icin-namaz-vakti">ARNSTORF</ilce>
+   <ilce value="10893" data-url="/tr-TR/10893/arolsen-icin-namaz-vakti">AROLSEN</ilce>
+   <ilce value="16740" data-url="/tr-TR/16740/asbachlanzing-icin-namaz-vakti">ASBACH(LANZING)</ilce>
+   <ilce value="16741" data-url="/tr-TR/16741/asbach-baumenheim-icin-namaz-vakti">ASBACH-BAUMENHEIM</ilce>
+   <ilce value="10894" data-url="/tr-TR/10894/aschaffenburg-icin-namaz-vakti">ASCHAFFENBURG</ilce>
+   <ilce value="10895" data-url="/tr-TR/10895/ascheberg-icin-namaz-vakti">ASCHEBERG</ilce>
+   <ilce value="10724" data-url="/tr-TR/10724/asseln-icin-namaz-vakti">ASSELN</ilce>
+   <ilce value="10896" data-url="/tr-TR/10896/attendorn-icin-namaz-vakti">ATTENDORN</ilce>
+   <ilce value="10717" data-url="/tr-TR/10717/auerbach-h-icin-namaz-vakti">AUERBACH (H)</ilce>
+   <ilce value="11036" data-url="/tr-TR/11036/augsburg-icin-namaz-vakti">AUGSBURG</ilce>
+   <ilce value="10897" data-url="/tr-TR/10897/augustdorf-icin-namaz-vakti">AUGUSTDORF</ilce>
+   <ilce value="10858" data-url="/tr-TR/10858/ay-icin-namaz-vakti">AY</ilce>
+   <ilce value="10885" data-url="/tr-TR/10885/baar-ebenhausen-icin-namaz-vakti">BAAR-EBENHAUSEN</ilce>
+   <ilce value="10047" data-url="/tr-TR/10047/babenhausenbavaira-icin-namaz-vakti">BABENHAUSEN/BAVAIRA</ilce>
+   <ilce value="10898" data-url="/tr-TR/10898/babenhausenhessen-icin-namaz-vakti">BABENHAUSEN/HESSEN</ilce>
+   <ilce value="10050" data-url="/tr-TR/10050/backnang-icin-namaz-vakti">BACKNANG</ilce>
+   <ilce value="10702" data-url="/tr-TR/10702/bad-bentheim-icin-namaz-vakti">BAD BENTHEIM</ilce>
+   <ilce value="10899" data-url="/tr-TR/10899/bad-bramstedt-icin-namaz-vakti">BAD BRAMSTEDT</ilce>
+   <ilce value="10900" data-url="/tr-TR/10900/bad-camberg-icin-namaz-vakti">BAD CAMBERG</ilce>
+   <ilce value="10901" data-url="/tr-TR/10901/bad-durkheim-icin-namaz-vakti">BAD DURKHEIM</ilce>
+   <ilce value="10790" data-url="/tr-TR/10790/bad-durrheim-icin-namaz-vakti">BAD DURRHEIM</ilce>
+   <ilce value="11092" data-url="/tr-TR/11092/bad-ems-icin-namaz-vakti">BAD EMS</ilce>
+   <ilce value="10903" data-url="/tr-TR/10903/bad-essen-icin-namaz-vakti">BAD ESSEN</ilce>
+   <ilce value="10576" data-url="/tr-TR/10576/bad-hersfeld-icin-namaz-vakti">BAD HERSFELD</ilce>
+   <ilce value="10905" data-url="/tr-TR/10905/bad-homburg-icin-namaz-vakti">BAD HOMBURG</ilce>
+   <ilce value="10904" data-url="/tr-TR/10904/bad-honnef-am-rhein-icin-namaz-vakti">BAD HONNEF AM RHEIN</ilce>
+   <ilce value="10573" data-url="/tr-TR/10573/bad-kreuznach-icin-namaz-vakti">BAD KREUZNACH</ilce>
+   <ilce value="10791" data-url="/tr-TR/10791/bad-krozingen-icin-namaz-vakti">BAD KROZINGEN</ilce>
+   <ilce value="10567" data-url="/tr-TR/10567/bad-lauterberg-icin-namaz-vakti">BAD LAUTERBERG</ilce>
+   <ilce value="10906" data-url="/tr-TR/10906/bad-lippspringe-icin-namaz-vakti">BAD LIPPSPRINGE</ilce>
+   <ilce value="10709" data-url="/tr-TR/10709/bad-meinberg-icin-namaz-vakti">BAD MEINBERG</ilce>
+   <ilce value="10907" data-url="/tr-TR/10907/bad-nauheim-icin-namaz-vakti">BAD NAUHEIM</ilce>
+   <ilce value="17924" data-url="/tr-TR/17924/bad-neuenahr-ahrweiler-icin-namaz-vakti">BAD NEUENAHR-AHRWEILER</ilce>
+   <ilce value="10710" data-url="/tr-TR/10710/bad-oeynhausen-icin-namaz-vakti">BAD OEYNHAUSEN</ilce>
+   <ilce value="10051" data-url="/tr-TR/10051/bad-oldesloe-icin-namaz-vakti">BAD OLDESLOE</ilce>
+   <ilce value="10711" data-url="/tr-TR/10711/bad-pyrmont-icin-namaz-vakti">BAD PYRMONT</ilce>
+   <ilce value="10908" data-url="/tr-TR/10908/bad-sackingen-icin-namaz-vakti">BAD SACKINGEN</ilce>
+   <ilce value="10682" data-url="/tr-TR/10682/bad-sageberg-icin-namaz-vakti">BAD SAGEBERG</ilce>
+   <ilce value="10909" data-url="/tr-TR/10909/bad-salzuflen-icin-namaz-vakti">BAD SALZUFLEN</ilce>
+   <ilce value="10910" data-url="/tr-TR/10910/bad-schwalbach-icin-namaz-vakti">BAD SCHWALBACH</ilce>
+   <ilce value="10683" data-url="/tr-TR/10683/bad-schwartau-icin-namaz-vakti">BAD SCHWARTAU</ilce>
+   <ilce value="10052" data-url="/tr-TR/10052/bad-segeberg-icin-namaz-vakti">BAD SEGEBERG</ilce>
+   <ilce value="10053" data-url="/tr-TR/10053/bad-urach-icin-namaz-vakti">BAD URACH</ilce>
+   <ilce value="10911" data-url="/tr-TR/10911/bad-vilbel-icin-namaz-vakti">BAD VILBEL</ilce>
+   <ilce value="10054" data-url="/tr-TR/10054/bad-waldsee-icin-namaz-vakti">BAD WALDSEE</ilce>
+   <ilce value="10912" data-url="/tr-TR/10912/bad-wildungen-icin-namaz-vakti">BAD WILDUNGEN</ilce>
+   <ilce value="10825" data-url="/tr-TR/10825/bad-windsheim-icin-namaz-vakti">BAD WINDSHEIM</ilce>
+   <ilce value="10055" data-url="/tr-TR/10055/bad-wurzach-icin-namaz-vakti">BAD WURZACH</ilce>
+   <ilce value="10701" data-url="/tr-TR/10701/bad-zwischenahn-icin-namaz-vakti">BAD ZWISCHENAHN</ilce>
+   <ilce value="10913" data-url="/tr-TR/10913/baden-baden-icin-namaz-vakti">BADEN-BADEN</ilce>
+   <ilce value="10902" data-url="/tr-TR/10902/badendorf-icin-namaz-vakti">BADENDORF</ilce>
+   <ilce value="10056" data-url="/tr-TR/10056/bad-schussenried-icin-namaz-vakti">BAD-SCHUSSENRIED</ilce>
+   <ilce value="10914" data-url="/tr-TR/10914/baesweiler-icin-namaz-vakti">BAESWEILER</ilce>
+   <ilce value="10828" data-url="/tr-TR/10828/baiersbronn-icin-namaz-vakti">BAIERSBRONN</ilce>
+   <ilce value="11120" data-url="/tr-TR/11120/balingen-icin-namaz-vakti">BALINGEN</ilce>
+   <ilce value="10915" data-url="/tr-TR/10915/balve-icin-namaz-vakti">BALVE</ilce>
+   <ilce value="11067" data-url="/tr-TR/11067/bamberg-icin-namaz-vakti">BAMBERG</ilce>
+   <ilce value="10705" data-url="/tr-TR/10705/bardenberg-icin-namaz-vakti">BARDENBERG</ilce>
+   <ilce value="10689" data-url="/tr-TR/10689/barleben-icin-namaz-vakti">BARLEBEN</ilce>
+   <ilce value="10365" data-url="/tr-TR/10365/barmenwuppertal-icin-namaz-vakti">BARMEN(Wuppertal)</ilce>
+   <ilce value="10659" data-url="/tr-TR/10659/barsinghausen-icin-namaz-vakti">BARSINGHAUSEN</ilce>
+   <ilce value="10589" data-url="/tr-TR/10589/bassum-icin-namaz-vakti">BASSUM</ilce>
+   <ilce value="10746" data-url="/tr-TR/10746/baunatal-icin-namaz-vakti">BAUNATAL</ilce>
+   <ilce value="11096" data-url="/tr-TR/11096/bautzen-icin-namaz-vakti">BAUTZEN</ilce>
+   <ilce value="10584" data-url="/tr-TR/10584/bayreuth-icin-namaz-vakti">BAYREUTH</ilce>
+   <ilce value="10057" data-url="/tr-TR/10057/bebra-icin-namaz-vakti">BEBRA</ilce>
+   <ilce value="10916" data-url="/tr-TR/10916/beckum-neubeckum-icin-namaz-vakti">BECKUM (NEUBECKUM)</ilce>
+   <ilce value="10755" data-url="/tr-TR/10755/bedburg-icin-namaz-vakti">BEDBURG</ilce>
+   <ilce value="10058" data-url="/tr-TR/10058/beelitz-icin-namaz-vakti">BEELITZ</ilce>
+   <ilce value="10917" data-url="/tr-TR/10917/beerfelden-icin-namaz-vakti">BEERFELDEN</ilce>
+   <ilce value="10640" data-url="/tr-TR/10640/beeskow-icin-namaz-vakti">BEESKOW</ilce>
+   <ilce value="10737" data-url="/tr-TR/10737/bellheim-icin-namaz-vakti">BELLHEIM</ilce>
+   <ilce value="10690" data-url="/tr-TR/10690/belzig-icin-namaz-vakti">BELZIG</ilce>
+   <ilce value="10918" data-url="/tr-TR/10918/bendorf-rhineland-icin-namaz-vakti">BENDORF (RHINELAND)</ilce>
+   <ilce value="10660" data-url="/tr-TR/10660/bennemuhlen-icin-namaz-vakti">BENNEMUHLEN</ilce>
+   <ilce value="10919" data-url="/tr-TR/10919/bensheim-icin-namaz-vakti">BENSHEIM</ilce>
+   <ilce value="10115" data-url="/tr-TR/10115/bergedorf-icin-namaz-vakti">BERGEDORF</ilce>
+   <ilce value="10920" data-url="/tr-TR/10920/bergheim-icin-namaz-vakti">BERGHEIM</ilce>
+   <ilce value="10921" data-url="/tr-TR/10921/bergish-gladbach-icin-namaz-vakti">BERGISH-GLADBACH</ilce>
+   <ilce value="11084" data-url="/tr-TR/11084/bergkamen-icin-namaz-vakti">BERGKAMEN</ilce>
+   <ilce value="10923" data-url="/tr-TR/10923/bergneustadt-icin-namaz-vakti">BERGNEUSTADT</ilce>
+   <ilce value="11002" data-url="/tr-TR/11002/berlin-icin-namaz-vakti">BERLIN</ilce>
+   <ilce value="10059" data-url="/tr-TR/10059/bernau-icin-namaz-vakti">BERNAU</ilce>
+   <ilce value="10924" data-url="/tr-TR/10924/bestwig-icin-namaz-vakti">BESTWIG</ilce>
+   <ilce value="10391" data-url="/tr-TR/10391/bettenhausen-icin-namaz-vakti">BETTENHAUSEN</ilce>
+   <ilce value="10925" data-url="/tr-TR/10925/betzdorf-icin-namaz-vakti">BETZDORF</ilce>
+   <ilce value="10926" data-url="/tr-TR/10926/bexbach-icin-namaz-vakti">BEXBACH</ilce>
+   <ilce value="11040" data-url="/tr-TR/11040/biberach-icin-namaz-vakti">BIBERACH</ilce>
+   <ilce value="10060" data-url="/tr-TR/10060/biberachriss-icin-namaz-vakti">BIBERACH/RISS</ilce>
+   <ilce value="10927" data-url="/tr-TR/10927/biebesheim-am-rhein-icin-namaz-vakti">BIEBESHEIM AM RHEIN</ilce>
+   <ilce value="10928" data-url="/tr-TR/10928/biedenkopf-icin-namaz-vakti">BIEDENKOPF</ilce>
+   <ilce value="11003" data-url="/tr-TR/11003/bielefeld-icin-namaz-vakti">BIELEFELD</ilce>
+   <ilce value="10852" data-url="/tr-TR/10852/bietigheim-bissingen-icin-namaz-vakti">BIETIGHEIM-BISSINGEN</ilce>
+   <ilce value="10116" data-url="/tr-TR/10116/billstedt-icin-namaz-vakti">BILLSTEDT</ilce>
+   <ilce value="10929" data-url="/tr-TR/10929/bingen-icin-namaz-vakti">BINGEN</ilce>
+   <ilce value="10930" data-url="/tr-TR/10930/bischofsheim-icin-namaz-vakti">BISCHOFSHEIM</ilce>
+   <ilce value="10000" data-url="/tr-TR/10000/bismarck-icin-namaz-vakti">BISMARCK</ilce>
+   <ilce value="10061" data-url="/tr-TR/10061/bissingen-an-der-enz-icin-namaz-vakti">BISSINGEN AN DER ENZ</ilce>
+   <ilce value="10623" data-url="/tr-TR/10623/blankenburg-thuringen-icin-namaz-vakti">BLANKENBURG (Thuringen)</ilce>
+   <ilce value="10931" data-url="/tr-TR/10931/blankenheim-icin-namaz-vakti">BLANKENHEIM</ilce>
+   <ilce value="10062" data-url="/tr-TR/10062/blaubeuren-icin-namaz-vakti">BLAUBEUREN</ilce>
+   <ilce value="10775" data-url="/tr-TR/10775/blieskastel-icin-namaz-vakti">BLIESKASTEL</ilce>
+   <ilce value="10932" data-url="/tr-TR/10932/blomberg-icin-namaz-vakti">BLOMBERG</ilce>
+   <ilce value="10933" data-url="/tr-TR/10933/blumberg-icin-namaz-vakti">BLUMBERG</ilce>
+   <ilce value="10948" data-url="/tr-TR/10948/blumenthal-icin-namaz-vakti">BLUMENTHAL</ilce>
+   <ilce value="11039" data-url="/tr-TR/11039/bobingen-icin-namaz-vakti">BOBINGEN</ilce>
+   <ilce value="10572" data-url="/tr-TR/10572/boblingen-icin-namaz-vakti">BOBLINGEN</ilce>
+   <ilce value="11095" data-url="/tr-TR/11095/bocholt-icin-namaz-vakti">BOCHOLT</ilce>
+   <ilce value="11126" data-url="/tr-TR/11126/bochum-icin-namaz-vakti">BOCHUM</ilce>
+   <ilce value="10936" data-url="/tr-TR/10936/boffzen-icin-namaz-vakti">BOFFZEN</ilce>
+   <ilce value="10937" data-url="/tr-TR/10937/bohmte-icin-namaz-vakti">BOHMTE</ilce>
+   <ilce value="10652" data-url="/tr-TR/10652/boizenburg-icin-namaz-vakti">BOIZENBURG</ilce>
+   <ilce value="10938" data-url="/tr-TR/10938/bonen-icin-namaz-vakti">BONEN</ilce>
+   <ilce value="11004" data-url="/tr-TR/11004/bonn-icin-namaz-vakti">BONN</ilce>
+   <ilce value="10939" data-url="/tr-TR/10939/bonndorf-icin-namaz-vakti">BONNDORF</ilce>
+   <ilce value="10063" data-url="/tr-TR/10063/bopfingen-icin-namaz-vakti">BOPFINGEN</ilce>
+   <ilce value="10749" data-url="/tr-TR/10749/boppard-icin-namaz-vakti">BOPPARD</ilce>
+   <ilce value="10940" data-url="/tr-TR/10940/borken-hessen-icin-namaz-vakti">BORKEN (HESSEN)</ilce>
+   <ilce value="10941" data-url="/tr-TR/10941/bornheim-icin-namaz-vakti">BORNHEIM</ilce>
+   <ilce value="10942" data-url="/tr-TR/10942/bottrop-icin-namaz-vakti">BOTTROP</ilce>
+   <ilce value="10943" data-url="/tr-TR/10943/botzingen-icin-namaz-vakti">BOTZINGEN</ilce>
+   <ilce value="10644" data-url="/tr-TR/10644/bovenden-icin-namaz-vakti">BOVENDEN</ilce>
+   <ilce value="10944" data-url="/tr-TR/10944/brake-icin-namaz-vakti">BRAKE</ilce>
+   <ilce value="10945" data-url="/tr-TR/10945/brakel-icin-namaz-vakti">BRAKEL</ilce>
+   <ilce value="10196" data-url="/tr-TR/10196/brambauer-lunen-icin-namaz-vakti">BRAMBAUER (LUNEN)</ilce>
+   <ilce value="10946" data-url="/tr-TR/10946/bramsche-icin-namaz-vakti">BRAMSCHE</ilce>
+   <ilce value="10064" data-url="/tr-TR/10064/brandenburg-icin-namaz-vakti">BRANDENBURG</ilce>
+   <ilce value="16754" data-url="/tr-TR/16754/braunschweig-icin-namaz-vakti">BRAUNSCHWEIG</ilce>
+   <ilce value="10631" data-url="/tr-TR/10631/bredstedt-icin-namaz-vakti">BREDSTEDT</ilce>
+   <ilce value="10947" data-url="/tr-TR/10947/breidenbach-icin-namaz-vakti">BREIDENBACH</ilce>
+   <ilce value="11005" data-url="/tr-TR/11005/bremen-icin-namaz-vakti">BREMEN</ilce>
+   <ilce value="11116" data-url="/tr-TR/11116/bremerhaven-icin-namaz-vakti">BREMERHAVEN</ilce>
+   <ilce value="10950" data-url="/tr-TR/10950/bretten-icin-namaz-vakti">BRETTEN</ilce>
+   <ilce value="10951" data-url="/tr-TR/10951/breuberg-icin-namaz-vakti">BREUBERG</ilce>
+   <ilce value="10952" data-url="/tr-TR/10952/brilon-icin-namaz-vakti">BRILON</ilce>
+   <ilce value="10732" data-url="/tr-TR/10732/bruchkobel-icin-namaz-vakti">BRUCHK&#214;BEL</ilce>
+   <ilce value="10953" data-url="/tr-TR/10953/bruchsal-icin-namaz-vakti">BRUCHSAL</ilce>
+   <ilce value="10065" data-url="/tr-TR/10065/bruckmuhl-icin-namaz-vakti">BRUCKMUHL</ilce>
+   <ilce value="10727" data-url="/tr-TR/10727/bruggen-icin-namaz-vakti">BRUGGEN</ilce>
+   <ilce value="10954" data-url="/tr-TR/10954/bruhl-icin-namaz-vakti">BRUHL</ilce>
+   <ilce value="10668" data-url="/tr-TR/10668/brunsbuttel-icin-namaz-vakti">BRUNSBUTTEL</ilce>
+   <ilce value="10661" data-url="/tr-TR/10661/brunswick-braunschweig-icin-namaz-vakti">BRUNSWICK (BRAUNSCHWEIG)</ilce>
+   <ilce value="10066" data-url="/tr-TR/10066/buchen-icin-namaz-vakti">BUCHEN</ilce>
+   <ilce value="10067" data-url="/tr-TR/10067/buchloe-icin-namaz-vakti">BUCHLOE</ilce>
+   <ilce value="10955" data-url="/tr-TR/10955/bucholz-in-der-n-icin-namaz-vakti">BUCHOLZ IN DER N.</ilce>
+   <ilce value="10956" data-url="/tr-TR/10956/buckeburg-icin-namaz-vakti">BUCKEBURG</ilce>
+   <ilce value="17807" data-url="/tr-TR/17807/budenheim-icin-namaz-vakti">BUDENHEIM</ilce>
+   <ilce value="10958" data-url="/tr-TR/10958/budingen-icin-namaz-vakti">BUDINGEN</ilce>
+   <ilce value="10957" data-url="/tr-TR/10957/budlesdorf-icin-namaz-vakti">BUDLESDORF</ilce>
+   <ilce value="10959" data-url="/tr-TR/10959/buggingen-icin-namaz-vakti">BUGGINGEN</ilce>
+   <ilce value="10960" data-url="/tr-TR/10960/bullay-icin-namaz-vakti">BULLAY</ilce>
+   <ilce value="10961" data-url="/tr-TR/10961/bunde-icin-namaz-vakti">BUNDE</ilce>
+   <ilce value="10691" data-url="/tr-TR/10691/burg-s-a-icin-namaz-vakti">BURG (S-A)</ilce>
+   <ilce value="10068" data-url="/tr-TR/10068/burgau-icin-namaz-vakti">BURGAU</ilce>
+   <ilce value="10069" data-url="/tr-TR/10069/burgdorf-icin-namaz-vakti">BURGDORF</ilce>
+   <ilce value="10070" data-url="/tr-TR/10070/burghausen-icin-namaz-vakti">BURGHAUSEN</ilce>
+   <ilce value="10071" data-url="/tr-TR/10071/burgkirchen-an-der-a-icin-namaz-vakti">BURGKIRCHEN AN DER A</ilce>
+   <ilce value="10072" data-url="/tr-TR/10072/burglengenfeld-icin-namaz-vakti">BURGLENGENFELD</ilce>
+   <ilce value="10073" data-url="/tr-TR/10073/burladingen-icin-namaz-vakti">BURLADINGEN</ilce>
+   <ilce value="10962" data-url="/tr-TR/10962/burscheid-icin-namaz-vakti">BURSCHEID</ilce>
+   <ilce value="10554" data-url="/tr-TR/10554/burstadt-icin-namaz-vakti">BURSTADT</ilce>
+   <ilce value="10718" data-url="/tr-TR/10718/buttelborn-icin-namaz-vakti">BUTTELBORN</ilce>
+   <ilce value="10963" data-url="/tr-TR/10963/butzbach-icin-namaz-vakti">BUTZBACH</ilce>
+   <ilce value="10662" data-url="/tr-TR/10662/butzfleth-icin-namaz-vakti">BUTZFLETH</ilce>
+   <ilce value="10653" data-url="/tr-TR/10653/buxtehude-icin-namaz-vakti">BUXTEHUDE</ilce>
+   <ilce value="10606" data-url="/tr-TR/10606/calau-icin-namaz-vakti">CALAU</ilce>
+   <ilce value="10692" data-url="/tr-TR/10692/calbe-icin-namaz-vakti">CALBE</ilce>
+   <ilce value="11111" data-url="/tr-TR/11111/calw-hirsau-icin-namaz-vakti">CALW (HIRSAU)</ilce>
+   <ilce value="10964" data-url="/tr-TR/10964/castrop-rauxel-icin-namaz-vakti">CASTROP-RAUXEL</ilce>
+   <ilce value="10074" data-url="/tr-TR/10074/celle-icin-namaz-vakti">CELLE</ilce>
+   <ilce value="11099" data-url="/tr-TR/11099/chemnitz-icin-namaz-vakti">CHEMNITZ</ilce>
+   <ilce value="10965" data-url="/tr-TR/10965/clopenburg-icin-namaz-vakti">CLOPENBURG</ilce>
+   <ilce value="10075" data-url="/tr-TR/10075/coburg-icin-namaz-vakti">COBURG</ilce>
+   <ilce value="10966" data-url="/tr-TR/10966/coesfeld-icin-namaz-vakti">COESFELD</ilce>
+   <ilce value="10605" data-url="/tr-TR/10605/cottbus-icin-namaz-vakti">COTTBUS</ilce>
+   <ilce value="10076" data-url="/tr-TR/10076/crailsheim-icin-namaz-vakti">CRAILSHEIM</ilce>
+   <ilce value="11129" data-url="/tr-TR/11129/cuxhaven-icin-namaz-vakti">CUXHAVEN</ilce>
+   <ilce value="10967" data-url="/tr-TR/10967/dachau-icin-namaz-vakti">DACHAU</ilce>
+   <ilce value="10934" data-url="/tr-TR/10934/dahlhausen-icin-namaz-vakti">DAHLHAUSEN</ilce>
+   <ilce value="10703" data-url="/tr-TR/10703/damme-icin-namaz-vakti">DAMME</ilce>
+   <ilce value="11079" data-url="/tr-TR/11079/darmstadt-icin-namaz-vakti">DARMSTADT</ilce>
+   <ilce value="10968" data-url="/tr-TR/10968/datteln-icin-namaz-vakti">DATTELN</ilce>
+   <ilce value="10077" data-url="/tr-TR/10077/deggendorf-icin-namaz-vakti">DEGGENDORF</ilce>
+   <ilce value="10969" data-url="/tr-TR/10969/delbruck-icin-namaz-vakti">DELBRUCK</ilce>
+   <ilce value="10677" data-url="/tr-TR/10677/delitzsch-icin-namaz-vakti">DELITZSCH</ilce>
+   <ilce value="9977" data-url="/tr-TR/9977/dellwig-icin-namaz-vakti">DELLWIG</ilce>
+   <ilce value="10970" data-url="/tr-TR/10970/delmenhorst-icin-namaz-vakti">DELMENHORST</ilce>
+   <ilce value="10971" data-url="/tr-TR/10971/denzlingen-icin-namaz-vakti">DENZLINGEN</ilce>
+   <ilce value="11113" data-url="/tr-TR/11113/dernedort-icin-namaz-vakti">DERNE(DORT.)</ilce>
+   <ilce value="10693" data-url="/tr-TR/10693/dessau-icin-namaz-vakti">DESSAU</ilce>
+   <ilce value="11065" data-url="/tr-TR/11065/detmold-icin-namaz-vakti">DETMOLD</ilce>
+   <ilce value="10078" data-url="/tr-TR/10078/dettingenerms-icin-namaz-vakti">DETTINGEN/ERMS</ilce>
+   <ilce value="10853" data-url="/tr-TR/10853/dettingenteck-icin-namaz-vakti">DETTINGEN/TECK </ilce>
+   <ilce value="10972" data-url="/tr-TR/10972/dieburg-icin-namaz-vakti">DIEBURG</ilce>
+   <ilce value="10079" data-url="/tr-TR/10079/dietenheim-icin-namaz-vakti">DIETENHEIM</ilce>
+   <ilce value="10973" data-url="/tr-TR/10973/dietzenbach-icin-namaz-vakti">DIETZENBACH</ilce>
+   <ilce value="10974" data-url="/tr-TR/10974/dillenburg-icin-namaz-vakti">DILLENBURG</ilce>
+   <ilce value="10859" data-url="/tr-TR/10859/dillingen-an-der-donau-icin-namaz-vakti">DILLINGEN AN DER DONAU</ilce>
+   <ilce value="11112" data-url="/tr-TR/11112/dillingensaar-icin-namaz-vakti">DILLINGEN(SAAR)</ilce>
+   <ilce value="10080" data-url="/tr-TR/10080/dingolfing-icin-namaz-vakti">DINGOLFING</ilce>
+   <ilce value="10975" data-url="/tr-TR/10975/dinslaken-icin-namaz-vakti">DINSLAKEN</ilce>
+   <ilce value="10976" data-url="/tr-TR/10976/dissen-icin-namaz-vakti">DISSEN</ilce>
+   <ilce value="10081" data-url="/tr-TR/10081/ditzingen-icin-namaz-vakti">DITZINGEN</ilce>
+   <ilce value="10615" data-url="/tr-TR/10615/dobeln-icin-namaz-vakti">DOBELN</ilce>
+   <ilce value="10792" data-url="/tr-TR/10792/donaueschingen-icin-namaz-vakti">DONAUESCHINGEN</ilce>
+   <ilce value="11115" data-url="/tr-TR/11115/donauworth-icin-namaz-vakti">DONAUWORTH</ilce>
+   <ilce value="10817" data-url="/tr-TR/10817/dorfen-munih-icin-namaz-vakti">DORFEN (Munih)</ilce>
+   <ilce value="10977" data-url="/tr-TR/10977/dormagen-icin-namaz-vakti">DORMAGEN</ilce>
+   <ilce value="10978" data-url="/tr-TR/10978/dorsten-icin-namaz-vakti">DORSTEN</ilce>
+   <ilce value="11006" data-url="/tr-TR/11006/dortmund-icin-namaz-vakti">DORTMUND</ilce>
+   <ilce value="10980" data-url="/tr-TR/10980/drensteinfurt-icin-namaz-vakti">DRENSTEINFURT</ilce>
+   <ilce value="11035" data-url="/tr-TR/11035/dresden-icin-namaz-vakti">DRESDEN</ilce>
+   <ilce value="10780" data-url="/tr-TR/10780/dudenhofen-icin-namaz-vakti">DUDENHOFEN</ilce>
+   <ilce value="10645" data-url="/tr-TR/10645/duderstadt-icin-namaz-vakti">DUDERSTADT</ilce>
+   <ilce value="11007" data-url="/tr-TR/11007/duisburg-icin-namaz-vakti">DUISBURG</ilce>
+   <ilce value="10984" data-url="/tr-TR/10984/dulmen-icin-namaz-vakti">DULMEN</ilce>
+   <ilce value="11122" data-url="/tr-TR/11122/duren-icin-namaz-vakti">DUREN</ilce>
+   <ilce value="10157" data-url="/tr-TR/10157/durlach-icin-namaz-vakti">DURLACH</ilce>
+   <ilce value="11008" data-url="/tr-TR/11008/dusseldorf-icin-namaz-vakti">DUSSELDORF</ilce>
+   <ilce value="10082" data-url="/tr-TR/10082/eberbach-icin-namaz-vakti">EBERBACH</ilce>
+   <ilce value="10854" data-url="/tr-TR/10854/ebersbach-an-der-fils-icin-namaz-vakti">EBERSBACH AN DER FILS</ilce>
+   <ilce value="10083" data-url="/tr-TR/10083/eberswalde-icin-namaz-vakti">EBERSWALDE</ilce>
+   <ilce value="10084" data-url="/tr-TR/10084/ebingen-icin-namaz-vakti">EBINGEN</ilce>
+   <ilce value="10860" data-url="/tr-TR/10860/ebrach-wurzburg-icin-namaz-vakti">EBRACH (Wurzburg)</ilce>
+   <ilce value="10985" data-url="/tr-TR/10985/eckernforde-icin-namaz-vakti">ECKERNFORDE</ilce>
+   <ilce value="10085" data-url="/tr-TR/10085/ehingen-donau-icin-namaz-vakti">EHINGEN (DONAU)</ilce>
+   <ilce value="10849" data-url="/tr-TR/10849/ehningen-icin-namaz-vakti">EHNINGEN</ilce>
+   <ilce value="10986" data-url="/tr-TR/10986/ehringshausen-icin-namaz-vakti">EHRINGSHAUSEN</ilce>
+   <ilce value="10086" data-url="/tr-TR/10086/eichstatt-icin-namaz-vakti">EICHSTATT</ilce>
+   <ilce value="10678" data-url="/tr-TR/10678/eilenburg-s-icin-namaz-vakti">EILENBURG (S)</ilce>
+   <ilce value="10624" data-url="/tr-TR/10624/eisenach-icin-namaz-vakti">EISENACH</ilce>
+   <ilce value="10987" data-url="/tr-TR/10987/eisenberg-icin-namaz-vakti">EISENBERG</ilce>
+   <ilce value="10641" data-url="/tr-TR/10641/eisenhuttenstadt-icin-namaz-vakti">EISENHUTTENSTADT</ilce>
+   <ilce value="10679" data-url="/tr-TR/10679/eisleben-s-a-icin-namaz-vakti">EISLEBEN (S-A)</ilce>
+   <ilce value="10855" data-url="/tr-TR/10855/eislingen-icin-namaz-vakti">EISLINGEN</ilce>
+   <ilce value="10988" data-url="/tr-TR/10988/eitorf-icin-namaz-vakti">EITORF</ilce>
+   <ilce value="10087" data-url="/tr-TR/10087/ellwangen-icin-namaz-vakti">ELLWANGEN</ilce>
+   <ilce value="10989" data-url="/tr-TR/10989/elmshorn-icin-namaz-vakti">ELMSHORN</ilce>
+   <ilce value="10990" data-url="/tr-TR/10990/elsdorf-icin-namaz-vakti">ELSDORF</ilce>
+   <ilce value="10590" data-url="/tr-TR/10590/elsfeth-icin-namaz-vakti">ELSFETH</ilce>
+   <ilce value="10765" data-url="/tr-TR/10765/eltville-icin-namaz-vakti">ELTVILLE</ilce>
+   <ilce value="10991" data-url="/tr-TR/10991/emden-icin-namaz-vakti">EMDEN</ilce>
+   <ilce value="10992" data-url="/tr-TR/10992/emmelshausen-icin-namaz-vakti">EMMELSHAUSEN</ilce>
+   <ilce value="10993" data-url="/tr-TR/10993/emmendingen-icin-namaz-vakti">EMMENDINGEN</ilce>
+   <ilce value="11052" data-url="/tr-TR/11052/emmerich-icin-namaz-vakti">EMMERICH</ilce>
+   <ilce value="10994" data-url="/tr-TR/10994/emmerthal-icin-namaz-vakti">EMMERTHAL</ilce>
+   <ilce value="10995" data-url="/tr-TR/10995/engelskirchen-icin-namaz-vakti">ENGELSKIRCHEN</ilce>
+   <ilce value="10728" data-url="/tr-TR/10728/ennepetal-icin-namaz-vakti">ENNEPETAL</ilce>
+   <ilce value="10443" data-url="/tr-TR/10443/ennetach--mengen-icin-namaz-vakti">ENNETACH / MENGEN</ilce>
+   <ilce value="10781" data-url="/tr-TR/10781/eppertshausen-icin-namaz-vakti">EPPERTSHAUSEN</ilce>
+   <ilce value="10088" data-url="/tr-TR/10088/eppingen-icin-namaz-vakti">EPPINGEN</ilce>
+   <ilce value="10996" data-url="/tr-TR/10996/erbach-icin-namaz-vakti">ERBACH</ilce>
+   <ilce value="10818" data-url="/tr-TR/10818/erding-icin-namaz-vakti">ERDING</ilce>
+   <ilce value="10997" data-url="/tr-TR/10997/erftstadt-icin-namaz-vakti">ERFTSTADT</ilce>
+   <ilce value="10874" data-url="/tr-TR/10874/erfurt-icin-namaz-vakti">ERFURT</ilce>
+   <ilce value="10834" data-url="/tr-TR/10834/ergoldsbach-icin-namaz-vakti">ERGOLDSBACH</ilce>
+   <ilce value="10998" data-url="/tr-TR/10998/erkelenz-icin-namaz-vakti">ERKELENZ</ilce>
+   <ilce value="10999" data-url="/tr-TR/10999/erkrath-icin-namaz-vakti">ERKRATH</ilce>
+   <ilce value="10561" data-url="/tr-TR/10561/erlangen-icin-namaz-vakti">ERLANGEN</ilce>
+   <ilce value="10001" data-url="/tr-TR/10001/erle-icin-namaz-vakti">ERLE</ilce>
+   <ilce value="10089" data-url="/tr-TR/10089/erlenbach-am-main-icin-namaz-vakti">ERLENBACH AM MAIN</ilce>
+   <ilce value="11000" data-url="/tr-TR/11000/eschborn-icin-namaz-vakti">ESCHBORN</ilce>
+   <ilce value="11001" data-url="/tr-TR/11001/eschweiler-icin-namaz-vakti">ESCHWEILER</ilce>
+   <ilce value="9975" data-url="/tr-TR/9975/eslohe-icin-namaz-vakti">ESLOHE</ilce>
+   <ilce value="9976" data-url="/tr-TR/9976/espelkamp-icin-namaz-vakti">ESPELKAMP</ilce>
+   <ilce value="16758" data-url="/tr-TR/16758/espelkamprahden-icin-namaz-vakti">ESPELKAMP/RAHDEN</ilce>
+   <ilce value="11009" data-url="/tr-TR/11009/essen-icin-namaz-vakti">ESSEN</ilce>
+   <ilce value="10814" data-url="/tr-TR/10814/essenbach-landshut-icin-namaz-vakti">ESSENBACH (Landshut)</ilce>
+   <ilce value="11121" data-url="/tr-TR/11121/esslingen-icin-namaz-vakti">ESSLINGEN</ilce>
+   <ilce value="9980" data-url="/tr-TR/9980/ettlingen-icin-namaz-vakti">ETTLINGEN</ilce>
+   <ilce value="10750" data-url="/tr-TR/10750/ettringen-icin-namaz-vakti">ETTRINGEN</ilce>
+   <ilce value="9981" data-url="/tr-TR/9981/euskirchen-icin-namaz-vakti">EUSKIRCHEN</ilce>
+   <ilce value="10090" data-url="/tr-TR/10090/eutin-icin-namaz-vakti">EUTIN</ilce>
+   <ilce value="10091" data-url="/tr-TR/10091/falkense-icin-namaz-vakti">FALKENSE</ilce>
+   <ilce value="9990" data-url="/tr-TR/9990/faurstenfeldbruck-icin-namaz-vakti">FAURSTENFELDBRUCK</ilce>
+   <ilce value="10092" data-url="/tr-TR/10092/felsberg-icin-namaz-vakti">FELSBERG</ilce>
+   <ilce value="10093" data-url="/tr-TR/10093/filderstadt-icin-namaz-vakti">FILDERSTADT</ilce>
+   <ilce value="10949" data-url="/tr-TR/10949/findorf-icin-namaz-vakti">FINDORF</ilce>
+   <ilce value="10031" data-url="/tr-TR/10031/finkenwerder-icin-namaz-vakti">FINKENWERDER</ilce>
+   <ilce value="10607" data-url="/tr-TR/10607/finsterwalde-icin-namaz-vakti">FINSTERWALDE</ilce>
+   <ilce value="11118" data-url="/tr-TR/11118/flensburg-icin-namaz-vakti">FLENSBURG</ilce>
+   <ilce value="10766" data-url="/tr-TR/10766/florsheim-icin-namaz-vakti">FLORSHEIM</ilce>
+   <ilce value="10802" data-url="/tr-TR/10802/forbach-icin-namaz-vakti">FORBACH</ilce>
+   <ilce value="10094" data-url="/tr-TR/10094/forcheim-icin-namaz-vakti">FORCHEIM</ilce>
+   <ilce value="10608" data-url="/tr-TR/10608/forst-cottbus-icin-namaz-vakti">FORST (COTTBUS)</ilce>
+   <ilce value="10598" data-url="/tr-TR/10598/frankenberg-s-icin-namaz-vakti">FRANKENBERG (S)</ilce>
+   <ilce value="9982" data-url="/tr-TR/9982/frankenberg-eder-icin-namaz-vakti">FRANKENBERG /EDER</ilce>
+   <ilce value="9983" data-url="/tr-TR/9983/frankenthal-icin-namaz-vakti">FRANKENTHAL</ilce>
+   <ilce value="11010" data-url="/tr-TR/11010/frankfurt-icin-namaz-vakti">FRANKFURT</ilce>
+   <ilce value="10639" data-url="/tr-TR/10639/frankfurt--oder-icin-namaz-vakti">FRANKFURT / ODER</ilce>
+   <ilce value="9984" data-url="/tr-TR/9984/frechen-icin-namaz-vakti">FRECHEN</ilce>
+   <ilce value="10095" data-url="/tr-TR/10095/freiberg-icin-namaz-vakti">FREIBERG</ilce>
+   <ilce value="11011" data-url="/tr-TR/11011/freiburg-icin-namaz-vakti">FREIBURG</ilce>
+   <ilce value="10096" data-url="/tr-TR/10096/freising-icin-namaz-vakti">FREISING</ilce>
+   <ilce value="9985" data-url="/tr-TR/9985/freudensatdt-icin-namaz-vakti">FREUDENSATDT</ilce>
+   <ilce value="9986" data-url="/tr-TR/9986/freystadt-icin-namaz-vakti">FREYSTADT</ilce>
+   <ilce value="9987" data-url="/tr-TR/9987/friedberg-bavaria-icin-namaz-vakti">FRIEDBERG (BAVARIA)</ilce>
+   <ilce value="9988" data-url="/tr-TR/9988/friedberg-hessen-icin-namaz-vakti">FRIEDBERG (HESSEN)</ilce>
+   <ilce value="9989" data-url="/tr-TR/9989/friedrechsdrof-icin-namaz-vakti">FRIEDRECHSDROF</ilce>
+   <ilce value="11046" data-url="/tr-TR/11046/friedrichshafen-icin-namaz-vakti">FRIEDRICHSHAFEN</ilce>
+   <ilce value="10725" data-url="/tr-TR/10725/frondenberg-icin-namaz-vakti">FRONDENBERG</ilce>
+   <ilce value="11030" data-url="/tr-TR/11030/fulda-icin-namaz-vakti">FULDA</ilce>
+   <ilce value="10819" data-url="/tr-TR/10819/furstenfeldbruck-icin-namaz-vakti">FURSTENFELDBRUCK</ilce>
+   <ilce value="10097" data-url="/tr-TR/10097/furstenwalde-icin-namaz-vakti">FURSTENWALDE</ilce>
+   <ilce value="11081" data-url="/tr-TR/11081/furth-icin-namaz-vakti">FURTH</ilce>
+   <ilce value="9992" data-url="/tr-TR/9992/furth-odw-hessen-icin-namaz-vakti">FURTH ODW. (HESSEN)</ilce>
+   <ilce value="9991" data-url="/tr-TR/9991/furthen-sieg-icin-namaz-vakti">FURTHEN (SIEG)</ilce>
+   <ilce value="9993" data-url="/tr-TR/9993/furtwangen-icin-namaz-vakti">FURTWANGEN</ilce>
+   <ilce value="10098" data-url="/tr-TR/10098/fussen-icin-namaz-vakti">FUSSEN</ilce>
+   <ilce value="9994" data-url="/tr-TR/9994/gaggenau-icin-namaz-vakti">GAGGENAU</ilce>
+   <ilce value="10099" data-url="/tr-TR/10099/gaildorf-icin-namaz-vakti">GAILDORF</ilce>
+   <ilce value="10100" data-url="/tr-TR/10100/gammertingen-icin-namaz-vakti">GAMMERTINGEN</ilce>
+   <ilce value="10591" data-url="/tr-TR/10591/ganderkesee-icin-namaz-vakti">GANDERKESEE</ilce>
+   <ilce value="9995" data-url="/tr-TR/9995/garbsen-icin-namaz-vakti">GARBSEN</ilce>
+   <ilce value="9996" data-url="/tr-TR/9996/garching-icin-namaz-vakti">GARCHING</ilce>
+   <ilce value="9997" data-url="/tr-TR/9997/garmisch-part-icin-namaz-vakti">GARMISCH-PART.</ilce>
+   <ilce value="10592" data-url="/tr-TR/10592/garrel-icin-namaz-vakti">GARREL</ilce>
+   <ilce value="10820" data-url="/tr-TR/10820/gauting-icin-namaz-vakti">GAUTING</ilce>
+   <ilce value="10102" data-url="/tr-TR/10102/geesthacht-icin-namaz-vakti">GEESTHACHT</ilce>
+   <ilce value="10756" data-url="/tr-TR/10756/geilenkirchen-nrw-icin-namaz-vakti">GEILENKIRCHEN (NRW)</ilce>
+   <ilce value="9998" data-url="/tr-TR/9998/geisenfeld-icin-namaz-vakti">GEISENFELD</ilce>
+   <ilce value="10103" data-url="/tr-TR/10103/geislingen-steige-icin-namaz-vakti">GEISLINGEN (STEIGE)</ilce>
+   <ilce value="9999" data-url="/tr-TR/9999/geldern-icin-namaz-vakti">GELDERN</ilce>
+   <ilce value="10104" data-url="/tr-TR/10104/gelnhausen-icin-namaz-vakti">GELNHAUSEN</ilce>
+   <ilce value="10713" data-url="/tr-TR/10713/gelsdorf-icin-namaz-vakti">GELSDORF</ilce>
+   <ilce value="11037" data-url="/tr-TR/11037/gelsenkirchen-icin-namaz-vakti">GELSENKIRCHEN</ilce>
+   <ilce value="10005" data-url="/tr-TR/10005/gengenbach-icin-namaz-vakti">GENGENBACH</ilce>
+   <ilce value="10006" data-url="/tr-TR/10006/genthin-icin-namaz-vakti">GENTHIN</ilce>
+   <ilce value="10007" data-url="/tr-TR/10007/georgsmarienhutte-icin-namaz-vakti">GEORGSMARIENHUTTE</ilce>
+   <ilce value="10008" data-url="/tr-TR/10008/gera-icin-namaz-vakti">GERA</ilce>
+   <ilce value="10009" data-url="/tr-TR/10009/germering-icin-namaz-vakti">GERMERING</ilce>
+   <ilce value="10556" data-url="/tr-TR/10556/germersheim-icin-namaz-vakti">GERMERSHEIM</ilce>
+   <ilce value="10010" data-url="/tr-TR/10010/gerolstein-icin-namaz-vakti">GEROLSTEIN</ilce>
+   <ilce value="10105" data-url="/tr-TR/10105/gersthofen-icin-namaz-vakti">GERSTHOFEN</ilce>
+   <ilce value="10011" data-url="/tr-TR/10011/geseke-icin-namaz-vakti">GESEKE</ilce>
+   <ilce value="10012" data-url="/tr-TR/10012/gevelsberg-icin-namaz-vakti">GEVELSBERG</ilce>
+   <ilce value="10106" data-url="/tr-TR/10106/giengen-an-der-brenz-icin-namaz-vakti">GIENGEN AN DER BRENZ</ilce>
+   <ilce value="11032" data-url="/tr-TR/11032/giessen-icin-namaz-vakti">GIESSEN</ilce>
+   <ilce value="10101" data-url="/tr-TR/10101/gifhorn-icin-namaz-vakti">GIFHORN</ilce>
+   <ilce value="10013" data-url="/tr-TR/10013/gilching-icin-namaz-vakti">GILCHING</ilce>
+   <ilce value="10767" data-url="/tr-TR/10767/ginsheim-icin-namaz-vakti">GINSHEIM</ilce>
+   <ilce value="10714" data-url="/tr-TR/10714/gladbach-nrw-icin-namaz-vakti">GLADBACH (NRW)</ilce>
+   <ilce value="10014" data-url="/tr-TR/10014/gladbeck-icin-namaz-vakti">GLADBECK</ilce>
+   <ilce value="10015" data-url="/tr-TR/10015/gladenbach-icin-namaz-vakti">GLADENBACH</ilce>
+   <ilce value="10107" data-url="/tr-TR/10107/glauchau-icin-namaz-vakti">GLAUCHAU</ilce>
+   <ilce value="10654" data-url="/tr-TR/10654/glinde-hamburg-icin-namaz-vakti">GLINDE (HAMBURG)</ilce>
+   <ilce value="10632" data-url="/tr-TR/10632/glucksburg-icin-namaz-vakti">GLUCKSBURG</ilce>
+   <ilce value="10016" data-url="/tr-TR/10016/gluckstadt-icin-namaz-vakti">GLUCKSTADT</ilce>
+   <ilce value="10782" data-url="/tr-TR/10782/goldbach-aschafenburg-icin-namaz-vakti">GOLDBACH (Aschafenburg)</ilce>
+   <ilce value="10841" data-url="/tr-TR/10841/gomaringen-icin-namaz-vakti">GOMARINGEN</ilce>
+   <ilce value="10694" data-url="/tr-TR/10694/gommern-icin-namaz-vakti">GOMMERN</ilce>
+   <ilce value="11044" data-url="/tr-TR/11044/goppingen-icin-namaz-vakti">GOPPINGEN</ilce>
+   <ilce value="10017" data-url="/tr-TR/10017/gorlitz-icin-namaz-vakti">GORLITZ</ilce>
+   <ilce value="10108" data-url="/tr-TR/10108/goslar-icin-namaz-vakti">GOSLAR</ilce>
+   <ilce value="10625" data-url="/tr-TR/10625/gotha-t-icin-namaz-vakti">GOTHA (T)</ilce>
+   <ilce value="11105" data-url="/tr-TR/11105/gottingen-icin-namaz-vakti">GOTTINGEN</ilce>
+   <ilce value="10109" data-url="/tr-TR/10109/gottmadingen-icin-namaz-vakti">GOTTMADINGEN</ilce>
+   <ilce value="10018" data-url="/tr-TR/10018/graben-neudorf-icin-namaz-vakti">GRABEN-NEUDORF</ilce>
+   <ilce value="10019" data-url="/tr-TR/10019/grasellenbach-icin-namaz-vakti">GRASELLENBACH</ilce>
+   <ilce value="16755" data-url="/tr-TR/16755/greffern-icin-namaz-vakti">GREFFERN</ilce>
+   <ilce value="10564" data-url="/tr-TR/10564/greifswald-icin-namaz-vakti">GREIFSWALD</ilce>
+   <ilce value="10020" data-url="/tr-TR/10020/greven-icin-namaz-vakti">GREVEN</ilce>
+   <ilce value="10021" data-url="/tr-TR/10021/grevenbroich-icin-namaz-vakti">GREVENBROICH</ilce>
+   <ilce value="10684" data-url="/tr-TR/10684/grevesmuhlen-icin-namaz-vakti">GREVESMUHLEN</ilce>
+   <ilce value="10719" data-url="/tr-TR/10719/griesheim-h-icin-namaz-vakti">GRIESHEIM (H)</ilce>
+   <ilce value="10110" data-url="/tr-TR/10110/gromitz-icin-namaz-vakti">GROMITZ</ilce>
+   <ilce value="11114" data-url="/tr-TR/11114/gronau-icin-namaz-vakti">GRONAU</ilce>
+   <ilce value="10022" data-url="/tr-TR/10022/gross-gerau-icin-namaz-vakti">GROSS-GERAU</ilce>
+   <ilce value="10610" data-url="/tr-TR/10610/grossraschen-icin-namaz-vakti">GROSSRASCHEN</ilce>
+   <ilce value="10720" data-url="/tr-TR/10720/gross-umstadt-icin-namaz-vakti">GROSS-UMSTADT</ilce>
+   <ilce value="10721" data-url="/tr-TR/10721/gross-zimmern-icin-namaz-vakti">GROSS-ZIMMERN</ilce>
+   <ilce value="10023" data-url="/tr-TR/10023/grunstadt-icin-namaz-vakti">GRUNSTADT</ilce>
+   <ilce value="10821" data-url="/tr-TR/10821/grunwald-icin-namaz-vakti">GRUNWALD</ilce>
+   <ilce value="10609" data-url="/tr-TR/10609/guben-icin-namaz-vakti">GUBEN</ilce>
+   <ilce value="10024" data-url="/tr-TR/10024/guglingen--eibensbac-icin-namaz-vakti">GUGLINGEN -EIBENSBAC</ilce>
+   <ilce value="10025" data-url="/tr-TR/10025/gummersbach-icin-namaz-vakti">GUMMERSBACH</ilce>
+   <ilce value="10111" data-url="/tr-TR/10111/gundelsheim-icin-namaz-vakti">GUNDELSHEIM</ilce>
+   <ilce value="10112" data-url="/tr-TR/10112/gunzburg-icin-namaz-vakti">GUNZBURG</ilce>
+   <ilce value="10113" data-url="/tr-TR/10113/gunzenhausen-icin-namaz-vakti">GUNZENHAUSEN</ilce>
+   <ilce value="10795" data-url="/tr-TR/10795/gurnstadt-rp-icin-namaz-vakti">GURNSTADT (RP)</ilce>
+   <ilce value="10706" data-url="/tr-TR/10706/gurzenich-icin-namaz-vakti">GURZENICH</ilce>
+   <ilce value="10026" data-url="/tr-TR/10026/gutersloh-icin-namaz-vakti">GUTERSLOH</ilce>
+   <ilce value="10822" data-url="/tr-TR/10822/haar-munih-icin-namaz-vakti">HAAR (Munih)</ilce>
+   <ilce value="10751" data-url="/tr-TR/10751/hadamar-icin-namaz-vakti">HADAMAR</ilce>
+   <ilce value="11077" data-url="/tr-TR/11077/hagen-ruhr-valley-icin-namaz-vakti">HAGEN (Ruhr Valley)</ilce>
+   <ilce value="10783" data-url="/tr-TR/10783/haibach-aschafenburg-icin-namaz-vakti">HAIBACH (Aschafenburg)</ilce>
+   <ilce value="10029" data-url="/tr-TR/10029/haiger-icin-namaz-vakti">HAIGER</ilce>
+   <ilce value="10114" data-url="/tr-TR/10114/haigerloch-icin-namaz-vakti">HAIGERLOCH</ilce>
+   <ilce value="10695" data-url="/tr-TR/10695/haldensleben-icin-namaz-vakti">HALDENSLEBEN</ilce>
+   <ilce value="10773" data-url="/tr-TR/10773/halle-nrw-icin-namaz-vakti">HALLE (NRW)</ilce>
+   <ilce value="11089" data-url="/tr-TR/11089/hallesaxony-anhalt-icin-namaz-vakti">HALLE(Saxony-Anhalt)</ilce>
+   <ilce value="10030" data-url="/tr-TR/10030/halver-icin-namaz-vakti">HALVER</ilce>
+   <ilce value="11012" data-url="/tr-TR/11012/hamburg-icin-namaz-vakti">HAMBURG</ilce>
+   <ilce value="10035" data-url="/tr-TR/10035/hameln-icin-namaz-vakti">HAMELN</ilce>
+   <ilce value="11127" data-url="/tr-TR/11127/hamm-icin-namaz-vakti">HAMM</ilce>
+   <ilce value="10200" data-url="/tr-TR/10200/hamm-marl-icin-namaz-vakti">HAMM (MARL)</ilce>
+   <ilce value="10040" data-url="/tr-TR/10040/hanau-icin-namaz-vakti">HANAU</ilce>
+   <ilce value="17843" data-url="/tr-TR/17843/hann-munden-icin-namaz-vakti">HANN MUNDEN</ilce>
+   <ilce value="11013" data-url="/tr-TR/11013/hannover-icin-namaz-vakti">HANNOVER</ilce>
+   <ilce value="10032" data-url="/tr-TR/10032/harburg-icin-namaz-vakti">HARBURG</ilce>
+   <ilce value="10646" data-url="/tr-TR/10646/hardegsen-icin-namaz-vakti">HARDEGSEN</ilce>
+   <ilce value="10041" data-url="/tr-TR/10041/harsewinkel-icin-namaz-vakti">HARSEWINKEL</ilce>
+   <ilce value="10042" data-url="/tr-TR/10042/haslach-icin-namaz-vakti">HASLACH</ilce>
+   <ilce value="10027" data-url="/tr-TR/10027/haspe-icin-namaz-vakti">HASPE</ilce>
+   <ilce value="10002" data-url="/tr-TR/10002/hassel-icin-namaz-vakti">HASSEL</ilce>
+   <ilce value="10043" data-url="/tr-TR/10043/hattingen-icin-namaz-vakti">HATTINGEN</ilce>
+   <ilce value="10370" data-url="/tr-TR/10370/haushammiesbach-icin-namaz-vakti">HAUSHAM/MIESBACH</ilce>
+   <ilce value="10371" data-url="/tr-TR/10371/hechingen-icin-namaz-vakti">HECHINGEN</ilce>
+   <ilce value="10036" data-url="/tr-TR/10036/heessen-icin-namaz-vakti">HEESSEN</ilce>
+   <ilce value="10117" data-url="/tr-TR/10117/heide-icin-namaz-vakti">HEIDE</ilce>
+   <ilce value="11033" data-url="/tr-TR/11033/heidelberg-icin-namaz-vakti">HEIDELBERG</ilce>
+   <ilce value="11103" data-url="/tr-TR/11103/heidenheim-icin-namaz-vakti">HEIDENHEIM</ilce>
+   <ilce value="11051" data-url="/tr-TR/11051/heilbronn-icin-namaz-vakti">HEILBRONN</ilce>
+   <ilce value="10118" data-url="/tr-TR/10118/heiligenhaus-icin-namaz-vakti">HEILIGENHAUS</ilce>
+   <ilce value="10647" data-url="/tr-TR/10647/heiligenstadt-thuringen-icin-namaz-vakti">HEILIGENSTADT (Thuringen)</ilce>
+   <ilce value="10119" data-url="/tr-TR/10119/heinsberg-icin-namaz-vakti">HEINSBERG</ilce>
+   <ilce value="10120" data-url="/tr-TR/10120/helmbrechts-icin-namaz-vakti">HELMBRECHTS</ilce>
+   <ilce value="10372" data-url="/tr-TR/10372/helmstedt-icin-namaz-vakti">HELMSTEDT</ilce>
+   <ilce value="10121" data-url="/tr-TR/10121/hemer-icin-namaz-vakti">HEMER</ilce>
+   <ilce value="10553" data-url="/tr-TR/10553/hengelo-gelderland-icin-namaz-vakti">HENGELO (GELDERLAND)</ilce>
+   <ilce value="10715" data-url="/tr-TR/10715/hennef-icin-namaz-vakti">HENNEF</ilce>
+   <ilce value="10122" data-url="/tr-TR/10122/heppenheim-adberg-icin-namaz-vakti">HEPPENHEIM A.D.BERG.</ilce>
+   <ilce value="10123" data-url="/tr-TR/10123/herborn-icin-namaz-vakti">HERBORN</ilce>
+   <ilce value="10742" data-url="/tr-TR/10742/herdecke-icin-namaz-vakti">HERDECKE</ilce>
+   <ilce value="10124" data-url="/tr-TR/10124/herford-icin-namaz-vakti">HERFORD</ilce>
+   <ilce value="10565" data-url="/tr-TR/10565/herne-icin-namaz-vakti">HERNE</ilce>
+   <ilce value="11080" data-url="/tr-TR/11080/herrenberg-icin-namaz-vakti">HERRENBERG</ilce>
+   <ilce value="10037" data-url="/tr-TR/10037/herringen-icin-namaz-vakti">HERRINGEN</ilce>
+   <ilce value="10373" data-url="/tr-TR/10373/hersbruck-icin-namaz-vakti">HERSBRUCK</ilce>
+   <ilce value="10125" data-url="/tr-TR/10125/herten-icin-namaz-vakti">HERTEN</ilce>
+   <ilce value="10374" data-url="/tr-TR/10374/herzberg-am-harz-icin-namaz-vakti">HERZBERG AM HARZ</ilce>
+   <ilce value="10375" data-url="/tr-TR/10375/herzogenaurach-icin-namaz-vakti">HERZOGENAURACH</ilce>
+   <ilce value="10127" data-url="/tr-TR/10127/herzogenrath-icin-namaz-vakti">HERZOGENRATH</ilce>
+   <ilce value="10376" data-url="/tr-TR/10376/hessisch-lichtenau-icin-namaz-vakti">HESSISCH LICHTENAU</ilce>
+   <ilce value="10128" data-url="/tr-TR/10128/hessisch-oldendorf-icin-namaz-vakti">HESSISCH OLDENDORF</ilce>
+   <ilce value="10377" data-url="/tr-TR/10377/heubach-icin-namaz-vakti">HEUBACH</ilce>
+   <ilce value="10712" data-url="/tr-TR/10712/hiddenhausen-icin-namaz-vakti">HIDDENHAUSEN</ilce>
+   <ilce value="10129" data-url="/tr-TR/10129/hilden-icin-namaz-vakti">HILDEN</ilce>
+   <ilce value="11054" data-url="/tr-TR/11054/hildesheim-icin-namaz-vakti">HILDESHEIM</ilce>
+   <ilce value="10130" data-url="/tr-TR/10130/hirschhorn-hessen-icin-namaz-vakti">HIRSCHHORN (HESSEN)</ilce>
+   <ilce value="10981" data-url="/tr-TR/10981/hochfeld-duis-icin-namaz-vakti">HOCHFELD (DUIS.)</ilce>
+   <ilce value="10131" data-url="/tr-TR/10131/hochheim-am-main-icin-namaz-vakti">HOCHHEIM AM MAIN</ilce>
+   <ilce value="10378" data-url="/tr-TR/10378/hochst-im-odenwald-icin-namaz-vakti">HOCHST IM ODENWALD</ilce>
+   <ilce value="10132" data-url="/tr-TR/10132/hockenheim-icin-namaz-vakti">HOCKENHEIM</ilce>
+   <ilce value="11085" data-url="/tr-TR/11085/hofbavaria-icin-namaz-vakti">HOF(Bavaria)</ilce>
+   <ilce value="10133" data-url="/tr-TR/10133/hofgeismar-icin-namaz-vakti">HOFGEISMAR</ilce>
+   <ilce value="10134" data-url="/tr-TR/10134/hofheim-icin-namaz-vakti">HOFHEIM</ilce>
+   <ilce value="10768" data-url="/tr-TR/10768/hofheim-a-taunus-icin-namaz-vakti">HOFHEIM A. TAUNUS</ilce>
+   <ilce value="10028" data-url="/tr-TR/10028/hohenlimburg-icin-namaz-vakti">HOHENLIMBURG</ilce>
+   <ilce value="10599" data-url="/tr-TR/10599/hohenstein-ernstthal-icin-namaz-vakti">HOHENSTEIN ERNSTTHAL</ilce>
+   <ilce value="10379" data-url="/tr-TR/10379/hohenstein--oberstet-icin-namaz-vakti">HOHENSTEIN -OBERSTET</ilce>
+   <ilce value="10669" data-url="/tr-TR/10669/hohenwestedt-icin-namaz-vakti">HOHENWESTEDT</ilce>
+   <ilce value="10135" data-url="/tr-TR/10135/hohr--grenzhausen-icin-namaz-vakti">HOHR -GRENZHAUSEN</ilce>
+   <ilce value="10380" data-url="/tr-TR/10380/holzminden-icin-namaz-vakti">HOLZMINDEN</ilce>
+   <ilce value="10136" data-url="/tr-TR/10136/hombruch-icin-namaz-vakti">HOMBRUCH</ilce>
+   <ilce value="10137" data-url="/tr-TR/10137/homburg-saar-icin-namaz-vakti">HOMBURG-SAAR</ilce>
+   <ilce value="10138" data-url="/tr-TR/10138/horb-neckar-icin-namaz-vakti">HORB-NECKAR</ilce>
+   <ilce value="10381" data-url="/tr-TR/10381/horgau-icin-namaz-vakti">HORGAU</ilce>
+   <ilce value="10139" data-url="/tr-TR/10139/horn---bad-meinberg-icin-namaz-vakti">HORN - BAD MEINBERG</ilce>
+   <ilce value="10003" data-url="/tr-TR/10003/horst-icin-namaz-vakti">HORST</ilce>
+   <ilce value="10784" data-url="/tr-TR/10784/hosbach-icin-namaz-vakti">HOSBACH</ilce>
+   <ilce value="10038" data-url="/tr-TR/10038/hovel-icin-namaz-vakti">HOVEL</ilce>
+   <ilce value="10140" data-url="/tr-TR/10140/hoxter-icin-namaz-vakti">HOXTER</ilce>
+   <ilce value="10382" data-url="/tr-TR/10382/hoyerswerda-icin-namaz-vakti">HOYERSWERDA</ilce>
+   <ilce value="10141" data-url="/tr-TR/10141/huckelhoven-icin-namaz-vakti">HUCKELHOVEN</ilce>
+   <ilce value="10383" data-url="/tr-TR/10383/hufingen-icin-namaz-vakti">HUFINGEN</ilce>
+   <ilce value="10142" data-url="/tr-TR/10142/hungen-icin-namaz-vakti">HUNGEN</ilce>
+   <ilce value="10143" data-url="/tr-TR/10143/hunteburg-icin-namaz-vakti">HUNTEBURG</ilce>
+   <ilce value="10144" data-url="/tr-TR/10144/hurth-icin-namaz-vakti">HURTH</ilce>
+   <ilce value="10145" data-url="/tr-TR/10145/husum-icin-namaz-vakti">HUSUM</ilce>
+   <ilce value="10757" data-url="/tr-TR/10757/hutzemert-icin-namaz-vakti">HUTZEMERT</ilce>
+   <ilce value="10146" data-url="/tr-TR/10146/ibbenburen-icin-namaz-vakti">IBBENBUREN</ilce>
+   <ilce value="10384" data-url="/tr-TR/10384/ichenhausen-icin-namaz-vakti">ICHENHAUSEN</ilce>
+   <ilce value="10147" data-url="/tr-TR/10147/idstein-icin-namaz-vakti">IDSTEIN</ilce>
+   <ilce value="10835" data-url="/tr-TR/10835/ihrlestein-icin-namaz-vakti">IHRLESTEIN</ilce>
+   <ilce value="10385" data-url="/tr-TR/10385/illertissen-icin-namaz-vakti">ILLERTISSEN</ilce>
+   <ilce value="10626" data-url="/tr-TR/10626/ilmenau-t-icin-namaz-vakti">ILMENAU (T)</ilce>
+   <ilce value="10806" data-url="/tr-TR/10806/immenstaad-icin-namaz-vakti">IMMENSTAAD</ilce>
+   <ilce value="10386" data-url="/tr-TR/10386/immenstadt-icin-namaz-vakti">IMMENSTADT</ilce>
+   <ilce value="10148" data-url="/tr-TR/10148/ingelheim-icin-namaz-vakti">INGELHEIM</ilce>
+   <ilce value="11108" data-url="/tr-TR/11108/ingolstadt-icin-namaz-vakti">INGOLSTADT</ilce>
+   <ilce value="10387" data-url="/tr-TR/10387/inningen-icin-namaz-vakti">INNINGEN</ilce>
+   <ilce value="10149" data-url="/tr-TR/10149/iserlohn-icin-namaz-vakti">ISERLOHN</ilce>
+   <ilce value="10663" data-url="/tr-TR/10663/isernhagen-fb-icin-namaz-vakti">ISERNHAGEN F.B.</ilce>
+   <ilce value="10388" data-url="/tr-TR/10388/isny-icin-namaz-vakti">ISNY</ilce>
+   <ilce value="10150" data-url="/tr-TR/10150/itzehoe-icin-namaz-vakti">ITZEHOE</ilce>
+   <ilce value="10627" data-url="/tr-TR/10627/jena-icin-namaz-vakti">JENA</ilce>
+   <ilce value="10151" data-url="/tr-TR/10151/juchen-icin-namaz-vakti">JUCHEN</ilce>
+   <ilce value="10707" data-url="/tr-TR/10707/julich-icin-namaz-vakti">JULICH</ilce>
+   <ilce value="10152" data-url="/tr-TR/10152/junkerath-icin-namaz-vakti">JUNKERATH</ilce>
+   <ilce value="10389" data-url="/tr-TR/10389/juterborg-icin-namaz-vakti">JUTERBORG</ilce>
+   <ilce value="10752" data-url="/tr-TR/10752/kaisersesch-icin-namaz-vakti">KAISERSESCH</ilce>
+   <ilce value="10581" data-url="/tr-TR/10581/kaiserslautern-icin-namaz-vakti">KAISERSLAUTERN</ilce>
+   <ilce value="10760" data-url="/tr-TR/10760/kaldenkirchen-icin-namaz-vakti">KALDENKIRCHEN</ilce>
+   <ilce value="10153" data-url="/tr-TR/10153/kaltenkirchen-icin-namaz-vakti">KALTENKIRCHEN</ilce>
+   <ilce value="10154" data-url="/tr-TR/10154/kamen-icin-namaz-vakti">KAMEN</ilce>
+   <ilce value="10155" data-url="/tr-TR/10155/kamp--lintfrot-icin-namaz-vakti">KAMP -LINTFROT</ilce>
+   <ilce value="10633" data-url="/tr-TR/10633/kappeln-icin-namaz-vakti">KAPPELN</ilce>
+   <ilce value="10156" data-url="/tr-TR/10156/karben-icin-namaz-vakti">KARBEN</ilce>
+   <ilce value="11014" data-url="/tr-TR/11014/karlsruhe-icin-namaz-vakti">KARLSRUHE</ilce>
+   <ilce value="10390" data-url="/tr-TR/10390/karlstadt-icin-namaz-vakti">KARLSTADT</ilce>
+   <ilce value="11015" data-url="/tr-TR/11015/kassel-icin-namaz-vakti">KASSEL</ilce>
+   <ilce value="10392" data-url="/tr-TR/10392/kaufbeuren-icin-namaz-vakti">KAUFBEUREN</ilce>
+   <ilce value="11123" data-url="/tr-TR/11123/kehl-icin-namaz-vakti">KEHL</ilce>
+   <ilce value="10158" data-url="/tr-TR/10158/kelheim-icin-namaz-vakti">KELHEIM</ilce>
+   <ilce value="10733" data-url="/tr-TR/10733/kelkheim-icin-namaz-vakti">KELKHEIM</ilce>
+   <ilce value="10670" data-url="/tr-TR/10670/kellinghusen-icin-namaz-vakti">KELLINGHUSEN</ilce>
+   <ilce value="10159" data-url="/tr-TR/10159/kelsterbach-icin-namaz-vakti">KELSTERBACH</ilce>
+   <ilce value="10761" data-url="/tr-TR/10761/kempen-nrw-icin-namaz-vakti">KEMPEN (NRW)</ilce>
+   <ilce value="11104" data-url="/tr-TR/11104/kempten-icin-namaz-vakti">KEMPTEN</ilce>
+   <ilce value="10160" data-url="/tr-TR/10160/kerpen-icin-namaz-vakti">KERPEN</ilce>
+   <ilce value="11016" data-url="/tr-TR/11016/kiel-icin-namaz-vakti">KIEL</ilce>
+   <ilce value="10162" data-url="/tr-TR/10162/kipfenberg-icin-namaz-vakti">KIPFENBERG</ilce>
+   <ilce value="10033" data-url="/tr-TR/10033/kirchdorf-icin-namaz-vakti">KIRCHDORF</ilce>
+   <ilce value="10393" data-url="/tr-TR/10393/kirchdorf--iller-icin-namaz-vakti">KIRCHDORF -ILLER</ilce>
+   <ilce value="10163" data-url="/tr-TR/10163/kirchhain-icin-namaz-vakti">KIRCHHAIN</ilce>
+   <ilce value="10395" data-url="/tr-TR/10395/kirchheim-teck-icin-namaz-vakti">KIRCHHEIM (TECK)</ilce>
+   <ilce value="16752" data-url="/tr-TR/16752/kirchseeon-icin-namaz-vakti">KIRCHSEEON</ilce>
+   <ilce value="10394" data-url="/tr-TR/10394/kirhheim-neckar-icin-namaz-vakti">KIRHHEIM (NECKAR)</ilce>
+   <ilce value="10164" data-url="/tr-TR/10164/kirn-icin-namaz-vakti">KIRN</ilce>
+   <ilce value="10396" data-url="/tr-TR/10396/kitzingen-icin-namaz-vakti">KITZINGEN</ilce>
+   <ilce value="10796" data-url="/tr-TR/10796/klingenthal-s-icin-namaz-vakti">KLINGENTHAL (S)</ilce>
+   <ilce value="11017" data-url="/tr-TR/11017/koblenz-icin-namaz-vakti">KOBLENZ</ilce>
+   <ilce value="10708" data-url="/tr-TR/10708/kohlscheid-icin-namaz-vakti">KOHLSCHEID</ilce>
+   <ilce value="10397" data-url="/tr-TR/10397/kolbermoor-icin-namaz-vakti">KOLBERMOOR</ilce>
+   <ilce value="11019" data-url="/tr-TR/11019/koln-icin-namaz-vakti">KOLN</ilce>
+   <ilce value="10398" data-url="/tr-TR/10398/kongen-icin-namaz-vakti">KONGEN</ilce>
+   <ilce value="10861" data-url="/tr-TR/10861/konighofen-im-grabfeld-icin-namaz-vakti">KONIGHOFEN IM GRABFELD</ilce>
+   <ilce value="10399" data-url="/tr-TR/10399/konigsbrunn-icin-namaz-vakti">KONIGSBRUNN</ilce>
+   <ilce value="10400" data-url="/tr-TR/10400/konigslutter-icin-namaz-vakti">KONIGSLUTTER</ilce>
+   <ilce value="10165" data-url="/tr-TR/10165/konigswinter-icin-namaz-vakti">KONIGSWINTER</ilce>
+   <ilce value="11018" data-url="/tr-TR/11018/konstanz-icin-namaz-vakti">KONSTANZ</ilce>
+   <ilce value="10166" data-url="/tr-TR/10166/konz-icin-namaz-vakti">KONZ</ilce>
+   <ilce value="10167" data-url="/tr-TR/10167/korbach-icin-namaz-vakti">KORBACH</ilce>
+   <ilce value="10402" data-url="/tr-TR/10402/kornwestheim-icin-namaz-vakti">KORNWESTHEIM</ilce>
+   <ilce value="10729" data-url="/tr-TR/10729/korschenbroich-icin-namaz-vakti">KORSCHENBROICH</ilce>
+   <ilce value="9978" data-url="/tr-TR/9978/kray-icin-namaz-vakti">KRAY</ilce>
+   <ilce value="11066" data-url="/tr-TR/11066/krefeld-icin-namaz-vakti">KREFELD</ilce>
+   <ilce value="10403" data-url="/tr-TR/10403/kremmen-icin-namaz-vakti">KREMMEN</ilce>
+   <ilce value="10807" data-url="/tr-TR/10807/kressbronn-icin-namaz-vakti">KRESSBRONN</ilce>
+   <ilce value="10169" data-url="/tr-TR/10169/kreuztal-icin-namaz-vakti">KREUZTAL</ilce>
+   <ilce value="10170" data-url="/tr-TR/10170/kronshagen-icin-namaz-vakti">KRONSHAGEN</ilce>
+   <ilce value="11071" data-url="/tr-TR/11071/krumbach-icin-namaz-vakti">KRUMBACH</ilce>
+   <ilce value="10404" data-url="/tr-TR/10404/kulmbach-icin-namaz-vakti">KULMBACH</ilce>
+   <ilce value="10758" data-url="/tr-TR/10758/kurten-icin-namaz-vakti">KURTEN</ilce>
+   <ilce value="10842" data-url="/tr-TR/10842/kusterdingen-icin-namaz-vakti">KUSTERDINGEN</ilce>
+   <ilce value="10401" data-url="/tr-TR/10401/laatzen-icin-namaz-vakti">LAATZEN</ilce>
+   <ilce value="10171" data-url="/tr-TR/10171/ladenburg-icin-namaz-vakti">LADENBURG</ilce>
+   <ilce value="10172" data-url="/tr-TR/10172/lage-icin-namaz-vakti">LAGE</ilce>
+   <ilce value="10753" data-url="/tr-TR/10753/lahnstein-icin-namaz-vakti">LAHNSTEIN</ilce>
+   <ilce value="10173" data-url="/tr-TR/10173/lahr-schw-icin-namaz-vakti">LAHR (SCHW.)</ilce>
+   <ilce value="10405" data-url="/tr-TR/10405/laichingen-icin-namaz-vakti">LAICHINGEN</ilce>
+   <ilce value="10174" data-url="/tr-TR/10174/lampertheim-icin-namaz-vakti">LAMPERTHEIM</ilce>
+   <ilce value="10866" data-url="/tr-TR/10866/landau-an-der-isar-icin-namaz-vakti">LANDAU AN DER ISAR</ilce>
+   <ilce value="10175" data-url="/tr-TR/10175/landau-in-der-pfalz-icin-namaz-vakti">LANDAU IN DER PFALZ</ilce>
+   <ilce value="10406" data-url="/tr-TR/10406/landsberg-am-lech-icin-namaz-vakti">LANDSBERG AM LECH</ilce>
+   <ilce value="10407" data-url="/tr-TR/10407/landshut-icin-namaz-vakti">LANDSHUT</ilce>
+   <ilce value="10176" data-url="/tr-TR/10176/landstuhl-icin-namaz-vakti">LANDSTUHL</ilce>
+   <ilce value="10177" data-url="/tr-TR/10177/langen-icin-namaz-vakti">LANGEN</ilce>
+   <ilce value="10408" data-url="/tr-TR/10408/langenargen-icin-namaz-vakti">LANGENARGEN</ilce>
+   <ilce value="10409" data-url="/tr-TR/10409/langenau-wurtt-icin-namaz-vakti">LANGENAU (WURTT)</ilce>
+   <ilce value="10178" data-url="/tr-TR/10178/langenfeld-icin-namaz-vakti">LANGENFELD</ilce>
+   <ilce value="10410" data-url="/tr-TR/10410/langenhagen-icin-namaz-vakti">LANGENHAGEN</ilce>
+   <ilce value="10734" data-url="/tr-TR/10734/langenselbold-icin-namaz-vakti">LANGENSELBOLD</ilce>
+   <ilce value="10788" data-url="/tr-TR/10788/langweid-icin-namaz-vakti">LANGWEID</ilce>
+   <ilce value="10411" data-url="/tr-TR/10411/lappersdorf-icin-namaz-vakti">LAPPERSDORF</ilce>
+   <ilce value="10574" data-url="/tr-TR/10574/laubach-hessen-icin-namaz-vakti">LAUBACH (HESSEN)</ilce>
+   <ilce value="10412" data-url="/tr-TR/10412/lauchhammer-icin-namaz-vakti">LAUCHHAMMER</ilce>
+   <ilce value="10413" data-url="/tr-TR/10413/lauda-icin-namaz-vakti">LAUDA</ilce>
+   <ilce value="10414" data-url="/tr-TR/10414/lauenburg-icin-namaz-vakti">LAUENBURG</ilce>
+   <ilce value="10415" data-url="/tr-TR/10415/lauenforde-icin-namaz-vakti">LAUENFORDE</ilce>
+   <ilce value="10416" data-url="/tr-TR/10416/lauf-adpegnitz-icin-namaz-vakti">LAUF A.D.PEGNITZ</ilce>
+   <ilce value="10417" data-url="/tr-TR/10417/laufach-icin-namaz-vakti">LAUFACH</ilce>
+   <ilce value="10418" data-url="/tr-TR/10418/lauingen-icin-namaz-vakti">LAUINGEN</ilce>
+   <ilce value="10419" data-url="/tr-TR/10419/laupheim-icin-namaz-vakti">LAUPHEIM</ilce>
+   <ilce value="10420" data-url="/tr-TR/10420/lauterbach-icin-namaz-vakti">LAUTERBACH</ilce>
+   <ilce value="10776" data-url="/tr-TR/10776/lebach-icin-namaz-vakti">LEBACH</ilce>
+   <ilce value="10634" data-url="/tr-TR/10634/leck-icin-namaz-vakti">LECK</ilce>
+   <ilce value="10421" data-url="/tr-TR/10421/lehrte-icin-namaz-vakti">LEHRTE</ilce>
+   <ilce value="10179" data-url="/tr-TR/10179/leichlingen-icin-namaz-vakti">LEICHLINGEN</ilce>
+   <ilce value="10184" data-url="/tr-TR/10184/leimen-icin-namaz-vakti">LEIMEN</ilce>
+   <ilce value="10648" data-url="/tr-TR/10648/leinefelde-icin-namaz-vakti">LEINEFELDE</ilce>
+   <ilce value="10848" data-url="/tr-TR/10848/leinfelden-echterdingen-icin-namaz-vakti">LEINFELDEN-ECHTERDINGEN</ilce>
+   <ilce value="16757" data-url="/tr-TR/16757/leipheim-icin-namaz-vakti">LEIPHEIM</ilce>
+   <ilce value="11100" data-url="/tr-TR/11100/leipzig-icin-namaz-vakti">LEIPZIG</ilce>
+   <ilce value="11090" data-url="/tr-TR/11090/lemgo-icin-namaz-vakti">LEMGO</ilce>
+   <ilce value="10180" data-url="/tr-TR/10180/lemwerder-icin-namaz-vakti">LEMWERDER</ilce>
+   <ilce value="10181" data-url="/tr-TR/10181/lengerich-icin-namaz-vakti">LENGERICH</ilce>
+   <ilce value="10182" data-url="/tr-TR/10182/lennestadt-icin-namaz-vakti">LENNESTADT</ilce>
+   <ilce value="10673" data-url="/tr-TR/10673/lensahn-icin-namaz-vakti">LENSAHN</ilce>
+   <ilce value="10422" data-url="/tr-TR/10422/leonberg-icin-namaz-vakti">LEONBERG</ilce>
+   <ilce value="10743" data-url="/tr-TR/10743/letmathe-icin-namaz-vakti">LETMATHE</ilce>
+   <ilce value="10423" data-url="/tr-TR/10423/leutkirch-icin-namaz-vakti">LEUTKIRCH</ilce>
+   <ilce value="10183" data-url="/tr-TR/10183/leverkusen-icin-namaz-vakti">LEVERKUSEN</ilce>
+   <ilce value="10424" data-url="/tr-TR/10424/lichtenfels-icin-namaz-vakti">LICHTENFELS</ilce>
+   <ilce value="10185" data-url="/tr-TR/10185/limburg-an-der-lahn-icin-namaz-vakti">LIMBURG AN DER LAHN</ilce>
+   <ilce value="10425" data-url="/tr-TR/10425/limeshain--rommersha-icin-namaz-vakti">LIMESHAIN -ROMMERSHA</ilce>
+   <ilce value="10582" data-url="/tr-TR/10582/lindau-bavaria-icin-namaz-vakti">LINDAU (BAVARIA)</ilce>
+   <ilce value="10649" data-url="/tr-TR/10649/lindau-ls-icin-namaz-vakti">LINDAU (LS)</ilce>
+   <ilce value="10426" data-url="/tr-TR/10426/lindenberg-im-allgau-icin-namaz-vakti">LINDENBERG IM ALLGAU</ilce>
+   <ilce value="10186" data-url="/tr-TR/10186/lindlar-icin-namaz-vakti">LINDLAR</ilce>
+   <ilce value="10187" data-url="/tr-TR/10187/linz-am-rhein-icin-namaz-vakti">LINZ AM RHEIN</ilce>
+   <ilce value="10427" data-url="/tr-TR/10427/lipbach-icin-namaz-vakti">LIPBACH</ilce>
+   <ilce value="10188" data-url="/tr-TR/10188/lippstadt-icin-namaz-vakti">LIPPSTADT</ilce>
+   <ilce value="10220" data-url="/tr-TR/10220/lobberich-icin-namaz-vakti">LOBBERICH</ilce>
+   <ilce value="10747" data-url="/tr-TR/10747/lohfelden-icin-namaz-vakti">LOHFELDEN</ilce>
+   <ilce value="10189" data-url="/tr-TR/10189/lohmar-icin-namaz-vakti">LOHMAR</ilce>
+   <ilce value="10190" data-url="/tr-TR/10190/lohne-icin-namaz-vakti">LOHNE</ilce>
+   <ilce value="10428" data-url="/tr-TR/10428/lohr-am-icin-namaz-vakti">LOHR A.M.</ilce>
+   <ilce value="10571" data-url="/tr-TR/10571/lollar-icin-namaz-vakti">LOLLAR</ilce>
+   <ilce value="10429" data-url="/tr-TR/10429/lonsee-icin-namaz-vakti">LONSEE</ilce>
+   <ilce value="10430" data-url="/tr-TR/10430/lorch-icin-namaz-vakti">LORCH</ilce>
+   <ilce value="10191" data-url="/tr-TR/10191/lorrach-icin-namaz-vakti">LORRACH</ilce>
+   <ilce value="10829" data-url="/tr-TR/10829/lossburg-icin-namaz-vakti">LOSSBURG</ilce>
+   <ilce value="10192" data-url="/tr-TR/10192/lubbecke---gehlenbec-icin-namaz-vakti">LUBBECKE - GEHLENBEC</ilce>
+   <ilce value="10431" data-url="/tr-TR/10431/lubben-icin-namaz-vakti">LUBBEN</ilce>
+   <ilce value="10611" data-url="/tr-TR/10611/lubbenau-icin-namaz-vakti">LUBBENAU</ilce>
+   <ilce value="11117" data-url="/tr-TR/11117/lubeck-icin-namaz-vakti">LUBECK</ilce>
+   <ilce value="10432" data-url="/tr-TR/10432/luckenwalde-icin-namaz-vakti">LUCKENWALDE</ilce>
+   <ilce value="10867" data-url="/tr-TR/10867/ludenscheid-icin-namaz-vakti">LUDENSCHEID</ilce>
+   <ilce value="10774" data-url="/tr-TR/10774/ludinghausen-icin-namaz-vakti">LUDINGHAUSEN</ilce>
+   <ilce value="11048" data-url="/tr-TR/11048/ludwigsburg-icin-namaz-vakti">LUDWIGSBURG</ilce>
+   <ilce value="11094" data-url="/tr-TR/11094/ludwigshafen-icin-namaz-vakti">LUDWIGSHAFEN</ilce>
+   <ilce value="16795" data-url="/tr-TR/16795/ludwigslust-parchim-icin-namaz-vakti">LUDWIGSLUST-PARCHIM</ilce>
+   <ilce value="10194" data-url="/tr-TR/10194/lugde-icin-namaz-vakti">LUGDE</ilce>
+   <ilce value="11101" data-url="/tr-TR/11101/luneburg-icin-namaz-vakti">LUNEBURG</ilce>
+   <ilce value="10195" data-url="/tr-TR/10195/lunen-icin-namaz-vakti">LUNEN</ilce>
+   <ilce value="10197" data-url="/tr-TR/10197/lustadt-icin-namaz-vakti">LUSTADT</ilce>
+   <ilce value="10674" data-url="/tr-TR/10674/lutjenburg-s-h-icin-namaz-vakti">LUTJENBURG (S-H)</ilce>
+   <ilce value="10875" data-url="/tr-TR/10875/magdeburg-icin-namaz-vakti">MAGDEBURG</ilce>
+   <ilce value="10433" data-url="/tr-TR/10433/magstadt-icin-namaz-vakti">MAGSTADT</ilce>
+   <ilce value="10850" data-url="/tr-TR/10850/maichingen-icin-namaz-vakti">MAICHINGEN</ilce>
+   <ilce value="10738" data-url="/tr-TR/10738/maikammer-icin-namaz-vakti">MAIKAMMER</ilce>
+   <ilce value="10198" data-url="/tr-TR/10198/mainburg-icin-namaz-vakti">MAINBURG</ilce>
+   <ilce value="11020" data-url="/tr-TR/11020/mainz-icin-namaz-vakti">MAINZ</ilce>
+   <ilce value="10675" data-url="/tr-TR/10675/malente-icin-namaz-vakti">MALENTE</ilce>
+   <ilce value="11021" data-url="/tr-TR/11021/mannheim-icin-namaz-vakti">MANNHEIM</ilce>
+   <ilce value="10578" data-url="/tr-TR/10578/marburg-icin-namaz-vakti">MARBURG</ilce>
+   <ilce value="10434" data-url="/tr-TR/10434/markdorf-icin-namaz-vakti">MARKDORF</ilce>
+   <ilce value="10797" data-url="/tr-TR/10797/markneukirchen-icin-namaz-vakti">MARKNEUKIRCHEN</ilce>
+   <ilce value="10435" data-url="/tr-TR/10435/markt-erlbach-icin-namaz-vakti">MARKT ERLBACH</ilce>
+   <ilce value="10436" data-url="/tr-TR/10436/markt-schwaben-icin-namaz-vakti">MARKT SCHWABEN</ilce>
+   <ilce value="10437" data-url="/tr-TR/10437/marktheidenfeld-icin-namaz-vakti">MARKTHEIDENFELD</ilce>
+   <ilce value="10438" data-url="/tr-TR/10438/marktoberdorf-icin-namaz-vakti">MARKTOBERDORF</ilce>
+   <ilce value="10439" data-url="/tr-TR/10439/marktredwitz-icin-namaz-vakti">MARKTREDWITZ</ilce>
+   <ilce value="10199" data-url="/tr-TR/10199/marl-icin-namaz-vakti">MARL</ilce>
+   <ilce value="10671" data-url="/tr-TR/10671/marne-icin-namaz-vakti">MARNE</ilce>
+   <ilce value="10201" data-url="/tr-TR/10201/marsberg-icin-namaz-vakti">MARSBERG</ilce>
+   <ilce value="10549" data-url="/tr-TR/10549/mauerkirchen-icin-namaz-vakti">MAUERKIRCHEN</ilce>
+   <ilce value="11093" data-url="/tr-TR/11093/maulbronn-icin-namaz-vakti">MAULBRONN</ilce>
+   <ilce value="10202" data-url="/tr-TR/10202/maxdorf-icin-namaz-vakti">MAXDORF</ilce>
+   <ilce value="10754" data-url="/tr-TR/10754/mayen-icin-namaz-vakti">MAYEN</ilce>
+   <ilce value="10716" data-url="/tr-TR/10716/mechernich-icin-namaz-vakti">MECHERNICH</ilce>
+   <ilce value="10808" data-url="/tr-TR/10808/meckenbeuren-icin-namaz-vakti">MECKENBEUREN</ilce>
+   <ilce value="10203" data-url="/tr-TR/10203/meinerzhagen-icin-namaz-vakti">MEINERZHAGEN</ilce>
+   <ilce value="10440" data-url="/tr-TR/10440/meissen-icin-namaz-vakti">MEISSEN</ilce>
+   <ilce value="10672" data-url="/tr-TR/10672/meldorf-icin-namaz-vakti">MELDORF</ilce>
+   <ilce value="10204" data-url="/tr-TR/10204/melle-icin-namaz-vakti">MELLE</ilce>
+   <ilce value="10441" data-url="/tr-TR/10441/melsungen-icin-namaz-vakti">MELSUNGEN</ilce>
+   <ilce value="10442" data-url="/tr-TR/10442/memmingen-icin-namaz-vakti">MEMMINGEN</ilce>
+   <ilce value="10205" data-url="/tr-TR/10205/menden-icin-namaz-vakti">MENDEN</ilce>
+   <ilce value="10809" data-url="/tr-TR/10809/mengen-icin-namaz-vakti">MENGEN</ilce>
+   <ilce value="10206" data-url="/tr-TR/10206/merzig-icin-namaz-vakti">MERZIG</ilce>
+   <ilce value="10207" data-url="/tr-TR/10207/meschede-icin-namaz-vakti">MESCHEDE</ilce>
+   <ilce value="10444" data-url="/tr-TR/10444/messkirch-icin-namaz-vakti">MESSKIRCH</ilce>
+   <ilce value="10208" data-url="/tr-TR/10208/mettmann-icin-namaz-vakti">METTMANN</ilce>
+   <ilce value="10445" data-url="/tr-TR/10445/metzingen-icin-namaz-vakti">METZINGEN</ilce>
+   <ilce value="10446" data-url="/tr-TR/10446/michelstadt-icin-namaz-vakti">MICHELSTADT</ilce>
+   <ilce value="10447" data-url="/tr-TR/10447/miesbach-icin-namaz-vakti">MIESBACH</ilce>
+   <ilce value="10448" data-url="/tr-TR/10448/miltenberg-icin-namaz-vakti">MILTENBERG</ilce>
+   <ilce value="10449" data-url="/tr-TR/10449/mindelheim-icin-namaz-vakti">MINDELHEIM</ilce>
+   <ilce value="10209" data-url="/tr-TR/10209/minden-icin-namaz-vakti">MINDEN</ilce>
+   <ilce value="10600" data-url="/tr-TR/10600/mittweida-icin-namaz-vakti">MITTWEIDA</ilce>
+   <ilce value="10210" data-url="/tr-TR/10210/moers-icin-namaz-vakti">MOERS</ilce>
+   <ilce value="10568" data-url="/tr-TR/10568/moglingen-icin-namaz-vakti">MOGLINGEN</ilce>
+   <ilce value="10450" data-url="/tr-TR/10450/molln-icin-namaz-vakti">MOLLN</ilce>
+   <ilce value="10785" data-url="/tr-TR/10785/mombris-icin-namaz-vakti">MOMBRIS</ilce>
+   <ilce value="10862" data-url="/tr-TR/10862/momlingen-icin-namaz-vakti">MOMLINGEN</ilce>
+   <ilce value="11128" data-url="/tr-TR/11128/monchengladbach-icin-namaz-vakti">MONCHENGLADBACH</ilce>
+   <ilce value="10212" data-url="/tr-TR/10212/monheim-icin-namaz-vakti">MONHEIM</ilce>
+   <ilce value="10213" data-url="/tr-TR/10213/montabaur-icin-namaz-vakti">MONTABAUR</ilce>
+   <ilce value="10451" data-url="/tr-TR/10451/moosburg-icin-namaz-vakti">MOOSBURG</ilce>
+   <ilce value="10214" data-url="/tr-TR/10214/morfelden---walldorf-icin-namaz-vakti">MORFELDEN - WALLDORF</ilce>
+   <ilce value="10650" data-url="/tr-TR/10650/moringen-icin-namaz-vakti">MORINGEN</ilce>
+   <ilce value="10452" data-url="/tr-TR/10452/mosbach-icin-namaz-vakti">MOSBACH</ilce>
+   <ilce value="10803" data-url="/tr-TR/10803/muhlacker-icin-namaz-vakti">MUHLACKER</ilce>
+   <ilce value="10215" data-url="/tr-TR/10215/muhlheim-icin-namaz-vakti">MUHLHEIM</ilce>
+   <ilce value="10453" data-url="/tr-TR/10453/muhlhofen-icin-namaz-vakti">MUHLHOFEN</ilce>
+   <ilce value="11062" data-url="/tr-TR/11062/mulheim-an-der-ruhr-icin-namaz-vakti">MULHEIM AN DER RUHR</ilce>
+   <ilce value="11063" data-url="/tr-TR/11063/mullheim-icin-namaz-vakti">MULLHEIM</ilce>
+   <ilce value="10216" data-url="/tr-TR/10216/munchberg-icin-namaz-vakti">MUNCHBERG</ilce>
+   <ilce value="11022" data-url="/tr-TR/11022/munchen-icin-namaz-vakti">MUNCHEN</ilce>
+   <ilce value="10748" data-url="/tr-TR/10748/munden-icin-namaz-vakti">MUNDEN</ilce>
+   <ilce value="10454" data-url="/tr-TR/10454/munderkingen-icin-namaz-vakti">MUNDERKINGEN</ilce>
+   <ilce value="10455" data-url="/tr-TR/10455/munsingen-icin-namaz-vakti">MUNSINGEN</ilce>
+   <ilce value="11023" data-url="/tr-TR/11023/munster-icin-namaz-vakti">MUNSTER</ilce>
+   <ilce value="10456" data-url="/tr-TR/10456/murnau-icin-namaz-vakti">MURNAU</ilce>
+   <ilce value="10457" data-url="/tr-TR/10457/murrhardt-icin-namaz-vakti">MURRHARDT</ilce>
+   <ilce value="10217" data-url="/tr-TR/10217/mutterstadt-icin-namaz-vakti">MUTTERSTADT</ilce>
+   <ilce value="10218" data-url="/tr-TR/10218/nachrodt-icin-namaz-vakti">NACHRODT</ilce>
+   <ilce value="10458" data-url="/tr-TR/10458/nagold-icin-namaz-vakti">NAGOLD</ilce>
+   <ilce value="10798" data-url="/tr-TR/10798/naila-icin-namaz-vakti">NAILA</ilce>
+   <ilce value="10219" data-url="/tr-TR/10219/nassau-icin-namaz-vakti">NASSAU</ilce>
+   <ilce value="10459" data-url="/tr-TR/10459/nauen-icin-namaz-vakti">NAUEN</ilce>
+   <ilce value="10475" data-url="/tr-TR/10475/nellingen-adfilder-icin-namaz-vakti">NELLINGEN A.D.FILDER</ilce>
+   <ilce value="10460" data-url="/tr-TR/10460/neresheim-icin-namaz-vakti">NERESHEIM</ilce>
+   <ilce value="10461" data-url="/tr-TR/10461/nersingen-icin-namaz-vakti">NERSINGEN</ilce>
+   <ilce value="10730" data-url="/tr-TR/10730/nettetal-icin-namaz-vakti">NETTETAL</ilce>
+   <ilce value="10559" data-url="/tr-TR/10559/neu-ulm-icin-namaz-vakti">NEU ULM</ilce>
+   <ilce value="10562" data-url="/tr-TR/10562/neuburg-an-der-donau-icin-namaz-vakti">NEUBURG AN DER DONAU</ilce>
+   <ilce value="10739" data-url="/tr-TR/10739/neudorf-germersheim-icin-namaz-vakti">NEUDORF (Germersheim)</ilce>
+   <ilce value="10462" data-url="/tr-TR/10462/neufahrn-ndb-icin-namaz-vakti">NEUFAHRN (NDB)</ilce>
+   <ilce value="10221" data-url="/tr-TR/10221/neu-isenburg-icin-namaz-vakti">NEU-ISENBURG</ilce>
+   <ilce value="10224" data-url="/tr-TR/10224/neukirchen-nrw-icin-namaz-vakti">NEUKIRCHEN (NRW)</ilce>
+   <ilce value="10225" data-url="/tr-TR/10225/neukirchen-saarland-icin-namaz-vakti">NEUKIRCHEN (SAARLAND</ilce>
+   <ilce value="10463" data-url="/tr-TR/10463/neukirchen-sachsen--icin-namaz-vakti">NEUKIRCHEN (SACHSEN-</ilce>
+   <ilce value="10222" data-url="/tr-TR/10222/neumarkt-in-der-ober-icin-namaz-vakti">NEUMARKT IN DER OBER</ilce>
+   <ilce value="10223" data-url="/tr-TR/10223/neumunster-icin-namaz-vakti">NEUMUNSTER</ilce>
+   <ilce value="10789" data-url="/tr-TR/10789/neuses-icin-namaz-vakti">NEUSES</ilce>
+   <ilce value="10575" data-url="/tr-TR/10575/neuss-icin-namaz-vakti">NEUSS</ilce>
+   <ilce value="10226" data-url="/tr-TR/10226/neuss---norf-icin-namaz-vakti">NEUSS - NORF</ilce>
+   <ilce value="10228" data-url="/tr-TR/10228/neustadt-hessen-icin-namaz-vakti">NEUSTADT (HESSEN)</ilce>
+   <ilce value="10227" data-url="/tr-TR/10227/neustadt-ad-weinst-icin-namaz-vakti">NEUSTADT A.D. WEINST</ilce>
+   <ilce value="10464" data-url="/tr-TR/10464/neustadt-b-coburg-icin-namaz-vakti">NEUSTADT B. COBURG</ilce>
+   <ilce value="10465" data-url="/tr-TR/10465/neutraubling-icin-namaz-vakti">NEUTRAUBLING</ilce>
+   <ilce value="10229" data-url="/tr-TR/10229/neuwied-icin-namaz-vakti">NEUWIED</ilce>
+   <ilce value="10230" data-url="/tr-TR/10230/nidda-icin-namaz-vakti">NIDDA</ilce>
+   <ilce value="10635" data-url="/tr-TR/10635/niebull-icin-namaz-vakti">NIEBULL</ilce>
+   <ilce value="10231" data-url="/tr-TR/10231/niederkassel-icin-namaz-vakti">NIEDERKASSEL</ilce>
+   <ilce value="10232" data-url="/tr-TR/10232/nienburg-weser-icin-namaz-vakti">NIENBURG (WESER)</ilce>
+   <ilce value="10233" data-url="/tr-TR/10233/nienhagen-icin-namaz-vakti">NIENHAGEN</ilce>
+   <ilce value="17802" data-url="/tr-TR/17802/norden-icin-namaz-vakti">NORDEN</ilce>
+   <ilce value="10234" data-url="/tr-TR/10234/nordenham-icin-namaz-vakti">NORDENHAM</ilce>
+   <ilce value="10466" data-url="/tr-TR/10466/norderstedt-icin-namaz-vakti">NORDERSTEDT</ilce>
+   <ilce value="10577" data-url="/tr-TR/10577/nordhorn-icin-namaz-vakti">NORDHORN</ilce>
+   <ilce value="10745" data-url="/tr-TR/10745/nordkirchen-icin-namaz-vakti">NORDKIRCHEN</ilce>
+   <ilce value="10467" data-url="/tr-TR/10467/nordlingen-icin-namaz-vakti">NORDLINGEN</ilce>
+   <ilce value="10468" data-url="/tr-TR/10468/northeim-icin-namaz-vakti">NORTHEIM</ilce>
+   <ilce value="11024" data-url="/tr-TR/11024/nurnberg-icin-namaz-vakti">NURNBERG</ilce>
+   <ilce value="10550" data-url="/tr-TR/10550/nurtingen-icin-namaz-vakti">NURTINGEN</ilce>
+   <ilce value="10922" data-url="/tr-TR/10922/oberaden-icin-namaz-vakti">OBERADEN</ilce>
+   <ilce value="10470" data-url="/tr-TR/10470/oberasbach-icin-namaz-vakti">OBERASBACH</ilce>
+   <ilce value="10235" data-url="/tr-TR/10235/oberderdingen-icin-namaz-vakti">OBERDERDINGEN</ilce>
+   <ilce value="16705" data-url="/tr-TR/16705/oberhausen-icin-namaz-vakti">OBERHAUSEN </ilce>
+   <ilce value="10830" data-url="/tr-TR/10830/oberkirch-bw-icin-namaz-vakti">OBERKIRCH (BW)</ilce>
+   <ilce value="10799" data-url="/tr-TR/10799/oberkotzau-icin-namaz-vakti">OBERKOTZAU</ilce>
+   <ilce value="10469" data-url="/tr-TR/10469/oberndorf-an-icin-namaz-vakti">OBERNDORF A.N.</ilce>
+   <ilce value="10471" data-url="/tr-TR/10471/oberstenfeld--wurtt-icin-namaz-vakti">OBERSTENFELD / WURTT</ilce>
+   <ilce value="10236" data-url="/tr-TR/10236/obertshausen-icin-namaz-vakti">OBERTSHAUSEN</ilce>
+   <ilce value="10237" data-url="/tr-TR/10237/oberursel-icin-namaz-vakti">OBERURSEL</ilce>
+   <ilce value="10863" data-url="/tr-TR/10863/ochsenfurt-icin-namaz-vakti">OCHSENFURT</ilce>
+   <ilce value="10238" data-url="/tr-TR/10238/odenthal-icin-namaz-vakti">ODENTHAL</ilce>
+   <ilce value="10586" data-url="/tr-TR/10586/oebisfelde-icin-namaz-vakti">OEBISFELDE</ilce>
+   <ilce value="10762" data-url="/tr-TR/10762/oedt-icin-namaz-vakti">OEDT</ilce>
+   <ilce value="10239" data-url="/tr-TR/10239/oelde-icin-namaz-vakti">OELDE</ilce>
+   <ilce value="10601" data-url="/tr-TR/10601/oelsnitz-chemnitz-icin-namaz-vakti">OELSNITZ (CHEMNITZ)</ilce>
+   <ilce value="10240" data-url="/tr-TR/10240/oer-erkenschwick-icin-namaz-vakti">OER-ERKENSCHWICK</ilce>
+   <ilce value="10569" data-url="/tr-TR/10569/offenbach-icin-namaz-vakti">OFFENBACH</ilce>
+   <ilce value="10557" data-url="/tr-TR/10557/offenburg-icin-namaz-vakti">OFFENBURG</ilce>
+   <ilce value="10193" data-url="/tr-TR/10193/oggersheim-ludwigsh-icin-namaz-vakti">OGGERSHEIM (LUDWIGSH</ilce>
+   <ilce value="10472" data-url="/tr-TR/10472/ohringen-icin-namaz-vakti">OHRINGEN</ilce>
+   <ilce value="10616" data-url="/tr-TR/10616/olbernhau-icin-namaz-vakti">OLBERNHAU</ilce>
+   <ilce value="10241" data-url="/tr-TR/10241/olching-icin-namaz-vakti">OLCHING</ilce>
+   <ilce value="10555" data-url="/tr-TR/10555/oldenburg-icin-namaz-vakti">OLDENBURG</ilce>
+   <ilce value="10242" data-url="/tr-TR/10242/olpe-icin-namaz-vakti">OLPE</ilce>
+   <ilce value="10800" data-url="/tr-TR/10800/olsnitz-icin-namaz-vakti">OLSNITZ</ilce>
+   <ilce value="10473" data-url="/tr-TR/10473/oranienburg-icin-namaz-vakti">ORANIENBURG</ilce>
+   <ilce value="10552" data-url="/tr-TR/10552/ortenburg-icin-namaz-vakti">ORTENBURG</ilce>
+   <ilce value="10680" data-url="/tr-TR/10680/oschatz-icin-namaz-vakti">OSCHATZ</ilce>
+   <ilce value="10696" data-url="/tr-TR/10696/oschersleben-icin-namaz-vakti">OSCHERSLEBEN</ilce>
+   <ilce value="11055" data-url="/tr-TR/11055/osnabruck-icin-namaz-vakti">OSNABRUCK</ilce>
+   <ilce value="10243" data-url="/tr-TR/10243/osterholz-scharmbeck-icin-namaz-vakti">OSTERHOLZ-SCHARMBECK</ilce>
+   <ilce value="10474" data-url="/tr-TR/10474/osterodeharz-icin-namaz-vakti">OSTERODE/HARZ</ilce>
+   <ilce value="10856" data-url="/tr-TR/10856/ostfildern-icin-namaz-vakti">OSTFILDERN</ilce>
+   <ilce value="10804" data-url="/tr-TR/10804/ostringen-icin-namaz-vakti">OSTRINGEN</ilce>
+   <ilce value="10244" data-url="/tr-TR/10244/ottersberg-icin-namaz-vakti">OTTERSBERG</ilce>
+   <ilce value="10823" data-url="/tr-TR/10823/ottobrunn-icin-namaz-vakti">OTTOBRUNN</ilce>
+   <ilce value="10245" data-url="/tr-TR/10245/overath-icin-namaz-vakti">OVERATH</ilce>
+   <ilce value="10593" data-url="/tr-TR/10593/oyten-icin-namaz-vakti">OYTEN</ilce>
+   <ilce value="11064" data-url="/tr-TR/11064/paderborn-icin-namaz-vakti">PADERBORN</ilce>
+   <ilce value="10566" data-url="/tr-TR/10566/papenburg-icin-namaz-vakti">PAPENBURG</ilce>
+   <ilce value="10246" data-url="/tr-TR/10246/parsberg-icin-namaz-vakti">PARSBERG</ilce>
+   <ilce value="11034" data-url="/tr-TR/11034/passau-icin-namaz-vakti">PASSAU</ilce>
+   <ilce value="10681" data-url="/tr-TR/10681/pegau-icin-namaz-vakti">PEGAU</ilce>
+   <ilce value="10826" data-url="/tr-TR/10826/pegnitz-icin-namaz-vakti">PEGNITZ</ilce>
+   <ilce value="10476" data-url="/tr-TR/10476/peine-icin-namaz-vakti">PEINE</ilce>
+   <ilce value="10039" data-url="/tr-TR/10039/pelkum-icin-namaz-vakti">PELKUM</ilce>
+   <ilce value="10247" data-url="/tr-TR/10247/petershagen-icin-namaz-vakti">PETERSHAGEN</ilce>
+   <ilce value="11073" data-url="/tr-TR/11073/pfalzgrafenweiler-icin-namaz-vakti">PFALZGRAFENWEILER</ilce>
+   <ilce value="10815" data-url="/tr-TR/10815/pfarrkirchen-icin-namaz-vakti">PFARRKIRCHEN</ilce>
+   <ilce value="11119" data-url="/tr-TR/11119/pforzheim-icin-namaz-vakti">PFORZHEIM</ilce>
+   <ilce value="10477" data-url="/tr-TR/10477/pfullendorf-icin-namaz-vakti">PFULLENDORF</ilce>
+   <ilce value="10843" data-url="/tr-TR/10843/pfullingen-icin-namaz-vakti">PFULLINGEN</ilce>
+   <ilce value="10248" data-url="/tr-TR/10248/pfungstadt-icin-namaz-vakti">PFUNGSTADT</ilce>
+   <ilce value="10249" data-url="/tr-TR/10249/philippsburg-icin-namaz-vakti">PHILIPPSBURG</ilce>
+   <ilce value="10250" data-url="/tr-TR/10250/pinneberg-icin-namaz-vakti">PINNEBERG</ilce>
+   <ilce value="10251" data-url="/tr-TR/10251/pirmasens-icin-namaz-vakti">PIRMASENS</ilce>
+   <ilce value="10617" data-url="/tr-TR/10617/pirna-icin-namaz-vakti">PIRNA</ilce>
+   <ilce value="10836" data-url="/tr-TR/10836/plattling-icin-namaz-vakti">PLATTLING</ilce>
+   <ilce value="10801" data-url="/tr-TR/10801/plauen-icin-namaz-vakti">PLAUEN</ilce>
+   <ilce value="11087" data-url="/tr-TR/11087/plettenberg-icin-namaz-vakti">PLETTENBERG</ilce>
+   <ilce value="10857" data-url="/tr-TR/10857/plochingen-icin-namaz-vakti">PLOCHINGEN</ilce>
+   <ilce value="10676" data-url="/tr-TR/10676/plon-icin-namaz-vakti">PLON</ilce>
+   <ilce value="10478" data-url="/tr-TR/10478/postdam-icin-namaz-vakti">POSTDAM</ilce>
+   <ilce value="10479" data-url="/tr-TR/10479/preetz-icin-namaz-vakti">PREETZ</ilce>
+   <ilce value="10252" data-url="/tr-TR/10252/pulheim-icin-namaz-vakti">PULHEIM</ilce>
+   <ilce value="10777" data-url="/tr-TR/10777/puttlingen-icin-namaz-vakti">PUTTLINGEN</ilce>
+   <ilce value="10253" data-url="/tr-TR/10253/quickborn-icin-namaz-vakti">QUICKBORN</ilce>
+   <ilce value="10778" data-url="/tr-TR/10778/quierscheid-icin-namaz-vakti">QUIERSCHEID</ilce>
+   <ilce value="10618" data-url="/tr-TR/10618/radebeul-icin-namaz-vakti">RADEBEUL</ilce>
+   <ilce value="10619" data-url="/tr-TR/10619/radeburg-icin-namaz-vakti">RADEBURG</ilce>
+   <ilce value="11098" data-url="/tr-TR/11098/radevormwald-icin-namaz-vakti">RADEVORMWALD</ilce>
+   <ilce value="10480" data-url="/tr-TR/10480/radolfzell-icin-namaz-vakti">RADOLFZELL</ilce>
+   <ilce value="10481" data-url="/tr-TR/10481/raisdorf-icin-namaz-vakti">RAISDORF</ilce>
+   <ilce value="10254" data-url="/tr-TR/10254/ransbach-baumbach-icin-namaz-vakti">RANSBACH-BAUMBACH</ilce>
+   <ilce value="10255" data-url="/tr-TR/10255/rastatt-icin-namaz-vakti">RASTATT</ilce>
+   <ilce value="10594" data-url="/tr-TR/10594/rastede-icin-namaz-vakti">RASTEDE</ilce>
+   <ilce value="10482" data-url="/tr-TR/10482/rathenov-icin-namaz-vakti">RATHENOV</ilce>
+   <ilce value="10256" data-url="/tr-TR/10256/ratingen-icin-namaz-vakti">RATINGEN</ilce>
+   <ilce value="10656" data-url="/tr-TR/10656/ratzeburg-icin-namaz-vakti">RATZEBURG</ilce>
+   <ilce value="10769" data-url="/tr-TR/10769/raunheim-icin-namaz-vakti">RAUNHEIM</ilce>
+   <ilce value="11045" data-url="/tr-TR/11045/ravensburg-icin-namaz-vakti">RAVENSBURG</ilce>
+   <ilce value="10583" data-url="/tr-TR/10583/recklinghausen-icin-namaz-vakti">RECKLINGHAUSEN</ilce>
+   <ilce value="10483" data-url="/tr-TR/10483/redwitz-adrodach-icin-namaz-vakti">REDWITZ A.D.RODACH</ilce>
+   <ilce value="11025" data-url="/tr-TR/11025/regensburg-icin-namaz-vakti">REGENSBURG</ilce>
+   <ilce value="10837" data-url="/tr-TR/10837/regenstauf-icin-namaz-vakti">REGENSTAUF</ilce>
+   <ilce value="10484" data-url="/tr-TR/10484/rehau-icin-namaz-vakti">REHAU</ilce>
+   <ilce value="10257" data-url="/tr-TR/10257/rehburg-loccum-icin-namaz-vakti">REHBURG-LOCCUM</ilce>
+   <ilce value="10657" data-url="/tr-TR/10657/reinbek-icin-namaz-vakti">REINBEK</ilce>
+   <ilce value="10722" data-url="/tr-TR/10722/reinheim-h-icin-namaz-vakti">REINHEIM (H)</ilce>
+   <ilce value="10258" data-url="/tr-TR/10258/remagen-icin-namaz-vakti">REMAGEN</ilce>
+   <ilce value="11076" data-url="/tr-TR/11076/remscheid-icin-namaz-vakti">REMSCHEID</ilce>
+   <ilce value="10831" data-url="/tr-TR/10831/renchen-icin-namaz-vakti">RENCHEN</ilce>
+   <ilce value="10259" data-url="/tr-TR/10259/rendsburg-icin-namaz-vakti">RENDSBURG</ilce>
+   <ilce value="10211" data-url="/tr-TR/10211/repelen-moers-icin-namaz-vakti">REPELEN (MOERS)</ilce>
+   <ilce value="11042" data-url="/tr-TR/11042/reutlingen-icin-namaz-vakti">REUTLINGEN</ilce>
+   <ilce value="10260" data-url="/tr-TR/10260/rheda-wiedenbruck-icin-namaz-vakti">RHEDA-WIEDENBRUCK</ilce>
+   <ilce value="10261" data-url="/tr-TR/10261/rheinbach-icin-namaz-vakti">RHEINBACH</ilce>
+   <ilce value="10262" data-url="/tr-TR/10262/rheinberg-icin-namaz-vakti">RHEINBERG</ilce>
+   <ilce value="11070" data-url="/tr-TR/11070/rheindahlen-icin-namaz-vakti">RHEINDAHLEN</ilce>
+   <ilce value="10263" data-url="/tr-TR/10263/rheine-icin-namaz-vakti">RHEINE</ilce>
+   <ilce value="10264" data-url="/tr-TR/10264/rheinfelden-karsau-icin-namaz-vakti">RHEINFELDEN-KARSAU</ilce>
+   <ilce value="10982" data-url="/tr-TR/10982/rheinhausen-duis-icin-namaz-vakti">RHEINHAUSEN (DUIS.)</ilce>
+   <ilce value="10620" data-url="/tr-TR/10620/riesa-icin-namaz-vakti">RIESA</ilce>
+   <ilce value="10265" data-url="/tr-TR/10265/rietberg-icin-namaz-vakti">RIETBERG</ilce>
+   <ilce value="10266" data-url="/tr-TR/10266/rinteln-icin-namaz-vakti">RINTELN</ilce>
+   <ilce value="10267" data-url="/tr-TR/10267/rockenhausen-icin-namaz-vakti">ROCKENHAUSEN</ilce>
+   <ilce value="10485" data-url="/tr-TR/10485/rodach-icin-namaz-vakti">RODACH</ilce>
+   <ilce value="10838" data-url="/tr-TR/10838/roding-icin-namaz-vakti">RODING</ilce>
+   <ilce value="10602" data-url="/tr-TR/10602/ronneburg-icin-namaz-vakti">RONNEBURG</ilce>
+   <ilce value="10664" data-url="/tr-TR/10664/ronnenberg-ls-icin-namaz-vakti">RONNENBERG (LS)</ilce>
+   <ilce value="11058" data-url="/tr-TR/11058/ronsdorf-icin-namaz-vakti">RONSDORF</ilce>
+   <ilce value="10651" data-url="/tr-TR/10651/rosdorf-icin-namaz-vakti">ROSDORF</ilce>
+   <ilce value="10486" data-url="/tr-TR/10486/rosenheim-icin-namaz-vakti">ROSENHEIM</ilce>
+   <ilce value="10268" data-url="/tr-TR/10268/rosrath-icin-namaz-vakti">ROSRATH</ilce>
+   <ilce value="10697" data-url="/tr-TR/10697/rosslau-icin-namaz-vakti">ROSSLAU</ilce>
+   <ilce value="10551" data-url="/tr-TR/10551/rostock-icin-namaz-vakti">ROSTOCK</ilce>
+   <ilce value="10269" data-url="/tr-TR/10269/rotenburg-icin-namaz-vakti">ROTENBURG</ilce>
+   <ilce value="10270" data-url="/tr-TR/10270/roth-icin-namaz-vakti">ROTH</ilce>
+   <ilce value="10004" data-url="/tr-TR/10004/rothausen-icin-namaz-vakti">ROTHAUSEN</ilce>
+   <ilce value="10271" data-url="/tr-TR/10271/rothenbach--adpegn-icin-namaz-vakti">ROTHENBACH -A.D.PEGN</ilce>
+   <ilce value="10487" data-url="/tr-TR/10487/rothenburg-odtaube-icin-namaz-vakti">ROTHENBURG O.D.TAUBE</ilce>
+   <ilce value="11072" data-url="/tr-TR/11072/rottenburg-icin-namaz-vakti">ROTTENBURG</ilce>
+   <ilce value="11053" data-url="/tr-TR/11053/rottweil-icin-namaz-vakti">ROTTWEIL</ilce>
+   <ilce value="10770" data-url="/tr-TR/10770/rudesheim-icin-namaz-vakti">RUDESHEIM</ilce>
+   <ilce value="10741" data-url="/tr-TR/10741/rulzheim-icin-namaz-vakti">RULZHEIM</ilce>
+   <ilce value="10983" data-url="/tr-TR/10983/rumeln-duis-icin-namaz-vakti">RUMELN (DUIS.)</ilce>
+   <ilce value="11074" data-url="/tr-TR/11074/russelsheim-icin-namaz-vakti">RUSSELSHEIM</ilce>
+   <ilce value="10628" data-url="/tr-TR/10628/saalfeld-icin-namaz-vakti">SAALFELD</ilce>
+   <ilce value="11026" data-url="/tr-TR/11026/saarbrucken-icin-namaz-vakti">SAARBRUCKEN</ilce>
+   <ilce value="11068" data-url="/tr-TR/11068/saarlouis-icin-namaz-vakti">SAARLOUIS</ilce>
+   <ilce value="10488" data-url="/tr-TR/10488/sachsenheim-icin-namaz-vakti">SACHSENHEIM</ilce>
+   <ilce value="10810" data-url="/tr-TR/10810/salem-icin-namaz-vakti">SALEM</ilce>
+   <ilce value="11078" data-url="/tr-TR/11078/salzgitter-icin-namaz-vakti">SALZGITTER</ilce>
+   <ilce value="10489" data-url="/tr-TR/10489/salzgitter-bad-icin-namaz-vakti">SALZGITTER BAD</ilce>
+   <ilce value="10272" data-url="/tr-TR/10272/salzkotten-icin-namaz-vakti">SALZKOTTEN</ilce>
+   <ilce value="10490" data-url="/tr-TR/10490/salzwedel-icin-namaz-vakti">SALZWEDEL</ilce>
+   <ilce value="10273" data-url="/tr-TR/10273/sarstedt-icin-namaz-vakti">SARSTEDT</ilce>
+   <ilce value="10491" data-url="/tr-TR/10491/saulgau-icin-namaz-vakti">SAULGAU</ilce>
+   <ilce value="10274" data-url="/tr-TR/10274/schifferstadt-icin-namaz-vakti">SCHIFFERSTADT</ilce>
+   <ilce value="10492" data-url="/tr-TR/10492/schirnding-icin-namaz-vakti">SCHIRNDING</ilce>
+   <ilce value="10275" data-url="/tr-TR/10275/schleswig-icin-namaz-vakti">SCHLESWIG</ilce>
+   <ilce value="10493" data-url="/tr-TR/10493/schluchtern-icin-namaz-vakti">SCHLUCHTERN</ilce>
+   <ilce value="10276" data-url="/tr-TR/10276/schmelz-icin-namaz-vakti">SCHMELZ</ilce>
+   <ilce value="10603" data-url="/tr-TR/10603/schneeberg-s-icin-namaz-vakti">SCHNEEBERG (S)</ilce>
+   <ilce value="10579" data-url="/tr-TR/10579/schomberg-icin-namaz-vakti">SCHOMBERG</ilce>
+   <ilce value="10698" data-url="/tr-TR/10698/schonebeck-s-a-icin-namaz-vakti">SCHONEBECK (S-A)</ilce>
+   <ilce value="10494" data-url="/tr-TR/10494/schongau-icin-namaz-vakti">SCHONGAU</ilce>
+   <ilce value="10277" data-url="/tr-TR/10277/schopfheim-icin-namaz-vakti">SCHOPFHEIM</ilce>
+   <ilce value="10495" data-url="/tr-TR/10495/schorndorf-icin-namaz-vakti">SCHORNDORF</ilce>
+   <ilce value="16759" data-url="/tr-TR/16759/schramberg-icin-namaz-vakti">SCHRAMBERG</ilce>
+   <ilce value="10816" data-url="/tr-TR/10816/schriesheim-icin-namaz-vakti">SCHRIESHEIM</ilce>
+   <ilce value="10278" data-url="/tr-TR/10278/schrobenhausen-icin-namaz-vakti">SCHROBENHAUSEN</ilce>
+   <ilce value="10832" data-url="/tr-TR/10832/schutterwald-icin-namaz-vakti">SCHUTTERWALD</ilce>
+   <ilce value="10279" data-url="/tr-TR/10279/schuttorf-icin-namaz-vakti">SCHUTTORF</ilce>
+   <ilce value="10496" data-url="/tr-TR/10496/schwabach-icin-namaz-vakti">SCHWABACH</ilce>
+   <ilce value="11049" data-url="/tr-TR/11049/schwabisch-gmund-icin-namaz-vakti">SCHWABISCH GMUND</ilce>
+   <ilce value="11050" data-url="/tr-TR/11050/schwabisch-hall-icin-namaz-vakti">SCHWABISCH HALL</ilce>
+   <ilce value="10779" data-url="/tr-TR/10779/schwalbach-s-icin-namaz-vakti">SCHWALBACH (S)</ilce>
+   <ilce value="10497" data-url="/tr-TR/10497/schwandorf-icin-namaz-vakti">SCHWANDORF</ilce>
+   <ilce value="10280" data-url="/tr-TR/10280/schwaningen-icin-namaz-vakti">SCHWANINGEN</ilce>
+   <ilce value="10498" data-url="/tr-TR/10498/schwarzenbach-icin-namaz-vakti">SCHWARZENBACH</ilce>
+   <ilce value="10499" data-url="/tr-TR/10499/schwarzenbek-icin-namaz-vakti">SCHWARZENBEK</ilce>
+   <ilce value="11107" data-url="/tr-TR/11107/schweinfurt-icin-namaz-vakti">SCHWEINFURT</ilce>
+   <ilce value="10281" data-url="/tr-TR/10281/schwelm-icin-namaz-vakti">SCHWELM</ilce>
+   <ilce value="10282" data-url="/tr-TR/10282/schwerte-icin-namaz-vakti">SCHWERTE</ilce>
+   <ilce value="10283" data-url="/tr-TR/10283/schwetzingen-icin-namaz-vakti">SCHWETZINGEN</ilce>
+   <ilce value="10642" data-url="/tr-TR/10642/seelow-icin-namaz-vakti">SEELOW</ilce>
+   <ilce value="10666" data-url="/tr-TR/10666/seelze-icin-namaz-vakti">SEELZE</ilce>
+   <ilce value="10500" data-url="/tr-TR/10500/seesen-icin-namaz-vakti">SEESEN</ilce>
+   <ilce value="10655" data-url="/tr-TR/10655/seevetal-icin-namaz-vakti">SEEVETAL</ilce>
+   <ilce value="10665" data-url="/tr-TR/10665/sehnde-icin-namaz-vakti">SEHNDE</ilce>
+   <ilce value="10501" data-url="/tr-TR/10501/selb-icin-namaz-vakti">SELB</ilce>
+   <ilce value="10284" data-url="/tr-TR/10284/selbitz-icin-namaz-vakti">SELBITZ</ilce>
+   <ilce value="10285" data-url="/tr-TR/10285/selters-icin-namaz-vakti">SELTERS</ilce>
+   <ilce value="10502" data-url="/tr-TR/10502/sendenbavaria-icin-namaz-vakti">SENDEN(Bavaria)</ilce>
+   <ilce value="17915" data-url="/tr-TR/17915/sendennrw-icin-namaz-vakti">SENDEN(NRW)</ilce>
+   <ilce value="10286" data-url="/tr-TR/10286/sendenhorst-icin-namaz-vakti">SENDENHORST</ilce>
+   <ilce value="10287" data-url="/tr-TR/10287/siegburg-icin-namaz-vakti">SIEGBURG</ilce>
+   <ilce value="11102" data-url="/tr-TR/11102/siegen-icin-namaz-vakti">SIEGEN</ilce>
+   <ilce value="11047" data-url="/tr-TR/11047/sigmaringen-icin-namaz-vakti">SIGMARINGEN</ilce>
+   <ilce value="10585" data-url="/tr-TR/10585/simbach-am-inn-icin-namaz-vakti">SIMBACH AM INN</ilce>
+   <ilce value="10288" data-url="/tr-TR/10288/simmern-icin-namaz-vakti">SIMMERN</ilce>
+   <ilce value="10558" data-url="/tr-TR/10558/sindelfingen-icin-namaz-vakti">SINDELFINGEN</ilce>
+   <ilce value="10161" data-url="/tr-TR/10161/sindorf-icin-namaz-vakti">SINDORF</ilce>
+   <ilce value="10868" data-url="/tr-TR/10868/singen-icin-namaz-vakti">SINGEN</ilce>
+   <ilce value="10503" data-url="/tr-TR/10503/sinsheim-icin-namaz-vakti">SINSHEIM</ilce>
+   <ilce value="10289" data-url="/tr-TR/10289/sinzig-icin-namaz-vakti">SINZIG</ilce>
+   <ilce value="10290" data-url="/tr-TR/10290/soest-icin-namaz-vakti">SOEST</ilce>
+   <ilce value="10291" data-url="/tr-TR/10291/solingen-icin-namaz-vakti">SOLINGEN</ilce>
+   <ilce value="10292" data-url="/tr-TR/10292/soltau-icin-namaz-vakti">SOLTAU</ilce>
+   <ilce value="10629" data-url="/tr-TR/10629/sommerda-icin-namaz-vakti">SOMMERDA</ilce>
+   <ilce value="10504" data-url="/tr-TR/10504/sontheim-icin-namaz-vakti">SONTHEIM</ilce>
+   <ilce value="10771" data-url="/tr-TR/10771/sontra-icin-namaz-vakti">SONTRA</ilce>
+   <ilce value="11069" data-url="/tr-TR/11069/soultz-icin-namaz-vakti">SOULTZ</ilce>
+   <ilce value="10505" data-url="/tr-TR/10505/spaichingen-icin-namaz-vakti">SPAICHINGEN</ilce>
+   <ilce value="10293" data-url="/tr-TR/10293/spenge-icin-namaz-vakti">SPENGE</ilce>
+   <ilce value="10294" data-url="/tr-TR/10294/speyer-icin-namaz-vakti">SPEYER</ilce>
+   <ilce value="10612" data-url="/tr-TR/10612/spremberg-icin-namaz-vakti">SPREMBERG</ilce>
+   <ilce value="10772" data-url="/tr-TR/10772/sprendlingen-icin-namaz-vakti">SPRENDLINGEN</ilce>
+   <ilce value="10667" data-url="/tr-TR/10667/springe-icin-namaz-vakti">SPRINGE</ilce>
+   <ilce value="10295" data-url="/tr-TR/10295/sprockhovel-icin-namaz-vakti">SPROCKHOVEL</ilce>
+   <ilce value="10296" data-url="/tr-TR/10296/st-augustin-icin-namaz-vakti">ST. AUGUSTIN</ilce>
+   <ilce value="10298" data-url="/tr-TR/10298/stingbert-icin-namaz-vakti">ST.INGBERT</ilce>
+   <ilce value="10297" data-url="/tr-TR/10297/stwendel-icin-namaz-vakti">ST.WENDEL</ilce>
+   <ilce value="10658" data-url="/tr-TR/10658/stade-ls-icin-namaz-vakti">STADE (LS)</ilce>
+   <ilce value="10299" data-url="/tr-TR/10299/stade-butzfleth-icin-namaz-vakti">STADE-BUTZFLETH</ilce>
+   <ilce value="10300" data-url="/tr-TR/10300/stadtallendorf-icin-namaz-vakti">STADTALLENDORF</ilce>
+   <ilce value="10301" data-url="/tr-TR/10301/stadthagen-icin-namaz-vakti">STADTHAGEN</ilce>
+   <ilce value="10302" data-url="/tr-TR/10302/stadtlohn-icin-namaz-vakti">STADTLOHN</ilce>
+   <ilce value="10506" data-url="/tr-TR/10506/stadtoldendorf-icin-namaz-vakti">STADTOLDENDORF</ilce>
+   <ilce value="10507" data-url="/tr-TR/10507/stadtprozelten-icin-namaz-vakti">STADTPROZELTEN</ilce>
+   <ilce value="10824" data-url="/tr-TR/10824/starnberg-icin-namaz-vakti">STARNBERG</ilce>
+   <ilce value="10587" data-url="/tr-TR/10587/stederdorf-peine-icin-namaz-vakti">STEDERDORF (PEINE)</ilce>
+   <ilce value="9979" data-url="/tr-TR/9979/steele-icin-namaz-vakti">STEELE</ilce>
+   <ilce value="10303" data-url="/tr-TR/10303/steinfurt-icin-namaz-vakti">STEINFURT</ilce>
+   <ilce value="10304" data-url="/tr-TR/10304/steinhagen-icin-namaz-vakti">STEINHAGEN</ilce>
+   <ilce value="10305" data-url="/tr-TR/10305/steinheim-icin-namaz-vakti">STEINHEIM</ilce>
+   <ilce value="10306" data-url="/tr-TR/10306/stemwede-oppenwehe-icin-namaz-vakti">STEMWEDE-OPPENWEHE</ilce>
+   <ilce value="10307" data-url="/tr-TR/10307/sterzhausen-icin-namaz-vakti">STERZHAUSEN</ilce>
+   <ilce value="10811" data-url="/tr-TR/10811/stockach-konstanz-icin-namaz-vakti">STOCKACH (Konstanz)</ilce>
+   <ilce value="10685" data-url="/tr-TR/10685/stockelsdorf-icin-namaz-vakti">STOCKELSDORF</ilce>
+   <ilce value="10786" data-url="/tr-TR/10786/stockstadt-am-main-icin-namaz-vakti">STOCKSTADT AM MAIN</ilce>
+   <ilce value="10308" data-url="/tr-TR/10308/stolberg-icin-namaz-vakti">STOLBERG</ilce>
+   <ilce value="10604" data-url="/tr-TR/10604/stollberg-s-icin-namaz-vakti">STOLLBERG (S)</ilce>
+   <ilce value="10726" data-url="/tr-TR/10726/straelen-icin-namaz-vakti">STRAELEN</ilce>
+   <ilce value="10699" data-url="/tr-TR/10699/strassfurt-icin-namaz-vakti">STRASSFURT</ilce>
+   <ilce value="10508" data-url="/tr-TR/10508/straubing-icin-namaz-vakti">STRAUBING</ilce>
+   <ilce value="10509" data-url="/tr-TR/10509/strausberg-icin-namaz-vakti">STRAUSBERG</ilce>
+   <ilce value="10595" data-url="/tr-TR/10595/stuhr-icin-namaz-vakti">STUHR</ilce>
+   <ilce value="11027" data-url="/tr-TR/11027/stuttgart-icin-namaz-vakti">STUTTGART</ilce>
+   <ilce value="10630" data-url="/tr-TR/10630/suhl-icin-namaz-vakti">SUHL</ilce>
+   <ilce value="10309" data-url="/tr-TR/10309/sulingen-icin-namaz-vakti">SULINGEN</ilce>
+   <ilce value="10310" data-url="/tr-TR/10310/sulzbach-icin-namaz-vakti">SULZBACH</ilce>
+   <ilce value="10827" data-url="/tr-TR/10827/sulzbach-rosemberg-icin-namaz-vakti">SULZBACH-ROSEMBERG</ilce>
+   <ilce value="10510" data-url="/tr-TR/10510/sussen-icin-namaz-vakti">SUSSEN</ilce>
+   <ilce value="10596" data-url="/tr-TR/10596/syke-icin-namaz-vakti">SYKE</ilce>
+   <ilce value="10636" data-url="/tr-TR/10636/tarp-icin-namaz-vakti">TARP</ilce>
+   <ilce value="10864" data-url="/tr-TR/10864/tauberbischofsheim-icin-namaz-vakti">TAUBERBISCHOFSHEIM</ilce>
+   <ilce value="10311" data-url="/tr-TR/10311/telgte-icin-namaz-vakti">TELGTE</ilce>
+   <ilce value="10511" data-url="/tr-TR/10511/tettau-icin-namaz-vakti">TETTAU</ilce>
+   <ilce value="10812" data-url="/tr-TR/10812/tettnang-icin-namaz-vakti">TETTNANG</ilce>
+   <ilce value="10793" data-url="/tr-TR/10793/titisee-neustadt-icin-namaz-vakti">TITISEE-NEUSTADT</ilce>
+   <ilce value="10763" data-url="/tr-TR/10763/tonisvorst-icin-namaz-vakti">TONISVORST</ilce>
+   <ilce value="11125" data-url="/tr-TR/11125/trier-icin-namaz-vakti">TRIER</ilce>
+   <ilce value="10312" data-url="/tr-TR/10312/troisdorf-icin-namaz-vakti">TROISDORF</ilce>
+   <ilce value="10313" data-url="/tr-TR/10313/trossingen-icin-namaz-vakti">TROSSINGEN</ilce>
+   <ilce value="10512" data-url="/tr-TR/10512/trostberg-an-der-alz-icin-namaz-vakti">TROSTBERG AN DER ALZ</ilce>
+   <ilce value="11043" data-url="/tr-TR/11043/tubingen-icin-namaz-vakti">TUBINGEN</ilce>
+   <ilce value="10513" data-url="/tr-TR/10513/turkheim-icin-namaz-vakti">TURKHEIM</ilce>
+   <ilce value="11083" data-url="/tr-TR/11083/tuttlingen-icin-namaz-vakti">TUTTLINGEN</ilce>
+   <ilce value="10314" data-url="/tr-TR/10314/ubach-palenberg-icin-namaz-vakti">UBACH-PALENBERG</ilce>
+   <ilce value="10563" data-url="/tr-TR/10563/uberlingen-icin-namaz-vakti">UBERLINGEN</ilce>
+   <ilce value="10315" data-url="/tr-TR/10315/uchte-icin-namaz-vakti">UCHTE</ilce>
+   <ilce value="10514" data-url="/tr-TR/10514/uelzen-icin-namaz-vakti">UELZEN</ilce>
+   <ilce value="10168" data-url="/tr-TR/10168/uerding-krefeld-icin-namaz-vakti">UERDING (KREFELD)</ilce>
+   <ilce value="10316" data-url="/tr-TR/10316/uetersen-icin-namaz-vakti">UETERSEN</ilce>
+   <ilce value="10515" data-url="/tr-TR/10515/uhingen-icin-namaz-vakti">UHINGEN</ilce>
+   <ilce value="11028" data-url="/tr-TR/11028/ulm-icin-namaz-vakti">ULM</ilce>
+   <ilce value="10317" data-url="/tr-TR/10317/ulmen-icin-namaz-vakti">ULMEN</ilce>
+   <ilce value="10318" data-url="/tr-TR/10318/unna-icin-namaz-vakti">UNNA</ilce>
+   <ilce value="10844" data-url="/tr-TR/10844/unterhausen-bw-icin-namaz-vakti">UNTERHAUSEN (BW)</ilce>
+   <ilce value="10319" data-url="/tr-TR/10319/unterschleissheim-icin-namaz-vakti">UNTERSCHLEISSHEIM</ilce>
+   <ilce value="10845" data-url="/tr-TR/10845/urach-icin-namaz-vakti">URACH</ilce>
+   <ilce value="10516" data-url="/tr-TR/10516/urbach-icin-namaz-vakti">URBACH</ilce>
+   <ilce value="10787" data-url="/tr-TR/10787/urberach-icin-namaz-vakti">URBERACH</ilce>
+   <ilce value="10320" data-url="/tr-TR/10320/usingen-icin-namaz-vakti">USINGEN</ilce>
+   <ilce value="10517" data-url="/tr-TR/10517/vaihingen-enz-icin-namaz-vakti">VAIHINGEN-ENZ</ilce>
+   <ilce value="10322" data-url="/tr-TR/10322/vechta-icin-namaz-vakti">VECHTA</ilce>
+   <ilce value="10323" data-url="/tr-TR/10323/velbert-icin-namaz-vakti">VELBERT</ilce>
+   <ilce value="10324" data-url="/tr-TR/10324/verden-icin-namaz-vakti">VERDEN</ilce>
+   <ilce value="10613" data-url="/tr-TR/10613/vetschau-icin-namaz-vakti">VETSCHAU</ilce>
+   <ilce value="10325" data-url="/tr-TR/10325/viernheim-icin-namaz-vakti">VIERNHEIM</ilce>
+   <ilce value="10326" data-url="/tr-TR/10326/viersen-icin-namaz-vakti">VIERSEN</ilce>
+   <ilce value="10735" data-url="/tr-TR/10735/villingen-icin-namaz-vakti">VILLINGEN</ilce>
+   <ilce value="10327" data-url="/tr-TR/10327/villingen-schwen-icin-namaz-vakti">VILLINGEN-SCHWEN.</ilce>
+   <ilce value="10518" data-url="/tr-TR/10518/vilsbiburg-icin-namaz-vakti">VILSBIBURG</ilce>
+   <ilce value="10328" data-url="/tr-TR/10328/vlotho-icin-namaz-vakti">VLOTHO</ilce>
+   <ilce value="10329" data-url="/tr-TR/10329/voerde-icin-namaz-vakti">VOERDE</ilce>
+   <ilce value="10519" data-url="/tr-TR/10519/vohringen-icin-namaz-vakti">VOHRINGEN</ilce>
+   <ilce value="10366" data-url="/tr-TR/10366/vohwinkel-icin-namaz-vakti">VOHWINKEL</ilce>
+   <ilce value="10330" data-url="/tr-TR/10330/volklingen-icin-namaz-vakti">VOLKLINGEN</ilce>
+   <ilce value="10521" data-url="/tr-TR/10521/wachtersbach-icin-namaz-vakti">WACHTERSBACH</ilce>
+   <ilce value="10321" data-url="/tr-TR/10321/wagenfeld-icin-namaz-vakti">WAGENFELD</ilce>
+   <ilce value="10331" data-url="/tr-TR/10331/waghausel-wiess-icin-namaz-vakti">WAGHAUSEL (WIESS)</ilce>
+   <ilce value="10686" data-url="/tr-TR/10686/wahlstedt-icin-namaz-vakti">WAHLSTEDT</ilce>
+   <ilce value="11041" data-url="/tr-TR/11041/waiblingen-icin-namaz-vakti">WAIBLINGEN</ilce>
+   <ilce value="10332" data-url="/tr-TR/10332/waldbrol-icin-namaz-vakti">WALDBROL</ilce>
+   <ilce value="10522" data-url="/tr-TR/10522/waldenbuch-icin-namaz-vakti">WALDENBUCH</ilce>
+   <ilce value="10794" data-url="/tr-TR/10794/waldkirch-freiburg-icin-namaz-vakti">WALDKIRCH (Freiburg)</ilce>
+   <ilce value="10523" data-url="/tr-TR/10523/waldkraiburg-icin-namaz-vakti">WALDKRAIBURG</ilce>
+   <ilce value="11082" data-url="/tr-TR/11082/waldshut-tiengen-icin-namaz-vakti">WALDSHUT-TIENGEN</ilce>
+   <ilce value="10333" data-url="/tr-TR/10333/walldorf-icin-namaz-vakti">WALLDORF</ilce>
+   <ilce value="10865" data-url="/tr-TR/10865/walldurn-icin-namaz-vakti">WALLDURN</ilce>
+   <ilce value="10524" data-url="/tr-TR/10524/wallersdorf-icin-namaz-vakti">WALLERSDORF</ilce>
+   <ilce value="10525" data-url="/tr-TR/10525/walsrode-icin-namaz-vakti">WALSRODE</ilce>
+   <ilce value="10334" data-url="/tr-TR/10334/waltrop-icin-namaz-vakti">WALTROP</ilce>
+   <ilce value="10580" data-url="/tr-TR/10580/wangen-im-allgau-icin-namaz-vakti">WANGEN IM ALLGAU</ilce>
+   <ilce value="10335" data-url="/tr-TR/10335/wardenburg-icin-namaz-vakti">WARDENBURG</ilce>
+   <ilce value="10336" data-url="/tr-TR/10336/warendorf-icin-namaz-vakti">WARENDORF</ilce>
+   <ilce value="10337" data-url="/tr-TR/10337/warstein-icin-namaz-vakti">WARSTEIN</ilce>
+   <ilce value="10338" data-url="/tr-TR/10338/wassenberg-icin-namaz-vakti">WASSENBERG</ilce>
+   <ilce value="10527" data-url="/tr-TR/10527/wasserburg--inn-icin-namaz-vakti">WASSERBURG / INN</ilce>
+   <ilce value="10526" data-url="/tr-TR/10526/wasserburg-am-bodens-icin-namaz-vakti">WASSERBURG AM BODENS</ilce>
+   <ilce value="10588" data-url="/tr-TR/10588/watenstedt-icin-namaz-vakti">WATENSTEDT</ilce>
+   <ilce value="10935" data-url="/tr-TR/10935/wattenscheid-icin-namaz-vakti">WATTENSCHEID</ilce>
+   <ilce value="10339" data-url="/tr-TR/10339/wedel-icin-namaz-vakti">WEDEL</ilce>
+   <ilce value="10340" data-url="/tr-TR/10340/wegberg-icin-namaz-vakti">WEGBERG</ilce>
+   <ilce value="10528" data-url="/tr-TR/10528/wehingen-icin-namaz-vakti">WEHINGEN</ilce>
+   <ilce value="10529" data-url="/tr-TR/10529/weiden-icin-namaz-vakti">WEIDEN</ilce>
+   <ilce value="17844" data-url="/tr-TR/17844/weiden-in-der-oberpfaiz-icin-namaz-vakti">WEIDEN IN DER OBERPFAIZ</ilce>
+   <ilce value="10341" data-url="/tr-TR/10341/weil-am-rhein-icin-namaz-vakti">WEIL AM RHEIN</ilce>
+   <ilce value="16760" data-url="/tr-TR/16760/weil-der-stadt-icin-namaz-vakti">WEIL DER STADT</ilce>
+   <ilce value="10342" data-url="/tr-TR/10342/weilburg-icin-namaz-vakti">WEILBURG</ilce>
+   <ilce value="10343" data-url="/tr-TR/10343/weilerwist-icin-namaz-vakti">WEILERWIST</ilce>
+   <ilce value="10530" data-url="/tr-TR/10530/weilheim-icin-namaz-vakti">WEILHEIM</ilce>
+   <ilce value="11097" data-url="/tr-TR/11097/weimar-icin-namaz-vakti">WEIMAR</ilce>
+   <ilce value="16761" data-url="/tr-TR/16761/weingarten-icin-namaz-vakti">WEINGARTEN</ilce>
+   <ilce value="10532" data-url="/tr-TR/10532/weinheim-icin-namaz-vakti">WEINHEIM</ilce>
+   <ilce value="16756" data-url="/tr-TR/16756/weisenthurm-icin-namaz-vakti">WEISENTHURM</ilce>
+   <ilce value="10520" data-url="/tr-TR/10520/weissenburg-in-bayer-icin-namaz-vakti">WEISSENBURG IN BAYER</ilce>
+   <ilce value="10533" data-url="/tr-TR/10533/weissenhorn-icin-namaz-vakti">WEISSENHORN</ilce>
+   <ilce value="10614" data-url="/tr-TR/10614/weisswasser-icin-namaz-vakti">WEISSWASSER</ilce>
+   <ilce value="10723" data-url="/tr-TR/10723/weiterstadt-icin-namaz-vakti">WEITERSTADT</ilce>
+   <ilce value="10344" data-url="/tr-TR/10344/welver-icin-namaz-vakti">WELVER</ilce>
+   <ilce value="10534" data-url="/tr-TR/10534/welzheim-icin-namaz-vakti">WELZHEIM</ilce>
+   <ilce value="10548" data-url="/tr-TR/10548/wemding-icin-namaz-vakti">WEMDING</ilce>
+   <ilce value="10345" data-url="/tr-TR/10345/wendelstein-icin-namaz-vakti">WENDELSTEIN</ilce>
+   <ilce value="16762" data-url="/tr-TR/16762/wendlingen-am-neckar-icin-namaz-vakti">WENDLINGEN AM NECKAR</ilce>
+   <ilce value="10869" data-url="/tr-TR/10869/werdohl-icin-namaz-vakti">WERDOHL</ilce>
+   <ilce value="10346" data-url="/tr-TR/10346/werl-icin-namaz-vakti">WERL</ilce>
+   <ilce value="10347" data-url="/tr-TR/10347/wermelskirchen-icin-namaz-vakti">WERMELSKIRCHEN</ilce>
+   <ilce value="10535" data-url="/tr-TR/10535/wernau-icin-namaz-vakti">WERNAU</ilce>
+   <ilce value="10348" data-url="/tr-TR/10348/werne-adlippe-icin-namaz-vakti">WERNE A.D.LIPPE</ilce>
+   <ilce value="16733" data-url="/tr-TR/16733/wernigerode-icin-namaz-vakti">WERNIGERODE</ilce>
+   <ilce value="10536" data-url="/tr-TR/10536/wertheim-icin-namaz-vakti">WERTHEIM</ilce>
+   <ilce value="10537" data-url="/tr-TR/10537/wertingen-icin-namaz-vakti">WERTINGEN</ilce>
+   <ilce value="10349" data-url="/tr-TR/10349/wesel-icin-namaz-vakti">WESEL</ilce>
+   <ilce value="10350" data-url="/tr-TR/10350/wesseling-icin-namaz-vakti">WESSELING</ilce>
+   <ilce value="10126" data-url="/tr-TR/10126/westerholt-icin-namaz-vakti">WESTERHOLT</ilce>
+   <ilce value="10637" data-url="/tr-TR/10637/westerland-icin-namaz-vakti">WESTERLAND</ilce>
+   <ilce value="10351" data-url="/tr-TR/10351/westerstede-icin-namaz-vakti">WESTERSTEDE</ilce>
+   <ilce value="10744" data-url="/tr-TR/10744/westhofen-icin-namaz-vakti">WESTHOFEN</ilce>
+   <ilce value="10560" data-url="/tr-TR/10560/wetter-nrw-icin-namaz-vakti">WETTER (NRW)</ilce>
+   <ilce value="11124" data-url="/tr-TR/11124/wetzlar-icin-namaz-vakti">WETZLAR</ilce>
+   <ilce value="10979" data-url="/tr-TR/10979/wickede-dort-icin-namaz-vakti">WICKEDE (DORT.)</ilce>
+   <ilce value="10352" data-url="/tr-TR/10352/wiebelskirchen-icin-namaz-vakti">WIEBELSKIRCHEN</ilce>
+   <ilce value="10353" data-url="/tr-TR/10353/wiedenbruck-icin-namaz-vakti">WIEDENBRUCK</ilce>
+   <ilce value="10759" data-url="/tr-TR/10759/wiehl-icin-namaz-vakti">WIEHL</ilce>
+   <ilce value="11056" data-url="/tr-TR/11056/wiesbaden-icin-namaz-vakti">WIESBADEN</ilce>
+   <ilce value="10354" data-url="/tr-TR/10354/wiesloch-icin-namaz-vakti">WIESLOCH</ilce>
+   <ilce value="10538" data-url="/tr-TR/10538/wildbad-i-schw-icin-namaz-vakti">WILDBAD I. SCHW.</ilce>
+   <ilce value="10851" data-url="/tr-TR/10851/wildberg-icin-namaz-vakti">WILDBERG</ilce>
+   <ilce value="10355" data-url="/tr-TR/10355/wildeshausen-icin-namaz-vakti">WILDESHAUSEN</ilce>
+   <ilce value="10034" data-url="/tr-TR/10034/wilhelmsburg-icin-namaz-vakti">WILHELMSBURG</ilce>
+   <ilce value="10356" data-url="/tr-TR/10356/wilhelmshaven-icin-namaz-vakti">WILHELMSHAVEN</ilce>
+   <ilce value="10357" data-url="/tr-TR/10357/willich-icin-namaz-vakti">WILLICH</ilce>
+   <ilce value="10833" data-url="/tr-TR/10833/willstatt-icin-namaz-vakti">WILLSTATT</ilce>
+   <ilce value="10539" data-url="/tr-TR/10539/winnenden-icin-namaz-vakti">WINNENDEN</ilce>
+   <ilce value="10540" data-url="/tr-TR/10540/winsen-luhe-icin-namaz-vakti">WINSEN-LUHE</ilce>
+   <ilce value="10570" data-url="/tr-TR/10570/winterlingen-icin-namaz-vakti">WINTERLINGEN</ilce>
+   <ilce value="10358" data-url="/tr-TR/10358/wipperfurth-icin-namaz-vakti">WIPPERFURTH</ilce>
+   <ilce value="16764" data-url="/tr-TR/16764/wirges-icin-namaz-vakti">WIRGES</ilce>
+   <ilce value="10687" data-url="/tr-TR/10687/wismarm-icin-namaz-vakti">WISMAR(M)</ilce>
+   <ilce value="10359" data-url="/tr-TR/10359/witten-icin-namaz-vakti">WITTEN</ilce>
+   <ilce value="10541" data-url="/tr-TR/10541/wittenberge-icin-namaz-vakti">WITTENBERGE</ilce>
+   <ilce value="17925" data-url="/tr-TR/17925/witterschlick-icin-namaz-vakti">WITTERSCHLICK</ilce>
+   <ilce value="10361" data-url="/tr-TR/10361/wittlich-icin-namaz-vakti">WITTLICH</ilce>
+   <ilce value="10542" data-url="/tr-TR/10542/witzenhausen-icin-namaz-vakti">WITZENHAUSEN</ilce>
+   <ilce value="11059" data-url="/tr-TR/11059/wolfenbuttel-icin-namaz-vakti">WOLFENBUTTEL</ilce>
+   <ilce value="10362" data-url="/tr-TR/10362/wolfhagen-icin-namaz-vakti">WOLFHAGEN</ilce>
+   <ilce value="10543" data-url="/tr-TR/10543/wolfsburg-icin-namaz-vakti">WOLFSBURG</ilce>
+   <ilce value="11088" data-url="/tr-TR/11088/worms-icin-namaz-vakti">WORMS</ilce>
+   <ilce value="10805" data-url="/tr-TR/10805/worth-am-rhein-icin-namaz-vakti">WORTH AM RHEIN</ilce>
+   <ilce value="10363" data-url="/tr-TR/10363/wulfrath-icin-namaz-vakti">WULFRATH</ilce>
+   <ilce value="10364" data-url="/tr-TR/10364/wunstorf-icin-namaz-vakti">WUNSTORF</ilce>
+   <ilce value="11031" data-url="/tr-TR/11031/wuppertal-icin-namaz-vakti">WUPPERTAL</ilce>
+   <ilce value="10367" data-url="/tr-TR/10367/wurselen-icin-namaz-vakti">WURSELEN</ilce>
+   <ilce value="11029" data-url="/tr-TR/11029/wurzburg-icin-namaz-vakti">WURZBURG</ilce>
+   <ilce value="10544" data-url="/tr-TR/10544/wurzen-icin-namaz-vakti">WURZEN</ilce>
+   <ilce value="10638" data-url="/tr-TR/10638/wyk-icin-namaz-vakti">WYK</ilce>
+   <ilce value="10545" data-url="/tr-TR/10545/zeitz-icin-namaz-vakti">ZEITZ</ilce>
+   <ilce value="10700" data-url="/tr-TR/10700/zerbst-icin-namaz-vakti">ZERBST</ilce>
+   <ilce value="10597" data-url="/tr-TR/10597/zeven-icin-namaz-vakti">ZEVEN</ilce>
+   <ilce value="10546" data-url="/tr-TR/10546/zirndorf-icin-namaz-vakti">ZIRNDORF</ilce>
+   <ilce value="10368" data-url="/tr-TR/10368/zulpich-icin-namaz-vakti">ZULPICH</ilce>
+   <ilce value="10369" data-url="/tr-TR/10369/zweibrucken-icin-namaz-vakti">ZWEIBRUCKEN</ilce>
+   <ilce value="10547" data-url="/tr-TR/10547/zwickau-icin-namaz-vakti">ZWICKAU</ilce>
+   
+</iller>

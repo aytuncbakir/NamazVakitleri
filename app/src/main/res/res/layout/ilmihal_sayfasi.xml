@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/islay1"
+    tools:context="com.sivamalabrothersgmail.cevher.Ilmihalsayfasi">
+
+    <ScrollView
+        android:id="@+id/scw"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/btnlay"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:overScrollMode="always">
+
+        <EditText
+
+            android:id="@+id/cevsentahtasi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusable="false"
+            android:inputType="textMultiLine"
+            android:padding="8dp"
+            android:text=""
+            android:textAlignment="inherit"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimaryDark"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+
+    </ScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fabayarlar"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="3dp"
+        android:background="@android:color/holo_blue_dark"
+        android:clickable="true"
+        app:backgroundTint="@android:color/holo_blue_dark"
+        app:srcCompat="@android:drawable/ic_menu_rotate" />
+
+
+</RelativeLayout>

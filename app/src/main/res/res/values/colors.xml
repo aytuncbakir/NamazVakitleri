@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="turuncu">#ff5f00</color>
+    <color name="bordo">#610000</color>
+    <color name="yesil">#fdfdfd</color>
+    <color name="kahverengi">#683a00 </color>
+    <color name="eflatun">#570095 </color>
+    <color name="yavruagzi">#fc5d3d	 </color>
+    <color name="mor">#1e0d4a</color>
+    <color name="arkaplan">#009688</color>
+    <color name="buton_rengi">#004d40</color>
+    <color name="buton_rengi_pres">#e5faf7</color>
+    <color name="splash">#701919</color>
+
+    <color name="renk1">#000000</color>
+    <color name="renk2">#528B8B</color>
+    <color name="renk3">#228B22</color>
+    <color name="renk4">#191970</color>
+    <color name="renk5">#7A373B</color>
+    <color name="renk6">#CD2990</color>
+    <color name="renk7">#000080</color>
+    <color name="renk8">#1C1C1C</color>
+    <color name="renk9">#0000CD</color>
+    <color name="renk10">#00008B</color>
+    <color name="renk11">#8B2323</color>
+    <color name="renk12">#9932CC</color>
+    <color name="renk13">#8B3A62</color>
+    <color name="renk14">#CD6090</color>
+    <color name="renk15">#9400D3</color>
+
+
+
+</resources>

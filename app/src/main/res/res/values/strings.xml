@@ -1,0 +1,903 @@
+<resources>
+    <string name="app_name">Cevher</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="sifirla">Sayacı Yenile</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="tesbih">Sanal Tesbih</string>
+    <string name="tesbihat">Namaz Tesbihatı</string>
+    <string name="yenile">Yenile</string>
+    <string name="cevsen1">Cevşen</string>
+    <string name="tamam">Tamam</string>
+    <string name="manuel">Manuel Tesbih</string>
+    <string name="cvsarapca">Arapça</string>
+    <string name="cvsturkce">Türkçe</string>
+    <string name="cvsmeal">Meal</string>
+    <string name="kaydet">Tamam</string>
+    <string name="cevsen">Cevşen</string>
+    <string name="kuran">"Kuran-ı Kerim"</string>
+    <string name="tecvid">Tecvid</string>
+    <string name="veritabani">VeriTabani</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="ilmihal">İlmihal</string>
+
+
+
+    <string-array name="kategoriler">
+        <item>KURANDA PEYGAMBER DUALARI</item>
+        <item>SABAH DUALARI</item>
+        <item>AKŞAM DUALARI</item>
+        <item>CUMA OKUNACAK DUALAR</item>
+        <item>AŞİRLER</item>
+        <item>ESMA-İ HÜSNA</item>
+        <item>EFENDİMİZİN MUTAD OKUDUĞU SURELER</item>
+        <item>GÜNLÜK DUALAR</item>
+        <item>MÜBAREK GÜN VE GECELERDE YAPILACAK DUALAR</item>
+        <item>MUHTELİF DUALAR</item>
+        <item>HADİSLER</item>
+        <item>BENİM SEÇTİKLERİM</item>
+
+    </string-array>
+
+    <string-array name="kategoriler_ekle">
+        <item>KURANDA PEYGAMBER DUALARI</item>
+        <item>SABAH DUALARI</item>
+        <item>AKŞAM DUALARI</item>
+        <item>CUMA OKUNACAK DUALAR</item>
+        <item>AŞİRLER</item>
+        <item>ESMA-İ HÜSNA</item>
+        <item>EFENDİMİZİN MUTAD OKUDUĞU SURELER</item>
+        <item>GÜNLÜK DUALAR</item>
+        <item>MÜBAREK GÜN VE GECELERDE YAPILACAK DUALAR</item>
+        <item>MUHTELİF DUALAR</item>
+        <item>HADİSLER</item>
+        <item>BENİM SEÇTİKLERİM</item>
+        <item>İLMİHAL</item>
+
+    </string-array>
+
+    <string-array name="tecvid">
+
+        <item>Tecvid Dersleri</item>
+        <item>Ders1</item>
+        <item>Ders2</item>
+        <item>Ders3</item>
+        <item>Ders4</item>
+        <item>Ders5</item>
+        <item>Ders6</item>
+        <item>Ders7</item>
+        <item>Ders8</item>
+        <item>Ders9</item>
+        <item>Ders10</item>
+        <item>Ders11</item>
+        <item>Ders12</item>
+        <item>Ders13</item>
+    </string-array>
+
+
+    <string-array name="cevsen_listesi">
+
+        <item>"Cevşen\'ül Kebir"</item>
+        <item>1. Kısım (Bab 1-10) </item>
+        <item>2. Kısım (Bab 11-20)</item>
+        <item>3. Kısım (Bab 21-30)</item>
+        <item>4. Kısım (Bab 31-40)</item>
+        <item>5. Kısım (Bab 41-50)</item>
+        <item>6. Kısım (Bab 51-60)</item>
+        <item>7. Kısım (Bab 61-70)</item>
+        <item>8. Kısım (Bab 71-80)</item>
+        <item>9. Kısım (Bab 81-90)</item>
+        <item>10. Kısım (Bab 91-100)</item>
+        <item>Hatim Duası</item>
+
+    </string-array>
+
+
+    <string-array name="kuran_listesi">
+
+        <item>"Kur\'an-ı Kerim"</item>
+        <item>1- Fatiha Suresi</item>
+        <item>2- Bakara Suresi</item>
+        <item>3- Ali İmran Suresi</item>
+        <item>4- Nisa Suresi</item>
+        <item>5- Maide Suresi</item>
+        <item>6- Enam Suresi</item>
+        <item>7-  A\’râf Suresi</item>
+        <item>8- Enfâl Suresi</item>
+        <item>9- Tevbe Suresi</item>
+        <item>10- Yûnus Suresi</item>
+        <item>11- Hûd Suresi</item>
+        <item>12- Yûsuf Suresi</item>
+        <item>13- Ra’d Suresi</item>
+        <item>14- İbrahim Suresi</item>
+        <item>15- Hicr Suresi</item>
+        <item>16- Nahl Suresi</item>
+        <item>17- İsrâ Suresi</item>
+        <item>18- Kehf Suresi</item>
+        <item>19- Meryem Suresi</item>
+        <item>20- Tâ-Hâ Suresi</item>
+        <item>21- Enbiyâ Suresi</item>
+        <item>22- Hac Suresi</item>
+        <item>23- Mü’minûn Suresi</item>
+        <item>24- Nûr Suresi</item>
+        <item>25- Furkân Suresi</item>
+        <item>26- Şu’arâ Suresi</item>
+        <item>27- Neml Suresi</item>
+        <item>28- Kasas Suresi</item>
+        <item>29- Ankebût Suresi</item>
+        <item>30- Rûm Suresi</item>
+        <item>31- Lokmân Suresi</item>
+        <item>32- Secde Suresi</item>
+        <item>33- Ahzâb Suresi</item>
+        <item>34- Sebe Suresi</item>
+        <item>35- Fâtır Suresi</item>
+        <item>36- Yâsîn Suresi</item>
+        <item>37- Sâffât Suresi</item>
+        <item>38- Sâd Suresi</item>
+        <item>39- Zümer Suresi</item>
+        <item>40- Mü’min Suresi</item>
+        <item>41- Fussilet Suresi</item>
+        <item>42- Şûrâ Suresi</item>
+        <item>43- Zuhruf Suresi</item>
+        <item>44- Duhân Suresi</item>
+        <item>45- Câsiye Suresi</item>
+        <item>46- Ahkâf Suresi</item>
+        <item>47- Muhammed Suresi</item>
+        <item>48- Fetih Suresi</item>
+        <item>49- Hucurât Suresi</item>
+        <item>50- Kâf Suresi</item>
+        <item>51- Zâriyât Suresi</item>
+        <item>52- Tûr Suresi</item>
+        <item>53- Necm Suresi</item>
+        <item>54- Kamer Suresi</item>
+        <item>55- Rahmân Suresi</item>
+        <item>56- Vâkı’a Suresi</item>
+        <item>57- Hadîd Suresi</item>
+        <item>58- Mücâdele Suresi</item>
+        <item>59- Haşr Suresi</item>
+        <item>60- Mümtehine Suresi</item>
+        <item>61- Saff Suresi</item>
+        <item>62- Cum’a Suresi</item>
+        <item>63- Münâfikûn Suresi</item>
+        <item>64- Teğâbun Suresi</item>
+        <item>65- Talâk Suresi</item>
+        <item>66- Tahrîm Suresi</item>
+        <item>67- Mülk Suresi</item>
+        <item>68- Kalem Suresi</item>
+        <item>69- Hakka Suresi</item>
+        <item>70- Mearic Suresi</item>
+        <item>71- Nuh Suresi</item>
+        <item>72- Cin Suresi</item>
+        <item>73- Müzzemmil Suresi</item>
+        <item>74- Müddessir Suresi</item>
+        <item>75- Kıyâme Suresi</item>
+        <item>76- İnsan Suresi</item>
+        <item>77- Mürselât Suresi</item>
+        <item>78- Nebe Suresi</item>
+        <item>79- Nâzi’ât  Suresi</item>
+        <item>80- Abese Suresi</item>
+        <item>81- Tekvîr Suresi</item>
+        <item>82- İnfitâr Suresi</item>
+        <item>83- Mutaffifîn Suresi</item>
+        <item>84- İnşikâk Suresi</item>
+        <item>85- Bürûc Suresi</item>
+        <item>86- Târık Suresi</item>
+        <item>87- A’lâ  Suresi</item>
+        <item>88- Ğâşiye Suresi</item>
+        <item>89- Fecr Suresi</item>
+        <item>90- Beled Suresi</item>
+        <item>91- Şems Suresi</item>
+        <item>92- Leyl Suresi</item>
+        <item>93- Duha Suresi</item>
+        <item>94- İnşirah Suresi</item>
+        <item>95- Tin Suresi</item>
+        <item>96- Alak Suresi</item>
+        <item>97- Kadir Suresi</item>
+        <item>98- Beyyine Suresi</item>
+        <item>99- Zilzal Suresi</item>
+        <item>100- Adiyat Suresi</item>
+        <item>101- Karia Suresi</item>
+        <item>102- Tekasür Suresi</item>
+        <item>103- Asr Suresi</item>
+        <item>104- Hümeze Suresi</item>
+        <item>105- Fil Suresi</item>
+        <item>106- Kureyş Suresi</item>
+        <item>107- Maun Suresi</item>
+        <item>108- Kevser Suresi</item>
+        <item>109- Kafirun Suresi</item>
+        <item>110- Nasr Suresi</item>
+        <item>111- Tebbet Suresi</item>
+        <item>112- İhlas Suresi</item>
+        <item>113- Felak Suresi</item>
+        <item>114- Nas Suresi</item>
+        <item>Hatim Duası</item>
+    </string-array>
+
+
+
+    <string-array name="kategori_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+    <string-array name="boyut">
+
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+        <item>36</item>
+        <item>38</item>
+        <item>40</item>
+        <item>42</item>
+        <item>44</item>
+        <item>48</item>
+        <item>48</item>
+
+
+    </string-array>
+
+    <string-array name="temalar">
+        <item >Sayfa1</item>
+        <item >Sayfa2</item>
+        <item >Sayfa3</item>
+        <item >Sayfa4</item>
+        <item >Sayfa5</item>
+        <item >Sayfa6</item>
+        <item >Sayfa7</item>
+        <item >Sayfa8</item>
+        <item >Sayfa9</item>
+        <item >Sayfa10</item>
+
+    </string-array>
+
+
+    <string-array name="tema_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+    </string-array>
+
+
+
+
+    <string name="sabahtsb">
+
+"SABAH NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiati'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Sabah Namazının iki rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+4
+Müteakiben 1 def'a
+Allâhumme innâ nukâddimu ileyke beyne yedey külli nefesin ve lemhatin ve lahzatin ve tarfatin yatrifu bihâ ehlü's-semâvâti ve ehlü'l-aradîyn, şehâdeten eşhedü en Lâ ilâhe illallâhu vahdehu lâ şerike leh,
+
+5
+Müteakiben 10 def'a Lâ ilâhe illallâhu vahdehu lâ şerike leh lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit ve hüve hayyun lâ yemût biyedihi'l-hayr ve hüve alâ külli şey’in kadir denir. Onuncusundâ en sonuna ve ileyhi'l-masîyr eklenir.
+
+6
+Tevbe istiğfâr duâsı okunur.Eller açılır ancak avuç içleri yere bakar.
+Allâhümme ecirnâ mine'n-nâr (3-5 veyâ 7 defâ)
+Allâhümme ecirnâ min külli nâr.
+Allâhümme ecirnâ min fitneti'd-dîniyyeti ve dünyeviyyeh
+Allâhümme ecirnâ min fitneti ahiri'z-zamân
+Allâhümme ecirnâ min fitneti'l-mesihi'd-deccâli ve's-sufyân
+Allâhümme ecirnâ mine'd-dalâlâti ve'l-bıd'ıyyâti ve'l-beliyyât
+Allâhümme ecirnâ min şerri'n-nefsi'l-emmâreh
+Allâhümme ecirnâ min şurûri'n-nüfûsi'l-emmârati'l-firâvniyyeh
+Allâhümme ecirnâ min şerri'n-nisâ
+Allâhümme ecirnâ min belâ'in-nisâ
+Allâhümme ecirnâ min fitneti'n-nisâ
+Allâhümme ecirnâ min azâbi'l-kâbr
+Allâhümme ecirnâ min azâbi'l-yevmi'l-kıyâmeh
+Allâhümme ecirnâ min azâbi cehennem
+Allâhümme ecirnâ min âzâbi kahrik
+Allâhümme ecirnâ min nâri kahrik
+Allâhümme ecirnâ min azâbi'l-kabri ve'n-nîrân
+Allâhümme ecirnâ mine'r-riyâi ve's-sum’âti ve'l-ucubi ve'l-fâhr
+Allâhümme ecirnâ min tecâvuzi'l-mülhidîyn
+Allâhümme ecirnâ min şerri'l-munâfıkîyn
+Allâhümme ecirnâ min fitneti'l-fâsıkîyn
+Allâhümme ecirnâ ve ecir vâlideynâ ve talebete rasâili'n-nûru's-sâdıkîyne fi hizmeti'l-kur’âni ve'l-imân, ve ahbâbene'l-mü’minîne'l-muhlisîyne ve akrıbâenâ ve ecdâdenâ mine'n-nâr (Eller yukarı çevrilir)Bi afvike yâ mücir bi fadlike yâ gâffâr. Âllâhümme edhılne'l-cennete mea'l-ebrâr. Âllâhumme edhılne'l-cennete meâ'l-ebrâr. Allâhumme edhılnâ ve edhı'l-üstâdenâ Said-i Nursî radıyallahu anh ve vâlideynâ ve talebete rasâili'n-nûru ve ıhvânenâ ve ehâvatenâ ve akribâenâ ve ecdâdenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne fi hizmeti'l-imâni ve'l-kur’ân, el cennete meâ'l-ebrâr, salli alâ nebiyyike'l-muhtar ve âlihi'l-athâr ve ashâbihi'l-ahyâr ve sellim mâdâme'l-leylü ve'n-nehâr. Âmin, ve'l-hamdü lillâhi rabbi'l-âlemin.
+
+7
+Daha sonra bilinen namaz tesbihatına devam edilir.
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa
+Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+Allahumme salli ve sellim ve bârik alâ seyyidinâ muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeden rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben Tercüme-i İsm-i Âzâm Duası okunur
+Bismillâhirrahmânirrahiym.
+
+Subhaneke ya Allâh tealeyte yâ Rahman ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Râhiym tealeyteyâ Kerimecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhanekeya Hâmid tealeyte yâ Hâkim ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mecid tealeyte yâ Melikecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kuddüs tealeyte yâ Selâm ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mü’min tealeyte yâ Müheymin ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Âziz tealeyte yâ Cebbâr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mütekebbir tealeyte yâ Hâlık ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Evvel tealeyte yâ Âhir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya zâhir tealeyte yâ Bâtın ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Bâri tealeyte yâ Musâvvir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Tevvâb tealeyteyâ Vehhâb ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Bâis tealeyte yâ Vâris ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kâdim tealeyte yâ Mukim  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Ferd tealeyte yâ Vitr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Nur tealeyte yâ Settâr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Celil tealeyte yâ Cemil ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kâhir tealeyte yâ Kâdir  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Melik tealeyte yâ Muktedir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Alim tealeyte yâ Âllâm ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Aziym tealeyte yâ Gâfur ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hâlim tealeyte yâ Vedud ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhanekeya Şehid tealeyte yâ Şâhid ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kebir tealeyte yâ Müteâlecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Nur tealeyte yâ Lâtif ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Semi' tealeyte yâ Kefil ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kârib tealeyte yâ Bâsiyr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hâkk tealeyte yâ Mübin ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Râuf tealeyte yâ Râhiym ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Tâhir tealeyte yâ Müteâhhir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mücemmil tealeyte yâ Mufâddil ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Müzhır tealeyte yâ Mün’im ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Deyyân tealeyte yâ Sultân ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hânnân tealeyte yâ Mennân ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Ehâd tealeyte yâ Sâmed ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hâyy tealeyte yâ Kâyyum ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Adl tealeyte yâ Hâkem ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Ferd tealeyte yâ Kuddûsecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+Subhâneke âhiyyen şerâhiyyen tealeyte lâ ilâhe illâ ente ecirnâ ve ecir üstâdenâ ve vâlideynâ ve rufekâenâ ve âkribâenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne mine'n-nâr ve min külli nâr (eller aşağıya çevrilir) vahfaznâ minşerri'n-nefsi ve'ş-şeytan ve min şerri'l-cinni ve'l-insân ve min şerri'l-bid’âti ve'd-dalâleti ve'l-ilhâdi ve't-tuğyân (eller yukârı çevrilir) bi âfvike yâ Mücir, bi fadlike yâ Gaffâr, bi rahmetike yâ erhame'r-râhimîn.
+Allâhumme edhilne'l-cennete mea'l-ebrâr, bişefâati nebiyyike'l-muhtar. Amîn ve'l-hamdülillâhi rabbi'l-âlemin.
+E'uzü besmele çekilerek Haşr Suresinin son beş ayeti "Lâ yestevî" okunur.
+
+
+
+
+        "
+    </string>
+
+    <string name="ogletsb">
+
+"ÖĞLE NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiate'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Öğlen Namazının dört rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+7
+İki rek'at sünnet kılındıktan sonra bilinen namaz tesbihatına devam edilir.
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa (sabah namâzından sonra 100 defa okunabilir) Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+Allahumme salli ve sellim ve bârik alâ seyyidinâ Muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeder-rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben İsmi Âzâm Duası okunur
+Bismillâhirrahmânirrahiym.
+
+Yâ Cemilu Yâ Allâh
+Yâ Karîbu Yâ Allâh
+Yâ Mücîbu Yâ Allâh
+Yâ Habîbu Yâ Allâh
+Yâ Raûfu Yâ Allâh
+Yâ Atûfu Yâ Allâh
+Yâ Ma’rûfu Yâ Allâh
+Yâ Latîfü Yâ Allâh
+Yâ Azîymü Yâ Allâh
+Yâ Hannânü Yâ Allâh
+Yâ Mennânü Yâ Allâh
+Yâ Deyyânü Yâ Allâh
+Yâ Subhânü Yâ Allâh
+Yâ Emânü Yâ Allâh
+Yâ Bürhânü Yâ Allâh
+Yâ Sultânü Yâ Allâh
+Yâ Müste'ânü Yâ Allâh
+Yâ Muhsinü Yâ Allâh
+Yâ Mütealü Yâ Allâh
+Yâ Rahmânü Yâ Allâh
+Yâ Rahîmü Yâ Allâh
+Yâ Kerîmü Yâ Allâh
+Yâ Mecîdü Yâ Allâh
+Yâ Ferdü Yâ Allâh
+Yâ Vitru Yâ Allâh
+Yâ Ehadü Yâ Allâh
+Yâ Samedü Yâ Allâh
+Yâ Mahmûdu Yâ Allâh
+Yâ Sadıka'l-vâ’di Yâ Allâh
+Yâ Âliyyü Yâ Allâh
+Yâ Ganiyyü Yâ Allâh
+Yâ Şâfî Yâ Allâh
+Yâ Kâfî Yâ Allâh
+Yâ Muâfî Yâ Allâh
+Yâ Bâkî Yâ Allâh
+Yâ Hâdî Yâ Allâh
+Yâ Kâdiru Yâ Allâh
+Yâ Sâtiru Yâ Allâh
+Yâ Kahhâru Yâ Allâh
+Yâ Cebbâru Yâ Allâh
+Yâ Gaffâru Yâ Allâh
+Yâ Fettâhu Yâ Allâh
+
+Eller açılır, Yâ rabbe's-semâvâti ve'l-ard, yâ zelcelâli ve'l-ikrâm. Es’elüke bi hakkı hâzihi'l-esmâi küllihâ en tüsâlliye alâ seyyidinâ Muhammedin ve alâ âli Muhammed, verham Muhammeden kemâ salleyte ve sellemte ve bârekte ve râhimte ve terahhamte alâ ibrâhîme ve alâ âli ibrâhime fil alemin. Rabbenâ inneke hamîdun mecid. Birâhmetike yâ erhâme'r-râhimin. Velhamdü lillâhi rabbi'l-âlemin denir.
+
+E'uzü besmele çekilerek "Lekad sadakallahü" aşri okunur.
+
+
+
+
+        "
+
+    </string>
+
+    <string name="ikinditsb">
+"İKİNDİ NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiati'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+İkindi Namazının dört rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+7
+Daha sonra bilinen namaz tesbihatına devam edilir.
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa
+Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+Allahumme salli ve sellim ve bârik alâ seyyidinâ muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeden rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben Tercüme-i İsm-i Âzâm Duası okunur
+Bismillâhirrahmânirrahiym.
+
+Subhaneke ya Allâh tealeyte yâ Rahman ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Râhiym tealeyteyâ Kerimecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhanekeya Hâmid tealeyte yâ Hâkim ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mecid tealeyte yâ Melikecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kuddüs tealeyte yâ Selâm ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mü’min tealeyte yâ Müheymin ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Âziz tealeyte yâ Cebbâr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mütekebbir tealeyte yâ Hâlık ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Evvel tealeyte yâ Âhir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya zâhir tealeyte yâ Bâtın ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Bâri tealeyte yâ Musâvvir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Tevvâb tealeyteyâ Vehhâb ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Bâis tealeyte yâ Vâris ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kâdim tealeyte yâ Mukim  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Ferd tealeyte yâ Vitr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Nur tealeyte yâ Settâr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Celil tealeyte yâ Cemil ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kâhir tealeyte yâ Kâdir  ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Melik tealeyte yâ Muktedir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Alim tealeyte yâ Âllâm ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Aziym tealeyte yâ Gâfur ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hâlim tealeyte yâ Vedud ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhanekeya Şehid tealeyte yâ Şâhid ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kebir tealeyte yâ Müteâlecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Nur tealeyte yâ Lâtif ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Semi' tealeyte yâ Kefil ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Kârib tealeyte yâ Bâsiyr ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hâkk tealeyte yâ Mübin ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Râuf tealeyte yâ Râhiym ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Tâhir tealeyte yâ Müteâhhir ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Mücemmil tealeyte yâ Mufâddil ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Müzhır tealeyte yâ Mün’im ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Deyyân tealeyte yâ Sultân ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hânnân tealeyte yâ Mennân ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Ehâd tealeyte yâ Sâmed ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Hâyy tealeyte yâ Kâyyum ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Adl tealeyte yâ Hâkem ecirnâ mine'n-nâr bi afvike yâ Rahmân
+Subhaneke ya Ferd tealeyte yâ Kuddûsecirnâ mine'n-nâr bi afvike yâ Rahmân
+
+
+Eller açılır, Subhâneke âhiyyen şerâhiyyen tealeyte lâ ilâhe illâ ente ecirnâ ve ecir üstâdenâ ve vâlideynâ ve rufekâenâ ve âkribâenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne mine'n-nâr ve min külli nâr (eller aşağıya çevrilir) vahfaznâ minşerri'n-nefsi ve'ş-şeytan ve min şerri'l-cinni ve'l-insân ve min şerri'l-bid’âti ve'd-dalâleti ve'l-ilhâdi ve't-tuğyân (eller yukârı çevrilir) bi âfvike yâ Mücir, bi fadlike yâ Gaffâr, bi rahmetike yâ erhame'r-râhimîn.
+Allâhumme edhilne'l-cennete mea'l-ebrâr, bişefâati nebiyyike'l-muhtar. Amîn ve'l-hamdülillâhi rabbi'l-âlemin.
+
+E'uzü besmele çekilerek "Nebe Suresi (Amme)" okunur.
+
+
+
+
+        "
+
+
+    </string>
+
+    <string name="aksamtsb">
+
+"AKŞAM NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiati'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Akşam Namazının üç rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+4
+İki rek'at sünneti müteakip, 1 def'a
+Amennâ biennehu denir.
+
+5
+Müteakiben 9 def'a
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit; biyedihi'l-hayr ve hüve alâ külli şey’in kadir denir. Onuncusunda Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit ve hüve hayyun lâ yemût biyedihi'l-hayr ve hüve alâ külli şey’in kadirve ileyhi'l-masîyr eklenir.
+
+6
+Tevbe istiğfâr duâsı okunur.Eller açılır ancak avuç içleri yere bakar.
+Allâhümme ecirnâ mine'n-nâr (3-5 veyâ 7 defâ)
+Allâhümme ecirnâ min külli nâr.
+Allâhümme ecirnâ min fitneti'd-dîniyyeti ve dünyeviyyeh
+Allâhümme ecirnâ min fitneti ahiri'z-zamân
+Allâhümme ecirnâ min fitneti'l-mesihi'd-deccâli ve's-sufyân
+Allâhümme ecirnâ mine'd-dalâlâti ve'l-bıd'ıyyâti ve'l-beliyyât
+Allâhümme ecirnâ min şerri'n-nefsi'l-emmâreh
+Allâhümme ecirnâ min şurûri'n-nüfûsi'l-emmârati'l-firâvniyyeh
+Allâhümme ecirnâ min şerri'n-nisâ
+Allâhümme ecirnâ min belâ'in-nisâ
+Allâhümme ecirnâ min fitneti'n-nisâ
+Allâhümme ecirnâ min azâbi'l-kâbr
+Allâhümme ecirnâ min azâbi'l-yevmi'l-kıyâmeh
+Allâhümme ecirnâ min azâbi cehennem
+Allâhümme ecirnâ min âzâbi kahrik
+Allâhümme ecirnâ min nâri kahrik
+Allâhümme ecirnâ min azâbi'l-kabri ve'n-nîrân
+Allâhümme ecirnâ mine'r-riyâi ve's-sum’âti ve'l-ucubi ve'l-fâhr
+Allâhümme ecirnâ min tecâvuzi'l-mülhidîyn
+Allâhümme ecirnâ min şerri'l-munâfıkîyn
+Allâhümme ecirnâ min fitneti'l-fâsıkîyn
+Allâhümme ecirnâ ve ecir vâlideynâ ve talebete rasâili'n-nûru's-sâdıkîyne fi hizmeti'l-kur’âni ve'l-imân, ve ahbâbene'l-mü’minîne'l-muhlisîyne ve akrıbâenâ ve ecdâdenâ mine'n-nâr (Eller yukarı çevrilir)Bi afvike yâ mücir bi fadlike yâ gâffâr. Âllâhümme edhılne'l-cennete mea'l-ebrâr. Âllâhumme edhılne'l-cennete meâ'l-ebrâr. Allâhumme edhılnâ ve edhı'l-üstâdenâ Said-i Nursî radıyallahu anh ve vâlideynâ ve talebete rasâili'n-nûru ve ıhvânenâ ve ehâvatenâ ve akribâenâ ve ecdâdenâ ve ahbâbene'l-mü’minîne'l-muhlisîyne fi hizmeti'l-imâni ve'l-kur’ân, el cennete meâ'l-ebrâr, salli alâ nebiyyike'l-muhtar ve âlihi'l-athâr ve ashâbihi'l-ahyâr ve sellim mâdâme'l-leylü ve'n-nehâr. Âmin, ve'l-hamdü lillâhi rabbi'l-âlemin.
+
+7
+Bilinen namaz tesbihatına devam edilir.
+Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+Allahumme salli ve sellim ve bârik alâ seyyidinâ muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeden rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben İsm-i Âzâm Duası okunur
+Bismillâhirrahmânirrahiym
+
+Yâ Cemilu Yâ Allâh
+Yâ Karîbu Yâ Allâh
+Yâ Mücîbu Yâ Allâh
+Yâ Habîbu Yâ Allâh
+Yâ Raûfu Yâ Allâh
+Yâ Atûfu Yâ Allâh
+Yâ Ma’rûfu Yâ Allâh
+Yâ Latîfü Yâ Allâh
+Yâ Azîymü Yâ Allâh
+Yâ Hannânü Yâ Allâh
+Yâ Mennânü Yâ Allâh
+Yâ Deyyânü Yâ Allâh
+Yâ Subhânü Yâ Allâh
+Yâ Emânü Yâ Allâh
+Yâ Bürhânü Yâ Allâh
+Yâ Sultânü Yâ Allâh
+Yâ Müste'ânü Yâ Allâh
+Yâ Muhsinü Yâ Allâh
+Yâ Mütealü Yâ Allâh
+Yâ Rahmânü Yâ Allâh
+Yâ Rahîmü Yâ Allâh
+Yâ Kerîmü Yâ Allâh
+Yâ Mecîdü Yâ Allâh
+Yâ Ferdü Yâ Allâh
+Yâ Vitru Yâ Allâh
+Yâ Ehadü Yâ Allâh
+Yâ Samedü Yâ Allâh
+Yâ Mahmûdu Yâ Allâh
+Yâ Sadıka'l-vâ’di Yâ Allâh
+Yâ Âliyyü Yâ Allâh
+Yâ Ganiyyü Yâ Allâh
+Yâ Şâfî Yâ Allâh
+Yâ Kâfî Yâ Allâh
+Yâ Muâfî Yâ Allâh
+Yâ Bâkî Yâ Allâh
+Yâ Hâdî Yâ Allâh
+Yâ Kâdiru Yâ Allâh
+Yâ Sâtiru Yâ Allâh
+Yâ Kahhâru Yâ Allâh
+Yâ Cebbâru Yâ Allâh
+Yâ Gaffâru Yâ Allâh
+Yâ Fettâhu Yâ Allâh
+
+Eller açılır, Yâ rabbe's-semâvâti ve'l-ard, yâ zelcelâli ve'l-ikrâm. Es’elüke bi hakkı hâzihi'l-esmâi küllihâ en tüsâlliye alâ seyyidinâ Muhammedin ve alâ âli Muhammed, verham Muhammeden kemâ salleyte ve sellemte ve bârekte ve râhimte ve terahhamte alâ ibrâhîme ve alâ âli ibrâhime fil alemin. Rabbenâ inneke hamîdun mecid. Birâhmetike yâ erhâme'r-râhimin. Velhamdü lillâhi rabbi'l-âlemin denir.
+E'uzü besmele çekilerek Haşr Suresinin son beş ayeti "Lâ yestevî" okunur.
+
+
+
+
+        "
+
+    </string>
+
+    <string name="yatsitsb">
+
+        "YATSI NAMAZI TESBİHATI
+
+1
+Ezan ve kâmetin arkasından bu dua okunur.
+Allahümme rabbe hazihi'd-davet'it-tâmmeh, ve's-salâti'l-kaimeh, âti seyyidina Muhammeden'il-vesilete ve'l-fazilete ve'derecate'r-rafiate'l âliyeh, ilahî veb'ashu makâmen mahmuden'illez'i vaadteh. İnneke lâ tuhlifu'l-mîâd.
+
+2
+Yatsı Namazının dört rek'atlik farzından sonra "SELAM DUASI" okunur
+Estağfirullâh, estağfirullâh, estağfirullâh el-azîym el-kerîm, ellezî lâ ilâhe illâ hû, el-hayy'el kayyûm, ve etübü ileyh. Allâhumme ente's-selâmü ve minke's-selâm, tebârekte yâ zelcelâli ve'l-ikrâm
+
+3
+Arkasından "Salâten Tüncinâ" ya da "Salât-ı Münciye" olarak bilinen duâ okunur.
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ âli seyyidinâ Muhammed. Salâten tuncînâ bihâ min cemîil ahvâli ve'l-âfât. Ve takdîlenâ bihâ cemiâ'l-hâcât. Ve tutahhirunâ bihâ min cemî'ıs-seyyiât. Ve terfeunâ bihâ indeke â’led-deracât. Ve tübelliğunâ bihâ aksa'l-gâyât. Min cemî'il-hayrâti fi'l-hâyâti ve ba’de'l-memât. Âmin yâ mücib'ed-deavât, ve'l-hamdü lillâhi rabb'il-âlemin.
+
+7
+İki rek'at sünnet ve Vitr Namazı kılındıktan sonra bilinen namaz tesbihatına devam edilir.
+Allahümme salli alâ seyyidinâ Muhammed. Subhânallâhi ve'l-hâmdü lillâhi ve lâ ilâhe illallâhü vallâhu ekber, ve lâ hâvle ve lâ kuvvete illâ billâhi'l-aliyyü'l-azîym
+
+8
+Ayete'l Kürsi okunduktan sonra tesbih çekilir.
+33 Subhânallâh,
+33 Elhamdulillâh,
+33 Âllâhuekber.
+
+9
+Tesbihlerden sonra
+Lâ ilâhe illallâhu vahdehu lâ şerike leh, lehü'l-mülkü ve lehü'l-hâmdü yuhyi ve yumit, ve hüve hayyun lâ yemût, biyedihi'l-hayr ve hüve alâ külli şey’in kadir ve ileyhi'l-masîyr denir ve namazın duası yapılır.
+
+10
+Duâdan sonra;
+Fa'lem ennehu denir ve 33 defa (sabah namâzından sonra 100 defa okunabilir) Lâ ilâhe illâllâh okunur. Sonra Muhammede'r- resûlullâhi sallallâhü teâlâ âleyhi ve sellem denir.
+
+11
+Besmele çekilip;
+İnnallâhe ve melâiketehû yusallûne alennebiyy; yâ eyyühellezine âmenu, sallû aleyhi ve sellimu teslîmâ âyeti okunup Lebbeyk denir.
+
+12
+Müteakiben;
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesirâ,
+Allâhümme sâlli alâ seyyidinâ Muhammedin ve alâ ali seyyidinâ muhammedin biadedi külli dâin ve devâin ve bârik ve sellim aleyhi ve aleyhim kesîran kesîrâ,
+Salli ve sellim yâ rabbi alâ hâbibike muhammedin ve alâ cemî'il-enbiyâi ve'l-mürselîn, ve alâ âli küllin ve sâhbi küllin ecmâin, âmîn, velhâmdulillâhi râbbi'l-âlemîn.
+denir
+
+13
+Müteakiben;
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Rasûllallâh
+Elfü elfi salâtin ve elfü elfi selâmin âleyke yâ Habîballâh
+Elfü elfi sâlâtin ve elfü elfi selâmin âleyke yâ emîne vahyillâh
+Allahumme salli ve sellim ve bârik alâ seyyidinâ Muhammedin ve alâ âlihi ve ashâbihî, biadedi evrâki'l-eşcâr ve emvâci'l-bihâr ve katarâti'l-emtâr. Vâğfirlenâ verhamnâ ve'l-tüfbinâ ve bi üstâdinâ ve vâlideynâ ve bi talebeti rasâili'n-nuru's-sadıkîyne yâ ilahenâ bi külli salâtin minhâ eşhedühen lâ ilâhe illallâh ve eşhedü enne muhammeder-rasûllullâhi sallallâhu teâlâ âleyhi ve sellem denir.
+
+Müteakiben İsmi Âzâm Duası okunur
+Bismillâhirrahmânirrahim.
+
+Yâ Cemilu Yâ Allâh
+Yâ Karîbu Yâ Allâh
+Yâ Mücîbu Yâ Allâh
+Yâ Habîbu Yâ Allâh
+Yâ Raûfu Yâ Allâh
+Yâ Atûfu Yâ Allâh
+Yâ Ma’rûfu Yâ Allâh
+Yâ Latîfü Yâ Allâh
+Yâ Azîymü Yâ Allâh
+Yâ Hannânü Yâ Allâh
+Yâ Mennânü Yâ Allâh
+Yâ Deyyânü Yâ Allâh
+Yâ Subhânü Yâ Allâh
+Yâ Emânü Yâ Allâh
+Yâ Bürhânü Yâ Allâh
+Yâ Sultânü Yâ Allâh
+Yâ Müste'ânü Yâ Allâh
+Yâ Muhsinü Yâ Allâh
+Yâ Mütealü Yâ Allâh
+Yâ Rahmânü Yâ Allâh
+Yâ Rahîmü Yâ Allâh
+Yâ Kerîmü Yâ Allâh
+Yâ Mecîdü Yâ Allâh
+Yâ Ferdü Yâ Allâh
+Yâ Vitru Yâ Allâh
+Yâ Ehadü Yâ Allâh
+Yâ Samedü Yâ Allâh
+Yâ Mahmûdu Yâ Allâh
+Yâ Sadıka'l-vâ’di Yâ Allâh
+Yâ Âliyyü Yâ Allâh
+Yâ Ganiyyü Yâ Allâh
+Yâ Şâfî Yâ Allâh
+Yâ Kâfî Yâ Allâh
+Yâ Muâfî Yâ Allâh
+Yâ Bâkî Yâ Allâh
+Yâ Hâdî Yâ Allâh
+Yâ Kâdiru Yâ Allâh
+Yâ Sâtiru Yâ Allâh
+Yâ Kahhâru Yâ Allâh
+Yâ Cebbâru Yâ Allâh
+Yâ Gaffâru Yâ Allâh
+Yâ Fettâhu Yâ Allâh
+
+
+Eller açılır, Yâ rabbe's-semâvâti ve'l-ard, yâ zelcelâli ve'l-ikrâm. Es’elüke bi hakkı hâzihi'l-esmâi küllihâ en tüsâlliye alâ seyyidinâ Muhammedin ve alâ âli Muhammed, verham Muhammeden kemâ salleyte ve sellemte ve bârekte ve râhimte ve terahhamte alâ ibrâhîme ve alâ âli ibrâhime fil alemin. Rabbenâ inneke hamîdun mecid. Birâhmetike yâ erhâme'r-râhimin. Velhamdü lillâhi rabbi'l-âlemin denir.
+E'uzü besmele çekilerek Bakara Suresinin son iki ayeti Âmene'r-resûlü aşri okunur.
+
+
+
+
+        "
+
+    </string>
+
+
+
+</resources>

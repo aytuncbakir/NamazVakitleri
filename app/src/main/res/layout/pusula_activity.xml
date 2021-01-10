@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color6"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/arkaplan">
+
+    <TextView
+        android:id="@+id/tvHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/krem"
+        android:text="Heading: 0.0" />
+
+
+
+    <FrameLayout
+        android:id="@+id/playVideo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/tvHeading">
+
+
+        <ImageView
+            android:id="@+id/imageViewCompass"
+            android:layout_width="372dp"
+            android:layout_height="381dp"
+           android:layout_gravity="center"
+            android:src="@drawable/img_compass" />
+
+        <ImageView
+            android:id="@+id/imageViewYon"
+            android:layout_width="370dp"
+            android:layout_height="581dp"
+            android:layout_gravity="center"
+            android:src="@drawable/yon" />
+
+
+    </FrameLayout>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabpaylas"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="3dp"
+        android:background="@color/colorPrimary"
+        app:backgroundTint="@color/colorPrimary"
+        android:clickable="true"
+        app:srcCompat="@android:drawable/ic_dialog_info" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fabHarita"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="3dp"
+        android:layout_marginBottom="3dp"
+        android:background="@color/colorPrimary"
+        app:backgroundTint="@color/colorPrimary"
+        android:clickable="true"
+        app:srcCompat="@android:drawable/ic_dialog_map" />
+
+
+
+
+
+</RelativeLayout>

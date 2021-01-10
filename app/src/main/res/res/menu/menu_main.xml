@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/ayarlar"
+        android:orderInCategory="1"
+        android:title="@string/ayarlar"
+        android:icon="@android:drawable/ic_menu_preferences"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/bilgi"
+        android:orderInCategory="0"
+        android:title="@string/bilgi"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/anasayfa"
+        android:orderInCategory="2"
+        android:title="@string/anasayfa"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/tesbih"
+        android:orderInCategory="5"
+        android:title="@string/tesbih"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/manuel"
+        android:orderInCategory="7"
+        android:title="@string/manuel"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/cevsen"
+        android:orderInCategory="2"
+        android:title="@string/cevsen"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/tesbihat"
+        android:orderInCategory="8"
+        android:title="@string/tesbihat"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/kuran"
+        android:orderInCategory="4"
+        android:title="@string/kuran"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/tecvid"
+        android:orderInCategory="3"
+        android:title="@string/tecvid"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+    <item
+        android:id="@+id/ilmihal"
+        android:orderInCategory="3"
+        android:title="@string/ilmihal"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="ifRoom|withText"
+        />
+
+
+</menu>

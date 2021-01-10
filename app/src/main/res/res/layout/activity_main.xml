@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lay1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sayfa9"
+    android:orientation="vertical"
+    tools:context="com.sivamalabrothersgmail.cevher.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/splay"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="33dp"
+        android:orientation="vertical">
+
+        <Spinner
+            android:id="@+id/spkategori"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dialog" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:spinnerMode="dropdown" />
+
+        <ScrollView
+
+            android:id="@+id/scrl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:overScrollMode="always">
+
+            <EditText
+                android:id="@+id/yazitahtasi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoSizeTextType="none"
+                android:elevation="10dp"
+                android:ems="10"
+                android:focusable="false"
+                android:gravity="center_vertical|center_horizontal"
+                android:inputType="textMultiLine"
+                android:padding="8dp"
+                android:scrollbars="vertical"
+                android:text=""
+                android:textAlignment="inherit"
+                android:textAllCaps="false"
+                android:textColor="@color/colorPrimaryDark"
+                android:textColorLink="@android:color/white"
+                android:textIsSelectable="true"
+                android:textSize="14sp"
+
+                />
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/btnlay"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnarapca"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/buton"
+            android:paddingTop="5dp"
+            android:text="Arapça"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/btnturkce"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/buton"
+            android:paddingTop="5dp"
+            android:text="Türkçe"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/btnmeal"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/buton"
+            android:paddingTop="5dp"
+            android:text="Meal"
+            android:gravity="center_vertical|center_horizontal"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/sayaclay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="0px"
+        android:orientation="vertical"
+        android:paddingBottom="0dp">
+
+
+        <RelativeLayout
+            android:id="@+id/rlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/txtadet"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_above="@+id/btnsayac"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:background="@drawable/buton_normal"
+                android:gravity="center_vertical|center_horizontal"
+                android:text=""
+                android:textColor="@color/colorPrimaryDark" />
+
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fab"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignBottom="@+id/btnsayac"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="bottom|end"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:background="@android:color/holo_blue_dark"
+                app:backgroundTint="@android:color/holo_blue_dark"
+                app:srcCompat="@android:drawable/ic_menu_add" />
+
+            <Button
+                android:id="@+id/btnsayac"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:background="@drawable/buton_selektor"
+                android:gravity="center_vertical|center_horizontal"
+                android:text=""
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="40sp" />
+
+
+            <Button
+                android:id="@+id/btnsayac1"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_above="@+id/btnsayac"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center"
+                android:background="@drawable/buton_selektor"
+                android:gravity="center_vertical|center_horizontal"
+                android:text=""
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="40sp" />
+
+            <Button
+                android:id="@+id/btnsayac2"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:layout_above="@+id/btnsayac"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_gravity="center"
+                android:background="@drawable/buton_selektor"
+                android:gravity="center_vertical|center_horizontal"
+                android:text=""
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="40sp" />
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fabyenile"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="18dp"
+                android:layout_marginStart="18dp"
+                android:background="@android:color/holo_blue_dark"
+                android:clickable="true"
+                app:backgroundTint="@android:color/holo_blue_dark"
+                app:srcCompat="@android:drawable/ic_menu_rotate" />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+ <california name="california">
+ <ilce value="8600" data-url="/tr-TR/8600/anaheim-icin-namaz-vakti">ANAHEIM</ilce>
+<ilce value="8601" data-url="/tr-TR/8601/antioch-icin-namaz-vakti">ANTIOCH</ilce>
+<ilce value="8602" data-url="/tr-TR/8602/bakersfield-icin-namaz-vakti">BAKERSFIELD</ilce>
+<ilce value="8603" data-url="/tr-TR/8603/berkeley-icin-namaz-vakti">BERKELEY</ilce>
+<ilce value="8604" data-url="/tr-TR/8604/burbank-icin-namaz-vakti">BURBANK</ilce>
+<ilce value="8605" data-url="/tr-TR/8605/chico-icin-namaz-vakti">CHICO</ilce>
+<ilce value="8606" data-url="/tr-TR/8606/chula-vista-icin-namaz-vakti">CHULA VISTA</ilce>
+<ilce value="8607" data-url="/tr-TR/8607/concord-icin-namaz-vakti">CONCORD</ilce>
+<ilce value="8608" data-url="/tr-TR/8608/costa-mesa-icin-namaz-vakti">COSTA MESA</ilce>
+<ilce value="8609" data-url="/tr-TR/8609/daly-city-icin-namaz-vakti">DALY CITY</ilce>
+<ilce value="8610" data-url="/tr-TR/8610/danville-icin-namaz-vakti">DANVILLE</ilce>
+<ilce value="8611" data-url="/tr-TR/8611/davis-icin-namaz-vakti">DAVIS</ilce>
+<ilce value="8612" data-url="/tr-TR/8612/escondido-icin-namaz-vakti">ESCONDIDO</ilce>
+<ilce value="8613" data-url="/tr-TR/8613/folsom-icin-namaz-vakti">FOLSOM</ilce>
+<ilce value="8614" data-url="/tr-TR/8614/fontana-icin-namaz-vakti">FONTANA</ilce>
+<ilce value="8615" data-url="/tr-TR/8615/fremont-icin-namaz-vakti">FREMONT</ilce>
+<ilce value="8616" data-url="/tr-TR/8616/fresno-icin-namaz-vakti">FRESNO</ilce>
+<ilce value="8617" data-url="/tr-TR/8617/glendale-icin-namaz-vakti">GLENDALE</ilce>
+<ilce value="8618" data-url="/tr-TR/8618/goleta-icin-namaz-vakti">GOLETA</ilce>
+<ilce value="8619" data-url="/tr-TR/8619/hayward-icin-namaz-vakti">HAYWARD</ilce>
+<ilce value="8620" data-url="/tr-TR/8620/huntington-beach-icin-namaz-vakti">HUNTINGTON BEACH</ilce>
+<ilce value="8621" data-url="/tr-TR/8621/inglewood-icin-namaz-vakti">INGLEWOOD</ilce>
+<ilce value="8622" data-url="/tr-TR/8622/irvine-icin-namaz-vakti">IRVINE</ilce>
+<ilce value="8623" data-url="/tr-TR/8623/lancaster-icin-namaz-vakti">LANCASTER</ilce>
+<ilce value="8624" data-url="/tr-TR/8624/lompoc-icin-namaz-vakti">LOMPOC</ilce>
+<ilce value="8625" data-url="/tr-TR/8625/long-beach-icin-namaz-vakti">LONG BEACH</ilce>
+<ilce value="8626" data-url="/tr-TR/8626/los-angeles-icin-namaz-vakti">LOS ANGELES</ilce>
+<ilce value="8627" data-url="/tr-TR/8627/modesto-icin-namaz-vakti">MODESTO</ilce>
+<ilce value="8628" data-url="/tr-TR/8628/monterey-icin-namaz-vakti">MONTEREY</ilce>
+<ilce value="8629" data-url="/tr-TR/8629/napa-icin-namaz-vakti">NAPA</ilce>
+<ilce value="8630" data-url="/tr-TR/8630/norwalk-icin-namaz-vakti">NORWALK</ilce>
+<ilce value="8631" data-url="/tr-TR/8631/oakland-icin-namaz-vakti">OAKLAND</ilce>
+<ilce value="8632" data-url="/tr-TR/8632/oceanside-icin-namaz-vakti">OCEANSIDE</ilce>
+<ilce value="8633" data-url="/tr-TR/8633/oildale-icin-namaz-vakti">OILDALE</ilce>
+<ilce value="8634" data-url="/tr-TR/8634/ontario-icin-namaz-vakti">ONTARIO</ilce>
+<ilce value="8635" data-url="/tr-TR/8635/oxnard-icin-namaz-vakti">OXNARD</ilce>
+<ilce value="8636" data-url="/tr-TR/8636/palm-springs-icin-namaz-vakti">PALM SPRINGS</ilce>
+<ilce value="8637" data-url="/tr-TR/8637/palo-alto-icin-namaz-vakti">PALO ALTO</ilce>
+<ilce value="8638" data-url="/tr-TR/8638/pasadena-icin-namaz-vakti">PASADENA</ilce>
+<ilce value="8639" data-url="/tr-TR/8639/peteluma-icin-namaz-vakti">PETELUMA</ilce>
+<ilce value="8640" data-url="/tr-TR/8640/pomona-icin-namaz-vakti">POMONA</ilce>
+<ilce value="8641" data-url="/tr-TR/8641/redding-icin-namaz-vakti">REDDING</ilce>
+<ilce value="8642" data-url="/tr-TR/8642/richmond-icin-namaz-vakti">RICHMOND</ilce>
+<ilce value="8643" data-url="/tr-TR/8643/riverside-icin-namaz-vakti">RIVERSIDE</ilce>
+<ilce value="8644" data-url="/tr-TR/8644/sacramento-icin-namaz-vakti">SACRAMENTO</ilce>
+<ilce value="8645" data-url="/tr-TR/8645/salinas-icin-namaz-vakti">SALINAS</ilce>
+<ilce value="8646" data-url="/tr-TR/8646/san-bernardino-icin-namaz-vakti">SAN BERNARDINO</ilce>
+<ilce value="8647" data-url="/tr-TR/8647/san-diego-icin-namaz-vakti">SAN DIEGO</ilce>
+<ilce value="8648" data-url="/tr-TR/8648/san-francisco-icin-namaz-vakti">SAN FRANCISCO</ilce>
+<ilce value="8649" data-url="/tr-TR/8649/san-jose-icin-namaz-vakti">SAN JOSE</ilce>
+<ilce value="8650" data-url="/tr-TR/8650/san-mateo-icin-namaz-vakti">SAN MATEO</ilce>
+<ilce value="8651" data-url="/tr-TR/8651/sanfernando-icin-namaz-vakti">SANFERNANDO</ilce>
+<ilce value="8652" data-url="/tr-TR/8652/santa-ana-icin-namaz-vakti">SANTA ANA</ilce>
+<ilce value="8653" data-url="/tr-TR/8653/santa-barbara-icin-namaz-vakti">SANTA BARBARA</ilce>
+<ilce value="8654" data-url="/tr-TR/8654/santa-clara-icin-namaz-vakti">SANTA CLARA</ilce>
+<ilce value="8655" data-url="/tr-TR/8655/santa-clarita-icin-namaz-vakti">SANTA CLARITA</ilce>
+<ilce value="8656" data-url="/tr-TR/8656/santa-monica-icin-namaz-vakti">SANTA MONICA</ilce>
+<ilce value="8657" data-url="/tr-TR/8657/simi-valley-icin-namaz-vakti">SIMI VALLEY</ilce>
+<ilce value="8658" data-url="/tr-TR/8658/stockton-icin-namaz-vakti">STOCKTON</ilce>
+<ilce value="8659" data-url="/tr-TR/8659/sunnyvale-icin-namaz-vakti">SUNNYVALE</ilce>
+<ilce value="8660" data-url="/tr-TR/8660/thousand-oaks-icin-namaz-vakti">THOUSAND OAKS</ilce>
+<ilce value="8661" data-url="/tr-TR/8661/torrance-icin-namaz-vakti">TORRANCE</ilce>
+<ilce value="8662" data-url="/tr-TR/8662/tustin-icin-namaz-vakti">TUSTIN</ilce>
+<ilce value="8663" data-url="/tr-TR/8663/vallejo-icin-namaz-vakti">VALLEJO</ilce>
+<ilce value="17814" data-url="/tr-TR/17814/victorville-icin-namaz-vakti">VİCTORVILLE</ilce>
+<ilce value="8664" data-url="/tr-TR/8664/west-hollywood-icin-namaz-vakti">WEST HOLLYWOOD</ilce>
+<california/>

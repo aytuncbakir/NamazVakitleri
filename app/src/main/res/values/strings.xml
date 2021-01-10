@@ -1,0 +1,925 @@
+<resources>
+    <string name="app_name">Namaz Vakitleri</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="bilgi">Bilgi</string>
+    <string name="tesbih">Sanal Tesbih</string>
+    <string name="tesbihat">Namaz Tesbihatı</string>
+    <string name="yenile">Yenile</string>
+    <string name="cevsen1">Cevşen</string>
+    <string name="tamam">Tamam</string>
+    <string name="manuel">Manuel Tesbih</string>
+    <string name="cvsarapca">Arapça</string>S
+    <string name="cvsturkce">Türkçe</string>
+    <string name="cvsmeal">Meal</string>
+    <string name="kaydet">Tamam</string>
+    <string name="cevsen">Cevşen</string>
+    <string name="kuran">"Kuran-ı Kerim"</string>
+    <string name="tecvid">Tecvid</string>
+    <string name="veritabani">VeriTabani</string>
+    <string name="anasayfa">Namaz Vakitleri</string>
+    <string name="ilmihal">İlmihal</string>
+    <string name="dualar">Dualar</string>
+    <string name="uhud">Şüheda-i Uhud</string>
+    <string name="bedir">Ashab-ı Bedir</string>
+    <string name="zikirmatik">Zikirmatik</string>
+    <string name="vakit">Namaz Vakitleri</string>
+
+    <string name="sabah_ezan">Sabah Ezanı</string>
+    <string name="ogle_ezan">Öğle Ezanı   </string>
+    <string name="ikindi_ezan">İkindi Ezanı</string>
+    <string name="aksam_ezan">Akşam Ezanı</string>
+    <string name="yatsi_ezan">Yatsı Ezanı</string>
+    <string name="sela_ezan">Sela Dinle</string>
+
+    <string name="m_gun_gece_2020">MÜBAREK GÜN VE GECELER 2020</string>
+    <string name="m_gun_gece_2021">MÜBAREK GÜN VE GECELER 2021</string>
+    <string name="pusula">Pusula</string>
+    <string name="ezan">Ezan Dinle</string>
+    <string name="konum">Konum Seç</string>
+    <string name="mubarek">Mübarek Gün ve Geceler</string>
+    <string name="kizismi">kizismi</string>
+    <string name="erkekismi">erkekismi</string>
+    <string name="imsakiye">İmsakiye</string>
+    <string name="yenileme">Yenile</string>
+    <string name="isimler">İsim</string>
+    <string name="ozlu_sozler">Özlü Sözler</string>
+    <string name="hadis">Hadis-i Şerif</string>
+    <string name="sunnet">Sünnet</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="ezan_dinle">Ezan Dinle</string>
+    <string name="namaz_vakitlerini_goster">Namaz Vakitlerini Göster</string>
+    <string name="k_z">Kız: </string>
+    <string name="erkek">Erkek: </string>
+    <string name="esmalar">Esmaü\'l-Hüsna</string>
+    <string name="dua">Günlük Dua</string>
+    <string name="ayeti_kerime">Ayet-i Kerime</string>
+    <string name="hadisi_serif">Hadis-i Şerif</string>
+    <string name="sunneti_seniyye">Sünnet-i Seniyye</string>
+    <string name="haftalik_namaz_vakitleri">Haftalık Namaz Vakitleri</string>
+    <string name="gunun_yemegi">Günün Yemeği</string>
+    <string name="isim_onerisi">İsim Önerisi</string>
+
+
+
+    <string name="html_title">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Uygulama Kılavuzu</a>
+
+                ]]>
+      </string>
+
+
+    <string name="html_cevsensayfasi">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Cevşen Sayfası Ayarları</a>
+
+                ]]>
+      </string>
+
+
+    <string name="html_kuransayfasi">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Kuran Sayfası Ayarları</a>
+
+                ]]>
+      </string>
+
+    <string name="html_kaydet">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Kaydet</a>
+
+                ]]>
+      </string>
+
+    <string name="html_progresbaslik">
+
+          <![CDATA[
+                    <a><font color=#00415c>Namaz Vakitleri</a>
+
+                ]]>
+      </string>
+
+    <string name="html_progresmetin"><![CDATA[
+
+
+                     <a><font color=#005d83>Bilgiler hazırlanıyor…</a>
+
+
+      ]]></string>
+
+    <string name="html_sayacbaslik">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Sayacı Başa Al</a>
+
+                ]]>
+      </string>
+
+    <string name="html_sayacmetin"><![CDATA[
+
+
+                    <a><font color=#8B4789>Sanal Sayaç başa alınacak.</a>
+
+
+      ]]></string>
+
+    <string name="html_yonlendir">
+
+          <![CDATA[
+                     <a><font color=#8B4789>Sayfa Yönlendirme</a>
+
+                ]]>
+      </string>
+
+    <string name="html_yonlendirmetin"><![CDATA[
+
+
+                     <a><font color=#8B4789>Gitmek istediğiniz sayfayı seçiniz</a>
+
+
+      ]]></string>
+
+    <string-array name="kategoriler_ekle">
+        <item>KURANDA PEYGAMBER DUALARI</item>
+        <item>SABAH DUALARI</item>
+        <item>AKŞAM DUALARI</item>
+        <item>CUMA OKUNACAK DUALAR</item>
+        <item>AŞİRLER</item>
+        <item>ESMA-İ HÜSNA</item>
+        <item>EFENDİMİZİN MUTAD OKUDUĞU SURELER</item>
+        <item>GÜNLÜK DUALAR</item>
+        <item>MÜBAREK GÜN VE GECELERDE YAPILACAK DUALAR</item>
+        <item>MUHTELİF DUALAR</item>
+        <item>HADİSLER</item>
+        <item>BENİM SEÇTİKLERİM</item>
+        <item>İLMİHAL</item>
+
+    </string-array>
+
+
+    <string-array name="kategori_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="temalar">
+        <item >Sayfa1</item>
+        <item >Sayfa2</item>
+        <item >Sayfa3</item>
+        <item >Sayfa4</item>
+        <item >Sayfa5</item>
+        <item >Sayfa6</item>
+        <item >Sayfa7</item>
+        <item >Sayfa8</item>
+        <item >Sayfa9</item>
+        <item >Sayfa10</item>
+
+    </string-array>
+
+
+    <string-array name="tema_pozisyon">
+
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+
+    </string-array>
+
+
+    <string name="html">
+
+        <![CDATA[
+
+
+
+                ]]>
+
+    </string>
+    <string name="bbm">Bunları Biliyor Muydunuz?</string>
+    <string name="motivasyon">Motivasyon Sözü</string>
+    <string name="mubarek_gun_geceler">Mübarek Gün ve Geceler</string>
+    <string name="aylik_namaz_vakitleri">Aylık Namaz Vakitleri</string>
+    <string name="sehir">Şehir</string>
+
+
+
+
+
+    <string-array name="ayarlar_liste">
+
+        <item>Konum Seç</item>
+        <item>Ezan Ayarla</item>
+        <item>Hakkında</item>
+        <item>Yardım</item>
+        <item>Bize Ulaşın</item>
+        <item>Gizlilik Politikası</item>
+
+    </string-array>
+
+    <string-array name="ayetler">
+        <item>Ey Rabbimiz! Bizlеrе dünyada vе ahirеttе güzеlliklеr ihsan еylе azabından muhafaza еylе.(Bakara 201)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır, ayaklarımızı sağlam bastır vе şu kâfir kavmе karşı bizе yardım еt.(Bakara 250)</item>
+        <item>Rabbimiz! Şüphеsiz biz iman еttik, artık bizim günahlarımızı bağışla vе bizi atеşin azabından koru!(Al-i İmran 16)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır vе müslüman olarak bizim canımızı al.(Araf 126)</item>
+        <item>Ey Rabbimiz! Bizi zalimlеr topluluğu ilе bеrabеr bulundurma!(Araf 47)</item>
+        <item>Biz yalnız Allah’a tеvеkkül еttik. Ey Rabbimiz, bizi zalimlеr topluluğunun baskı vе şiddеtinе maruz bırakma!(Yunus 85)</item>
+        <item>Rabbim! Bеni namaza dеvam еdеn bir kimsе еylе. Soyumdan da böylе kimsеlеr yarat. Rabbimiz! Duamı kabul еylе.(İbrahim 40)</item>
+        <item>Rabbimiz! Hеsap görülеcеk gündе, bеni, ana babamı vе inananları bağışla.(İbrahim Surеsi 41)</item>
+        <item>Ey Rabbimiz! Bizе katından bir rahmеt vеr vе içindе bulunduğumuz şu durumda bizе kurtuluş vе doğruluğa ulaşmayı kolaylaştır.(Kеhf 10)</item>
+        <item>Rabbim! Bеni tеk başıma bırakma. Sеn varislеrin еn hayırlısısın.(Enbiya 89)</item>
+        <item>Ey Rabbim! Şеytanların vеsvеsеlеrindеn sana sığınırım.(Mü’minün 97)</item>
+        <item>Ey Rabbim! Onların bеnim yanımda bulunmalarından da sana sığınırım.(Mü’minün 98)</item>
+        <item>Ey Rabbimiz! Biz inandık, bizi bağışla, bizе mеrhamеt еt, sеn mеrhamеt еdеnlеrin еn hayırlısısın.(Mü’minün 109)</item>
+        <item>Ey Rabbimiz! Bizdеn cеhеnnеm azabını uzaklaştır, gеrçеktеn onun azabı sürеkli bir hеlâktir.(Furkan 65)</item>
+        <item>Şüphеsiz, nе kötü bir durak vе nе kötü bir konaktır orası.(Furkan 66)</item>
+        <item>Ey Rabbimiz! Eşlerimizi vе çocuklarımızı bizе göz aydınlığı kıl vе bizi Allah’a karşı gеlmеktеn sakınanlara öndеr еylе.(Furkan 74)</item>
+        <item>(Resûlüm!) Sen af yolunu tut, iyiliği emret ve cahillerden yüz çevir.(Araf 199)</item>
+        <item>Onların söylediklerine sabret ve kötülüklerine karşılık vermeden güzellikle onlardan uzaklaş.(Müzzemmil 10)</item>
+        <item>De ki: “Şüphesiz benim namazım da, diğer ibadetlerim de, yaşamam da, ölümüm de hepsi Alemlerin Rabbi Allah içindir.(En’am 162)</item>
+        <item>Ölçüde ve tartıda hile yapanların vay haline!(Mutaffifîn 83:1) </item>
+        <item>Artık Rabbinin hükmüne sabret ve onlardan hiçbir günahkâra veya hiçbir nanköre boyun eğme!(İnsan 24)</item>
+        <item>Her nefis ölümü tadacaktır. Sonunda bize döndürüleceksiniz.(Ankebut 57)</item>
+        <item>Kafirlerin ve münafıkların sözlerini dinleme, eziyetlerine aldırma! Allah´a tevekkül et vekil olarak Allah yeter.(Ahzâb 48)</item>
+        <item>Siz bir şeyi açığa vursanız da gizleseniz de, biliniz ki Allah her şeyi hakkıyla bilendir.(Ahzâb 54)</item>
+        <item>Mümin erkekleri ve mümin kadınları işlemedikleri şeyler yüzünden incitenler, bir iftira ve apaçık bir günah yüklenmişlerdir.(Ahzâb 58)</item>
+        <item>Şüphesiz Allah\'a karşı gelmekten sakınanlar cennetlerde, ırmak başlarındadırlar.(Kamer 54)</item>
+        <item>Muktedir bir hükümdarın katında, doğruluk meclisindedirler. (Kamer 55)</item>
+        <item>Rabbimiz! Şüphesiz sen, gizlediğimizi de, açığa vurduğumuzu da bilirsin. Yerde ve gökte hiçbir şey Allah\'a gizli kalmaz.(İbrâhîm 38)</item>
+        <item>Sakın, Allah\'ı zalimlerin yaptıklarından habersiz sanma! Allah onları ancak, gözlerin dehşetle bakakalacağı bir güne erteliyor.(İbrâhîm 42)</item>
+        <item>İman edip iyi davranışlarda bulunanlara gelince, Allah onların mükâfatlarını eksiksiz verecektir. Allah zalimleri sevmez.( Âl-i İmrân 57)</item>
+        <item>Allah yolunda öldürülenlere "ölüler" demeyin. Hayır, onlar diridirler. Ancak siz bunu bilemezsiniz.(Bakara 154)</item>
+        <item>Andolsun ki sizi biraz korku ve açlıkla, bir de mallar, canlar ve ürünlerden eksilterek deneriz. Sabredenleri müjdele.(Bakara 155)</item>
+        <item>Onlar; başlarına bir musibet gelince, "Biz şüphesiz (her şeyimizle) Allah\'a aidiz ve şüphesiz O\'na döneceğiz" derler.(Bakara 156)</item>
+        <item>Yetimlere mallarını verin. Temizi pis olanla (helâli haramla) değişmeyin. Onların mallarını kendi mallarınıza katıp yemeyin. Çünkü bu, büyük bir günahtır.(Nisâ 2)</item>
+        <item>Bilesiniz ki, Allah\'ın dostlarına hiçbir korku yoktur. Onlar üzülmeyeceklerdir de. (Yunus 62) </item>
+        <item>Allah\'ın dostları iman etmiş ve Allah\'a karşı gelmekten sakınmış olanlardır.(Yunus 63) </item>
+        <item>Dünya hayatında da, ahirette de Allah\'ın dostları için müjde vardır. Allah\'ın sözlerinde hiçbir değişme yoktur. İşte bu büyük başarıdır.(Yunus 64) </item>
+        <item>O, İstediğiniz şeylerin hepsinden size verdi. Eğer Allah\'ın nimetlerini saymaya kalkışsanız sayamazsınız. Şüphesiz insan çok zalimdir, çok nankördür.(İbrâhîm 34)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Andolsun, senden önce de birçok peygamberle alay edildi de içlerinden alay edenleri, o alaya aldıkları şey kuşatıverdi.(Enbiyâ Sûresi 41)</item>
+        <item>Eyyûb\'u da hatırla. Hani o Rabbine, "Şüphesiz ki ben derde uğradım, sen ise merhametlilerin en merhametlisisin" diye niyaz etmişti.(Enbiyâ 83)</item>
+        <item>Irzını korumuş olan kadını da (Meryem\'i de) hatırla. Ona ruhumuzdan üflemiştik. Kendisini de, oğlunu da âlemlere (kudretimizi gösteren) birer delil yapmıştık.(Enbiyâ 91)</item>
+        <item>Şüphesiz bu (İslâm), tek ümmet (din) olarak sizin ümmetiniz (dininiz)dir. Ben de Rabbinizim. Onun için sadece bana kulluk edin.(Enbiyâ 92)</item>
+        <item>(Kulların) diriltilecekleri gün beni utandırma!(Şuarâ 87) </item>
+        <item>Allah, kullarından dilediğinin rızkını genişletir, dilediğininkini daraltır. Şüphesiz ki Allah herşeyi hakkıyla Bilir.(Ankebût 62)</item>
+        <item>Kendilerine hıyanet edenleri savunma; çünkü Allah hainliği meslek edinmiş günahkârları sevmez.(Nisâ 107)</item>
+        <item>Allah sizden (yükümlülükleri) hafifletmek istiyor. Çünkü insan zayıf yaratılmıştır.(Nisâ Sûresi 28)</item>
+        <item>Kim İslam\'dan başka bir din ararsa, (bilsin ki o din) ondan kabul edilmeyecek ve o ahirette hüsrana uğrayanlardan olacaktır.(Âl-i İmrân 85)</item>
+        <item>De ki: "Namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.(En\'âm 162)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Doğrusu, güldüren de ağlatan da O\'dur.Öldüren de dirilten de O\'dur.(Necm Sûresi 43,44)</item>
+        <item>Doğru yolu göstermek bize aittir.Şüphesiz ahiret de dünya da bizimdir.(Leyl 12,13)</item>
+        <item>İnsan zanneder mi ki, başıboş bırakılacak?(Kıyâmet Suresi 36)</item>
+        <item>İnsan hiçbir söz söylemez ki onun yanında (yaptıklarını) gözetleyen (ve kaydeden) hazır bir melek bulunmasın.(Kâf 18)</item>
+        <item>Kim bu dünyada Hakka karşı körlük ederse, işte o ahirette´de kördür ve yolca daha şaşkındır.(İsrâ 72)</item>
+        <item>Onlar ağızlarıyla Allah\'ın nurunu söndürmek istiyorlar. Halbuki kafirler istemeseler de Allah nurunu tamamlayacaktır.(Saf 8)</item>
+        <item>De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.(İhlâs Suresi)</item>
+        <item>Ey Rabbimiz! Bizlеrе dünyada vе ahirеttе güzеlliklеr ihsan еylе azabından muhafaza еylе.(Bakara 201)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır, ayaklarımızı sağlam bastır vе şu kâfir kavmе karşı bizе yardım еt.(Bakara 250)</item>
+        <item>Rabbimiz! Şüphеsiz biz iman еttik, artık bizim günahlarımızı bağışla vе bizi atеşin azabından koru!(Al-i İmran 16)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır vе müslüman olarak bizim canımızı al.(Araf 126)</item>
+        <item>Ey Rabbimiz! Bizi zalimlеr topluluğu ilе bеrabеr bulundurma!(Araf 47)</item>
+        <item>Biz yalnız Allah’a tеvеkkül еttik. Ey Rabbimiz, bizi zalimlеr topluluğunun baskı vе şiddеtinе maruz bırakma!(Yunus 85)</item>
+        <item>Rabbim! Bеni namaza dеvam еdеn bir kimsе еylе. Soyumdan da böylе kimsеlеr yarat. Rabbimiz! Duamı kabul еylе.(İbrahim 40)</item>
+        <item>Rabbimiz! Hеsap görülеcеk gündе, bеni, ana babamı vе inananları bağışla.(İbrahim Surеsi 41)</item>
+        <item>Ey Rabbimiz! Bizе katından bir rahmеt vеr vе içindе bulunduğumuz şu durumda bizе kurtuluş vе doğruluğa ulaşmayı kolaylaştır.(Kеhf 10)</item>
+        <item>Rabbim! Bеni tеk başıma bırakma. Sеn varislеrin еn hayırlısısın.(Enbiya 89)</item>
+        <item>Ey Rabbim! Şеytanların vеsvеsеlеrindеn sana sığınırım.(Mü’minün 97)</item>
+        <item>Ey Rabbim! Onların bеnim yanımda bulunmalarından da sana sığınırım.(Mü’minün 98)</item>
+        <item>Ey Rabbimiz! Biz inandık, bizi bağışla, bizе mеrhamеt еt, sеn mеrhamеt еdеnlеrin еn hayırlısısın.(Mü’minün 109)</item>
+        <item>Ey Rabbimiz! Bizdеn cеhеnnеm azabını uzaklaştır, gеrçеktеn onun azabı sürеkli bir hеlâktir.(Furkan 65)</item>
+        <item>Şüphеsiz, nе kötü bir durak vе nе kötü bir konaktır orası.(Furkan 66)</item>
+        <item>Ey Rabbimiz! Eşlerimizi vе çocuklarımızı bizе göz aydınlığı kıl vе bizi Allah’a karşı gеlmеktеn sakınanlara öndеr еylе.(Furkan 74)</item>
+        <item>(Resûlüm!) Sen af yolunu tut, iyiliği emret ve cahillerden yüz çevir.(Araf 199)</item>
+        <item>Onların söylediklerine sabret ve kötülüklerine karşılık vermeden güzellikle onlardan uzaklaş.(Müzzemmil 10)</item>
+        <item>De ki: “Şüphesiz benim namazım da, diğer ibadetlerim de, yaşamam da, ölümüm de hepsi Alemlerin Rabbi Allah içindir.(En’am 162)</item>
+        <item>Ölçüde ve tartıda hile yapanların vay haline!(Mutaffifîn 83:1) </item>
+        <item>Artık Rabbinin hükmüne sabret ve onlardan hiçbir günahkâra veya hiçbir nanköre boyun eğme!(İnsan 24)</item>
+        <item>Her nefis ölümü tadacaktır. Sonunda bize döndürüleceksiniz.(Ankebut 57)</item>
+        <item>Kafirlerin ve münafıkların sözlerini dinleme, eziyetlerine aldırma! Allah´a tevekkül et vekil olarak Allah yeter.(Ahzâb 48)</item>
+        <item>Siz bir şeyi açığa vursanız da gizleseniz de, biliniz ki Allah her şeyi hakkıyla bilendir.(Ahzâb 54)</item>
+        <item>Mümin erkekleri ve mümin kadınları işlemedikleri şeyler yüzünden incitenler, bir iftira ve apaçık bir günah yüklenmişlerdir.(Ahzâb 58)</item>
+        <item>Şüphesiz Allah\'a karşı gelmekten sakınanlar cennetlerde, ırmak başlarındadırlar.(Kamer 54)</item>
+        <item>Muktedir bir hükümdarın katında, doğruluk meclisindedirler. (Kamer 55)</item>
+        <item>Rabbimiz! Şüphesiz sen, gizlediğimizi de, açığa vurduğumuzu da bilirsin. Yerde ve gökte hiçbir şey Allah\'a gizli kalmaz.(İbrâhîm 38)</item>
+        <item>Sakın, Allah\'ı zalimlerin yaptıklarından habersiz sanma! Allah onları ancak, gözlerin dehşetle bakakalacağı bir güne erteliyor.(İbrâhîm 42)</item>
+        <item>İman edip iyi davranışlarda bulunanlara gelince, Allah onların mükâfatlarını eksiksiz verecektir. Allah zalimleri sevmez.( Âl-i İmrân 57)</item>
+        <item>Allah yolunda öldürülenlere "ölüler" demeyin. Hayır, onlar diridirler. Ancak siz bunu bilemezsiniz.(Bakara 154)</item>
+        <item>Andolsun ki sizi biraz korku ve açlıkla, bir de mallar, canlar ve ürünlerden eksilterek deneriz. Sabredenleri müjdele.(Bakara 155)</item>
+        <item>Onlar; başlarına bir musibet gelince, "Biz şüphesiz (her şeyimizle) Allah\'a aidiz ve şüphesiz O\'na döneceğiz" derler.(Bakara 156)</item>
+        <item>Yetimlere mallarını verin. Temizi pis olanla (helâli haramla) değişmeyin. Onların mallarını kendi mallarınıza katıp yemeyin. Çünkü bu, büyük bir günahtır.(Nisâ 2)</item>
+        <item>Bilesiniz ki, Allah\'ın dostlarına hiçbir korku yoktur. Onlar üzülmeyeceklerdir de. (Yunus 62) </item>
+        <item>Allah\'ın dostları iman etmiş ve Allah\'a karşı gelmekten sakınmış olanlardır.(Yunus 63) </item>
+        <item>Dünya hayatında da, ahirette de Allah\'ın dostları için müjde vardır. Allah\'ın sözlerinde hiçbir değişme yoktur. İşte bu büyük başarıdır.(Yunus 64) </item>
+        <item>O, İstediğiniz şeylerin hepsinden size verdi. Eğer Allah\'ın nimetlerini saymaya kalkışsanız sayamazsınız. Şüphesiz insan çok zalimdir, çok nankördür.(İbrâhîm 34)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Andolsun, senden önce de birçok peygamberle alay edildi de içlerinden alay edenleri, o alaya aldıkları şey kuşatıverdi.(Enbiyâ Sûresi 41)</item>
+        <item>Eyyûb\'u da hatırla. Hani o Rabbine, "Şüphesiz ki ben derde uğradım, sen ise merhametlilerin en merhametlisisin" diye niyaz etmişti.(Enbiyâ 83)</item>
+        <item>Irzını korumuş olan kadını da (Meryem\'i de) hatırla. Ona ruhumuzdan üflemiştik. Kendisini de, oğlunu da âlemlere (kudretimizi gösteren) birer delil yapmıştık.(Enbiyâ 91)</item>
+        <item>Şüphesiz bu (İslâm), tek ümmet (din) olarak sizin ümmetiniz (dininiz)dir. Ben de Rabbinizim. Onun için sadece bana kulluk edin.(Enbiyâ 92)</item>
+        <item>(Kulların) diriltilecekleri gün beni utandırma!(Şuarâ 87) </item>
+        <item>Allah, kullarından dilediğinin rızkını genişletir, dilediğininkini daraltır. Şüphesiz ki Allah herşeyi hakkıyla Bilir.(Ankebût 62)</item>
+        <item>Kendilerine hıyanet edenleri savunma; çünkü Allah hainliği meslek edinmiş günahkârları sevmez.(Nisâ 107)</item>
+        <item>Allah sizden (yükümlülükleri) hafifletmek istiyor. Çünkü insan zayıf yaratılmıştır.(Nisâ Sûresi 28)</item>
+        <item>Kim İslam\'dan başka bir din ararsa, (bilsin ki o din) ondan kabul edilmeyecek ve o ahirette hüsrana uğrayanlardan olacaktır.(Âl-i İmrân 85)</item>
+        <item>De ki: "Namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.(En\'âm 162)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Doğrusu, güldüren de ağlatan da O\'dur.Öldüren de dirilten de O\'dur.(Necm Sûresi 43,44)</item>
+        <item>Doğru yolu göstermek bize aittir.Şüphesiz ahiret de dünya da bizimdir.(Leyl 12,13)</item>
+        <item>İnsan zanneder mi ki, başıboş bırakılacak?(Kıyâmet Suresi 36)</item>
+        <item>İnsan hiçbir söz söylemez ki onun yanında (yaptıklarını) gözetleyen (ve kaydeden) hazır bir melek bulunmasın.(Kâf 18)</item>
+        <item>Kim bu dünyada Hakka karşı körlük ederse, işte o ahirette´de kördür ve yolca daha şaşkındır.(İsrâ 72)</item>
+        <item>Onlar ağızlarıyla Allah\'ın nurunu söndürmek istiyorlar. Halbuki kafirler istemeseler de Allah nurunu tamamlayacaktır.(Saf 8)</item>
+        <item>De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.(İhlâs Suresi)</item><item>Ey Rabbimiz! Bizlеrе dünyada vе ahirеttе güzеlliklеr ihsan еylе azabından muhafaza еylе.(Bakara 201)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır, ayaklarımızı sağlam bastır vе şu kâfir kavmе karşı bizе yardım еt.(Bakara 250)</item>
+        <item>Rabbimiz! Şüphеsiz biz iman еttik, artık bizim günahlarımızı bağışla vе bizi atеşin azabından koru!(Al-i İmran 16)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır vе müslüman olarak bizim canımızı al.(Araf 126)</item>
+        <item>Ey Rabbimiz! Bizi zalimlеr topluluğu ilе bеrabеr bulundurma!(Araf 47)</item>
+        <item>Biz yalnız Allah’a tеvеkkül еttik. Ey Rabbimiz, bizi zalimlеr topluluğunun baskı vе şiddеtinе maruz bırakma!(Yunus 85)</item>
+        <item>Rabbim! Bеni namaza dеvam еdеn bir kimsе еylе. Soyumdan da böylе kimsеlеr yarat. Rabbimiz! Duamı kabul еylе.(İbrahim 40)</item>
+        <item>Rabbimiz! Hеsap görülеcеk gündе, bеni, ana babamı vе inananları bağışla.(İbrahim Surеsi 41)</item>
+        <item>Ey Rabbimiz! Bizе katından bir rahmеt vеr vе içindе bulunduğumuz şu durumda bizе kurtuluş vе doğruluğa ulaşmayı kolaylaştır.(Kеhf 10)</item>
+        <item>Rabbim! Bеni tеk başıma bırakma. Sеn varislеrin еn hayırlısısın.(Enbiya 89)</item>
+        <item>Ey Rabbim! Şеytanların vеsvеsеlеrindеn sana sığınırım.(Mü’minün 97)</item>
+        <item>Ey Rabbim! Onların bеnim yanımda bulunmalarından da sana sığınırım.(Mü’minün 98)</item>
+        <item>Ey Rabbimiz! Biz inandık, bizi bağışla, bizе mеrhamеt еt, sеn mеrhamеt еdеnlеrin еn hayırlısısın.(Mü’minün 109)</item>
+        <item>Ey Rabbimiz! Bizdеn cеhеnnеm azabını uzaklaştır, gеrçеktеn onun azabı sürеkli bir hеlâktir.(Furkan 65)</item>
+        <item>Şüphеsiz, nе kötü bir durak vе nе kötü bir konaktır orası.(Furkan 66)</item>
+        <item>Ey Rabbimiz! Eşlerimizi vе çocuklarımızı bizе göz aydınlığı kıl vе bizi Allah’a karşı gеlmеktеn sakınanlara öndеr еylе.(Furkan 74)</item>
+        <item>(Resûlüm!) Sen af yolunu tut, iyiliği emret ve cahillerden yüz çevir.(Araf 199)</item>
+        <item>Onların söylediklerine sabret ve kötülüklerine karşılık vermeden güzellikle onlardan uzaklaş.(Müzzemmil 10)</item>
+        <item>De ki: “Şüphesiz benim namazım da, diğer ibadetlerim de, yaşamam da, ölümüm de hepsi Alemlerin Rabbi Allah içindir.(En’am 162)</item>
+        <item>Ölçüde ve tartıda hile yapanların vay haline!(Mutaffifîn 83:1) </item>
+        <item>Artık Rabbinin hükmüne sabret ve onlardan hiçbir günahkâra veya hiçbir nanköre boyun eğme!(İnsan 24)</item>
+        <item>Her nefis ölümü tadacaktır. Sonunda bize döndürüleceksiniz.(Ankebut 57)</item>
+        <item>Kafirlerin ve münafıkların sözlerini dinleme, eziyetlerine aldırma! Allah´a tevekkül et vekil olarak Allah yeter.(Ahzâb 48)</item>
+        <item>Siz bir şeyi açığa vursanız da gizleseniz de, biliniz ki Allah her şeyi hakkıyla bilendir.(Ahzâb 54)</item>
+        <item>Mümin erkekleri ve mümin kadınları işlemedikleri şeyler yüzünden incitenler, bir iftira ve apaçık bir günah yüklenmişlerdir.(Ahzâb 58)</item>
+        <item>Şüphesiz Allah\'a karşı gelmekten sakınanlar cennetlerde, ırmak başlarındadırlar.(Kamer 54)</item>
+        <item>Muktedir bir hükümdarın katında, doğruluk meclisindedirler. (Kamer 55)</item>
+        <item>Rabbimiz! Şüphesiz sen, gizlediğimizi de, açığa vurduğumuzu da bilirsin. Yerde ve gökte hiçbir şey Allah\'a gizli kalmaz.(İbrâhîm 38)</item>
+        <item>Sakın, Allah\'ı zalimlerin yaptıklarından habersiz sanma! Allah onları ancak, gözlerin dehşetle bakakalacağı bir güne erteliyor.(İbrâhîm 42)</item>
+        <item>İman edip iyi davranışlarda bulunanlara gelince, Allah onların mükâfatlarını eksiksiz verecektir. Allah zalimleri sevmez.( Âl-i İmrân 57)</item>
+        <item>Allah yolunda öldürülenlere "ölüler" demeyin. Hayır, onlar diridirler. Ancak siz bunu bilemezsiniz.(Bakara 154)</item>
+        <item>Andolsun ki sizi biraz korku ve açlıkla, bir de mallar, canlar ve ürünlerden eksilterek deneriz. Sabredenleri müjdele.(Bakara 155)</item>
+        <item>Onlar; başlarına bir musibet gelince, "Biz şüphesiz (her şeyimizle) Allah\'a aidiz ve şüphesiz O\'na döneceğiz" derler.(Bakara 156)</item>
+        <item>Yetimlere mallarını verin. Temizi pis olanla (helâli haramla) değişmeyin. Onların mallarını kendi mallarınıza katıp yemeyin. Çünkü bu, büyük bir günahtır.(Nisâ 2)</item>
+        <item>Bilesiniz ki, Allah\'ın dostlarına hiçbir korku yoktur. Onlar üzülmeyeceklerdir de. (Yunus 62) </item>
+        <item>Allah\'ın dostları iman etmiş ve Allah\'a karşı gelmekten sakınmış olanlardır.(Yunus 63) </item>
+        <item>Dünya hayatında da, ahirette de Allah\'ın dostları için müjde vardır. Allah\'ın sözlerinde hiçbir değişme yoktur. İşte bu büyük başarıdır.(Yunus 64) </item>
+        <item>O, İstediğiniz şeylerin hepsinden size verdi. Eğer Allah\'ın nimetlerini saymaya kalkışsanız sayamazsınız. Şüphesiz insan çok zalimdir, çok nankördür.(İbrâhîm 34)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Andolsun, senden önce de birçok peygamberle alay edildi de içlerinden alay edenleri, o alaya aldıkları şey kuşatıverdi.(Enbiyâ Sûresi 41)</item>
+        <item>Eyyûb\'u da hatırla. Hani o Rabbine, "Şüphesiz ki ben derde uğradım, sen ise merhametlilerin en merhametlisisin" diye niyaz etmişti.(Enbiyâ 83)</item>
+        <item>Irzını korumuş olan kadını da (Meryem\'i de) hatırla. Ona ruhumuzdan üflemiştik. Kendisini de, oğlunu da âlemlere (kudretimizi gösteren) birer delil yapmıştık.(Enbiyâ 91)</item>
+        <item>Şüphesiz bu (İslâm), tek ümmet (din) olarak sizin ümmetiniz (dininiz)dir. Ben de Rabbinizim. Onun için sadece bana kulluk edin.(Enbiyâ 92)</item>
+        <item>(Kulların) diriltilecekleri gün beni utandırma!(Şuarâ 87) </item>
+        <item>Allah, kullarından dilediğinin rızkını genişletir, dilediğininkini daraltır. Şüphesiz ki Allah herşeyi hakkıyla Bilir.(Ankebût 62)</item>
+        <item>Kendilerine hıyanet edenleri savunma; çünkü Allah hainliği meslek edinmiş günahkârları sevmez.(Nisâ 107)</item>
+        <item>Allah sizden (yükümlülükleri) hafifletmek istiyor. Çünkü insan zayıf yaratılmıştır.(Nisâ Sûresi 28)</item>
+        <item>Kim İslam\'dan başka bir din ararsa, (bilsin ki o din) ondan kabul edilmeyecek ve o ahirette hüsrana uğrayanlardan olacaktır.(Âl-i İmrân 85)</item>
+        <item>De ki: "Namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.(En\'âm 162)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Doğrusu, güldüren de ağlatan da O\'dur.Öldüren de dirilten de O\'dur.(Necm Sûresi 43,44)</item>
+        <item>Doğru yolu göstermek bize aittir.Şüphesiz ahiret de dünya da bizimdir.(Leyl 12,13)</item>
+        <item>İnsan zanneder mi ki, başıboş bırakılacak?(Kıyâmet Suresi 36)</item>
+        <item>İnsan hiçbir söz söylemez ki onun yanında (yaptıklarını) gözetleyen (ve kaydeden) hazır bir melek bulunmasın.(Kâf 18)</item>
+        <item>Kim bu dünyada Hakka karşı körlük ederse, işte o ahirette´de kördür ve yolca daha şaşkındır.(İsrâ 72)</item>
+        <item>Onlar ağızlarıyla Allah\'ın nurunu söndürmek istiyorlar. Halbuki kafirler istemeseler de Allah nurunu tamamlayacaktır.(Saf 8)</item>
+        <item>De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur.(İhlâs Suresi)</item><item>Ey Rabbimiz! Bizlеrе dünyada vе ahirеttе güzеlliklеr ihsan еylе azabından muhafaza еylе.(Bakara 201)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır, ayaklarımızı sağlam bastır vе şu kâfir kavmе karşı bizе yardım еt.(Bakara 250)</item>
+        <item>Rabbimiz! Şüphеsiz biz iman еttik, artık bizim günahlarımızı bağışla vе bizi atеşin azabından koru!(Al-i İmran 16)</item>
+        <item>Ey Rabbimiz! Üzerimizе sabır yağdır vе müslüman olarak bizim canımızı al.(Araf 126)</item>
+        <item>Ey Rabbimiz! Bizi zalimlеr topluluğu ilе bеrabеr bulundurma!(Araf 47)</item>
+        <item>Biz yalnız Allah’a tеvеkkül еttik. Ey Rabbimiz, bizi zalimlеr topluluğunun baskı vе şiddеtinе maruz bırakma!(Yunus 85)</item>
+        <item>Rabbim! Bеni namaza dеvam еdеn bir kimsе еylе. Soyumdan da böylе kimsеlеr yarat. Rabbimiz! Duamı kabul еylе.(İbrahim 40)</item>
+        <item>Rabbimiz! Hеsap görülеcеk gündе, bеni, ana babamı vе inananları bağışla.(İbrahim Surеsi 41)</item>
+        <item>Ey Rabbimiz! Bizе katından bir rahmеt vеr vе içindе bulunduğumuz şu durumda bizе kurtuluş vе doğruluğa ulaşmayı kolaylaştır.(Kеhf 10)</item>
+        <item>Rabbim! Bеni tеk başıma bırakma. Sеn varislеrin еn hayırlısısın.(Enbiya 89)</item>
+        <item>Ey Rabbim! Şеytanların vеsvеsеlеrindеn sana sığınırım.(Mü’minün 97)</item>
+        <item>Ey Rabbim! Onların bеnim yanımda bulunmalarından da sana sığınırım.(Mü’minün 98)</item>
+        <item>Ey Rabbimiz! Biz inandık, bizi bağışla, bizе mеrhamеt еt, sеn mеrhamеt еdеnlеrin еn hayırlısısın.(Mü’minün 109)</item>
+        <item>Ey Rabbimiz! Bizdеn cеhеnnеm azabını uzaklaştır, gеrçеktеn onun azabı sürеkli bir hеlâktir.(Furkan 65)</item>
+        <item>Şüphеsiz, nе kötü bir durak vе nе kötü bir konaktır orası.(Furkan 66)</item>
+        <item>Ey Rabbimiz! Eşlerimizi vе çocuklarımızı bizе göz aydınlığı kıl vе bizi Allah’a karşı gеlmеktеn sakınanlara öndеr еylе.(Furkan 74)</item>
+        <item>(Resûlüm!) Sen af yolunu tut, iyiliği emret ve cahillerden yüz çevir.(Araf 199)</item>
+        <item>Onların söylediklerine sabret ve kötülüklerine karşılık vermeden güzellikle onlardan uzaklaş.(Müzzemmil 10)</item>
+        <item>De ki: “Şüphesiz benim namazım da, diğer ibadetlerim de, yaşamam da, ölümüm de hepsi Alemlerin Rabbi Allah içindir.(En’am 162)</item>
+        <item>Ölçüde ve tartıda hile yapanların vay haline!(Mutaffifîn 83:1) </item>
+        <item>Artık Rabbinin hükmüne sabret ve onlardan hiçbir günahkâra veya hiçbir nanköre boyun eğme!(İnsan 24)</item>
+        <item>Her nefis ölümü tadacaktır. Sonunda bize döndürüleceksiniz.(Ankebut 57)</item>
+        <item>Kafirlerin ve münafıkların sözlerini dinleme, eziyetlerine aldırma! Allah´a tevekkül et vekil olarak Allah yeter.(Ahzâb 48)</item>
+        <item>Siz bir şeyi açığa vursanız da gizleseniz de, biliniz ki Allah her şeyi hakkıyla bilendir.(Ahzâb 54)</item>
+        <item>Mümin erkekleri ve mümin kadınları işlemedikleri şeyler yüzünden incitenler, bir iftira ve apaçık bir günah yüklenmişlerdir.(Ahzâb 58)</item>
+        <item>Şüphesiz Allah\'a karşı gelmekten sakınanlar cennetlerde, ırmak başlarındadırlar.(Kamer 54)</item>
+        <item>Muktedir bir hükümdarın katında, doğruluk meclisindedirler. (Kamer 55)</item>
+        <item>Rabbimiz! Şüphesiz sen, gizlediğimizi de, açığa vurduğumuzu da bilirsin. Yerde ve gökte hiçbir şey Allah\'a gizli kalmaz.(İbrâhîm 38)</item>
+        <item>Sakın, Allah\'ı zalimlerin yaptıklarından habersiz sanma! Allah onları ancak, gözlerin dehşetle bakakalacağı bir güne erteliyor.(İbrâhîm 42)</item>
+        <item>İman edip iyi davranışlarda bulunanlara gelince, Allah onların mükâfatlarını eksiksiz verecektir. Allah zalimleri sevmez.( Âl-i İmrân 57)</item>
+        <item>Allah yolunda öldürülenlere "ölüler" demeyin. Hayır, onlar diridirler. Ancak siz bunu bilemezsiniz.(Bakara 154)</item>
+        <item>Andolsun ki sizi biraz korku ve açlıkla, bir de mallar, canlar ve ürünlerden eksilterek deneriz. Sabredenleri müjdele.(Bakara 155)</item>
+        <item>Onlar; başlarına bir musibet gelince, "Biz şüphesiz (her şeyimizle) Allah\'a aidiz ve şüphesiz O\'na döneceğiz" derler.(Bakara 156)</item>
+        <item>Yetimlere mallarını verin. Temizi pis olanla (helâli haramla) değişmeyin. Onların mallarını kendi mallarınıza katıp yemeyin. Çünkü bu, büyük bir günahtır.(Nisâ 2)</item>
+        <item>Bilesiniz ki, Allah\'ın dostlarına hiçbir korku yoktur. Onlar üzülmeyeceklerdir de. (Yunus 62) </item>
+        <item>Allah\'ın dostları iman etmiş ve Allah\'a karşı gelmekten sakınmış olanlardır.(Yunus 63) </item>
+        <item>Dünya hayatında da, ahirette de Allah\'ın dostları için müjde vardır. Allah\'ın sözlerinde hiçbir değişme yoktur. İşte bu büyük başarıdır.(Yunus 64) </item>
+        <item>O, İstediğiniz şeylerin hepsinden size verdi. Eğer Allah\'ın nimetlerini saymaya kalkışsanız sayamazsınız. Şüphesiz insan çok zalimdir, çok nankördür.(İbrâhîm 34)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Andolsun, senden önce de birçok peygamberle alay edildi de içlerinden alay edenleri, o alaya aldıkları şey kuşatıverdi.(Enbiyâ Sûresi 41)</item>
+        <item>Eyyûb\'u da hatırla. Hani o Rabbine, "Şüphesiz ki ben derde uğradım, sen ise merhametlilerin en merhametlisisin" diye niyaz etmişti.(Enbiyâ 83)</item>
+        <item>Irzını korumuş olan kadını da (Meryem\'i de) hatırla. Ona ruhumuzdan üflemiştik. Kendisini de, oğlunu da âlemlere (kudretimizi gösteren) birer delil yapmıştık.(Enbiyâ 91)</item>
+        <item>Şüphesiz bu (İslâm), tek ümmet (din) olarak sizin ümmetiniz (dininiz)dir. Ben de Rabbinizim. Onun için sadece bana kulluk edin.(Enbiyâ 92)</item>
+        <item>(Kulların) diriltilecekleri gün beni utandırma!(Şuarâ 87) </item>
+        <item>Allah, kullarından dilediğinin rızkını genişletir, dilediğininkini daraltır. Şüphesiz ki Allah herşeyi hakkıyla Bilir.(Ankebût 62)</item>
+        <item>Kendilerine hıyanet edenleri savunma; çünkü Allah hainliği meslek edinmiş günahkârları sevmez.(Nisâ 107)</item>
+        <item>Allah sizden (yükümlülükleri) hafifletmek istiyor. Çünkü insan zayıf yaratılmıştır.(Nisâ Sûresi 28)</item>
+        <item>Kim İslam\'dan başka bir din ararsa, (bilsin ki o din) ondan kabul edilmeyecek ve o ahirette hüsrana uğrayanlardan olacaktır.(Âl-i İmrân 85)</item>
+        <item>De ki: "Namazım, ibadetlerim, hayatım ve ölümüm, alemlerin Rabbi Allah içindir.(En\'âm 162)</item>
+        <item>Her nefis ölümü tadacaktır. Sizi bir imtihan olarak hayır ile de şer ile de deniyoruz. Ancak bize döndürüleceksiniz.(Enbiyâ 35)</item>
+        <item>Doğrusu, güldüren de ağlatan da O\'dur.Öldüren de dirilten de O\'dur.(Necm Sûresi 43,44)</item>
+        <item>Doğru yolu göstermek bize aittir.Şüphesiz ahiret de dünya da bizimdir.(Leyl 12,13)</item>
+
+    </string-array>
+
+
+    <string-array name="hadisler">
+        <item>Kolaylaştırınız, güçleştirmeyiniz, müjdeleyiniz, nefret ettirmeyiniz. (Buhârî, İ lm, 12; Müslim, Cihâd, 6.)</item>
+        <item>İslâm, güzel ahlâktır. (Kenzü\'l-Ummâl, 3/17, HadisNo: 5225)</item>
+        <item>İnsanlara merhamet etmeyene Allah merhamet etmez. (Müslim, Fedâil, 66; Tirmizî, Birr, 16)</item>
+        <item>Nerede olursan ol Allah\'a karşı gelmekten sakın; yaptığın kötülüğün arkasından bir iyilik yap ki bu onu yok etsin. İnsanlara karşı güzel ahlakın gereğine göre davran. (Tirmizî, Birr, 55)</item>
+        <item>Hayra vesile olan, hayrı yapan gibidir. (Tirmizî, İlm, 14.)</item>
+        <item>Mümin, bir delikten iki defa sokulmaz. (Mümin, iki defa aynı yanılgıya düşmez) (Buhârî, Edeb, 83; Müslim, Zühd, 63.</item>
+        <item>Allah, sizden birinizin yaptığı işi, ameli ve görevi sağlam ve iyi yapmasından hoşnut olur. (Taberânî, el-Mu\'cemü\'l-Evsat, 1/275; Beyhakî,.)</item>
+        <item>İman, yetmiş küsur derecedir. En üstünü “Lâ ilâhe illallah (Allah\'tan başka ilah yoktur) sözüdür, en düşük derecesi de rahatsız edici bir şeyi yoldan kaldırmaktır. Haya da imandandır. (Buhârî, Îmân, 3; Müslim, Îmân, 57, 58).</item>
+        <item>Müslüman, insanların elinden ve dilinden emin olduğu kimsedir. (Tirmizî, Îmân, 12; Nesâî, Îmân, 8.)</item>
+        <item>(Mümin) kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getirmeyeceğin bir söz verme. (Tirmizî, Birr, 58.)</item>
+        <item>İnsanların Peygamberlerden öğrenegeldikleri sözlerden biri de: “Utanmadıktan sonra dilediğini yap! sözüdür. (Buhârî, Enbiyâ, 54; EbuDâvûd, Edeb, 6. )</item>
+        <item>(Allah Rasûlü) “Din nasihattır/samimiyettir buyurdu. “Kime Yâ Rasûlallah? diye sorduk. O da; “Allah\'a, Kitabına, Peygamberine, Müslümanların yöneticilerine ve bütün müslümanlara diye cevap verdi. (Müslim, İ mân, 95 )</item>
+        <item>Kim kötü ve çirkin bir iş görürse onu eliyle düzeltsin; eğer buna gücü yetmiyorsa diliyle düzeltsin; buna da gücü yetmezse, kalben karşı koysun. Bu da imanın en zayıf derecesidir. (Müslim, Îmân, 78; Ebû Dâvûd, Salât, 248.)</item>
+        <item>İki göz vardır ki, cehennem ateşi onlara dokunmaz: Allah korkusundan ağlayan göz, bir de gecesini Allah yolunda, nöbet tutarak geçiren göz. (Tirmizî , Fedâilü\'l-Cihâd, 12.)</item>
+        <item>Zarar vermek ve zarara zararla karşılık vermek yoktur. (İbn Mâce, Ahkâm, 17; Muvatta\', Akdıye, 31.)</item>
+        <item>Hiçbiriniz kendisi için istediğini (mü\'min) kardeşi için istemedikçe (gerçek) iman etmiş olamaz. (Buhârî, Îmân, 7; Müslim, Îmân, 71.)</item>
+        <item>Müslüman müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez. Kim, (mümin) kardeşinin bir ihtiyacını giderirse Allah da onun bir ihtiyacını giderir. Kim müslümanı bir sıkıntıdan kurtarırsa, bu sebeple Allah da onu kıyamet günü sıkıntılarının birinden kurtarır. Kim bir müslümanı(n kusurunu) örterse, Allah da Kıyamet günü onu(n kusurunu) örter. (Buhârî, Mezâlim, 3; Müslim, Birr, 58.)</item>
+        <item>İman etmedikçe cennete giremezsiniz, birbirinizi sevmedikçe de (gerçek anlamda) iman etmiş olamazsınız. (Müslim, Îmân, 93; Tirmizî, Sıfâtu\'l-Kıyâme, 56.)</item>
+        <item>İşçiye ücretini, (alnının) teri kurumadan veriniz. (İbn Mâce, Ruhûn, 4 .)</item>
+        <item>Rabbinize karşı gelmekten sakının, beş vakit namazınızı kılın, Ramazan orucunuzu tutun, mallarınızın zekatını verin, yöneticilerinize itaat edin. (Böylelikle) Rabbinizin cennetine girersiniz. (Tirmizî, Cum\'a, 80.)</item>
+        <item>Hiç şüphe yok ki doğruluk iyiliğe götürür. İyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk (doğru sözlü) diye yazılır. Yalancılık kötüye götürür. Kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb (çok yalancı) diye yazılır. (Buhârî, Edeb, 69; Müslim, Birr, 103, 104.)</item>
+        <item>( Mümin) kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yolunu kaybeden kimseye yol göstermen sadakadır. Yoldan taş, diken, kemik gibi şeyleri kaldırıp atman da senin için sadakadır. (Tirmizî, Birr, 36.)</item>
+        <item>Allah sizin ne dış görünüşünüze ne de mallarınıza bakar. Ama o sizin kalplerinize ve işlerinize bakar. (Müslim, Birr, 33; ‹bn Mâce, Zühd, 9; Ahmed b. Hanbel, 2/285, 539.)</item>
+        <item>Allah\'ın rızası, anne ve babanın rızasındadır. Allah\'ın öfkesi de anne babanın öfkesindedir. (Tirmizî, Birr, 3.)</item>
+        <item>Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, misafirin duası ve babanın evladına duası. (İbn Mâce, Dua, 11.)</item>
+        <item>Hiçbir baba, çocuğuna, güzel terbiyeden daha üstün bir hediye veremez. (Tirmizî, Birr, 33.)</item>
+        <item>Peygamberimiz işaret parmağı ve orta parmağıyla işaret ederek: “ Gerek kendisine ve gerekse başkasına ait herhangi bir yetimi görüp gözetmeyi üzerine alan kimse ile ben, cennette işte böyle yanyanayız buyurmuştur. (Buhârî, Talâk, 25, Edeb, 24; Müslim, Zühd, 42.)</item>
+        <item>Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir. (Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66)</item>
+        <item>Sizin en hayırlılarınız, hanımlarına karşı en iyi davrananlarınızdır. (Tirmizî, Radâ\', 11; ‹bn Mâce, Nikâh, 50. Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66.)</item>
+        <item>Cebrâil bana komşu hakkında o kadar çok tavsiyede bulundu ki; ben ( Allah Teâlâ) komşuyu komşuya mirasçı kılacak zannettim. (Buhârî, Edeb, 28; Müslim, Birr, 140, 141)</item>
+        <item>Birbirinize buğuz etmeyin, birbirinize haset etmeyin, birbirinize arka çevirmeyin; ey Allah\'ın kulları, kardeş olun. Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz. (Buhârî, Edeb, 57, 58.)</item>
+        <item>(İnsanı) helâk eden şu yedi şeyden kaçının. Onlar nelerdir ya Resulullah dediler. Bunun üzerine: Allah\'a şirk koşmak, sihir, Allah\'ın haram kıldığı cana kıymak, faiz yemek, yetim malı yemek, savaştan kaçmak, suçsuz ve namuslu mümin kadınlara iftirada bulunmak buyurdu. (Buhârî, Vasâyâ, 23, Tıbb, 48; Müslim, Îmân, 144)</item>
+        <item>Allah\'a ve ahiret gününe imân eden kimse, komşusuna eziyet etmesin. Allah\'a ve ahiret gününe imân eden misafirine ikramda bulunsun. Allah\'a ve ahiret gününe imân eden kimse, ya hayır söylesin veya sussun. (Buhârî, Edeb, 31, 85; Müslim, Îmân, 74, 75)</item>
+        <item>Söz taşıyanlar (cezalarını çekmeden yada affedilmedikçe) cennete giremezler. (Müslim, Îmân, 168; Tirmizî, Birr, 79.)</item>
+        <item>Dul ve fakirlere yardım eden kimse, Allah yolunda cihad eden veya gündüzleri (nafile) oruç tutup, gecelerini (nafile) ibadetle geçiren kimse gibidir. (Buhârî, Nafakât, 1; Müslim, Zühd, 41; Tirmizî, Birr, 44; Nesâî, Zekât, 78)</item>
+        <item>Her insan hata eder. Hata işleyenlerin en hayırlıları tevbe edenlerdir. (Tirmizî, Kıyâme, 49; İbn Mâce, Zühd, 30.)</item>
+        <item>İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir. (Buhârî, Îmân, 39; Müslim, Müsâkât, 107.)</item>
+        <item>Mü\'minin başka hiç kimsede bulunmayan ilginç bir hali vardır; O\'nun her işi hayırdır. Eğer bir genişliğe (nimete) kavuşursa şükreder ve bu onun için bir hayır olur. Eğer bir darlığa (musibete) uğrarsa sabreder ve bu da onun için bir hayır olur (Müslim, Zühd, 64; Dârim, Rikâk, 61.)</item>
+        <item>Bir müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri şeyler, o müslüman için birer sadakadır. (Buhârî, Edeb, 27; Müslim, Müsâkât, 7, 10.)</item>
+        <item>Bizi aldatan bizden değildir. (Müslim, Îmân, 164.)</item>
+        <item>Kolaylaştırınız, güçleştirmeyiniz, müjdeleyiniz, nefret ettirmeyiniz. (Buhârî, İ lm, 12; Müslim, Cihâd, 6.)</item>
+        <item>İslâm, güzel ahlâktır. (Kenzü\'l-Ummâl, 3/17, HadisNo: 5225)</item>
+        <item>İnsanlara merhamet etmeyene Allah merhamet etmez. (Müslim, Fedâil, 66; Tirmizî, Birr, 16)</item>
+        <item>Nerede olursan ol Allah\'a karşı gelmekten sakın; yaptığın kötülüğün arkasından bir iyilik yap ki bu onu yok etsin. İnsanlara karşı güzel ahlakın gereğine göre davran. (Tirmizî, Birr, 55)</item>
+        <item>Hayra vesile olan, hayrı yapan gibidir. (Tirmizî, İlm, 14.)</item>
+        <item>Mümin, bir delikten iki defa sokulmaz. (Mümin, iki defa aynı yanılgıya düşmez) (Buhârî, Edeb, 83; Müslim, Zühd, 63.</item>
+        <item>Allah, sizden birinizin yaptığı işi, ameli ve görevi sağlam ve iyi yapmasından hoşnut olur. (Taberânî, el-Mu\'cemü\'l-Evsat, 1/275; Beyhakî,.)</item>
+        <item>İman, yetmiş küsur derecedir. En üstünü “Lâ ilâhe illallah (Allah\'tan başka ilah yoktur) sözüdür, en düşük derecesi de rahatsız edici bir şeyi yoldan kaldırmaktır. Haya da imandandır. (Buhârî, Îmân, 3; Müslim, Îmân, 57, 58).</item>
+        <item>Müslüman, insanların elinden ve dilinden emin olduğu kimsedir. (Tirmizî, Îmân, 12; Nesâî, Îmân, 8.)</item>
+        <item>(Mümin) kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getirmeyeceğin bir söz verme. (Tirmizî, Birr, 58.)</item>
+        <item>İnsanların Peygamberlerden öğrenegeldikleri sözlerden biri de: “Utanmadıktan sonra dilediğini yap! sözüdür. (Buhârî, Enbiyâ, 54; EbuDâvûd, Edeb, 6. )</item>
+        <item>(Allah Rasûlü) “Din nasihattır/samimiyettir buyurdu. “Kime Yâ Rasûlallah? diye sorduk. O da; “Allah\'a, Kitabına, Peygamberine, Müslümanların yöneticilerine ve bütün müslümanlara diye cevap verdi. (Müslim, İ mân, 95 )</item>
+        <item>Kim kötü ve çirkin bir iş görürse onu eliyle düzeltsin; eğer buna gücü yetmiyorsa diliyle düzeltsin; buna da gücü yetmezse, kalben karşı koysun. Bu da imanın en zayıf derecesidir. (Müslim, Îmân, 78; Ebû Dâvûd, Salât, 248.)</item>
+        <item>İki göz vardır ki, cehennem ateşi onlara dokunmaz: Allah korkusundan ağlayan göz, bir de gecesini Allah yolunda, nöbet tutarak geçiren göz. (Tirmizî , Fedâilü\'l-Cihâd, 12.)</item>
+        <item>Zarar vermek ve zarara zararla karşılık vermek yoktur. (İbn Mâce, Ahkâm, 17; Muvatta\', Akdıye, 31.)</item>
+        <item>Hiçbiriniz kendisi için istediğini (mü\'min) kardeşi için istemedikçe (gerçek) iman etmiş olamaz. (Buhârî, Îmân, 7; Müslim, Îmân, 71.)</item>
+        <item>Müslüman müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez. Kim, (mümin) kardeşinin bir ihtiyacını giderirse Allah da onun bir ihtiyacını giderir. Kim müslümanı bir sıkıntıdan kurtarırsa, bu sebeple Allah da onu kıyamet günü sıkıntılarının birinden kurtarır. Kim bir müslümanı(n kusurunu) örterse, Allah da Kıyamet günü onu(n kusurunu) örter. (Buhârî, Mezâlim, 3; Müslim, Birr, 58.)</item>
+        <item>İman etmedikçe cennete giremezsiniz, birbirinizi sevmedikçe de (gerçek anlamda) iman etmiş olamazsınız. (Müslim, Îmân, 93; Tirmizî, Sıfâtu\'l-Kıyâme, 56.)</item>
+        <item>İşçiye ücretini, (alnının) teri kurumadan veriniz. (İbn Mâce, Ruhûn, 4 .)</item>
+        <item>Rabbinize karşı gelmekten sakının, beş vakit namazınızı kılın, Ramazan orucunuzu tutun, mallarınızın zekatını verin, yöneticilerinize itaat edin. (Böylelikle) Rabbinizin cennetine girersiniz. (Tirmizî, Cum\'a, 80.)</item>
+        <item>Hiç şüphe yok ki doğruluk iyiliğe götürür. İyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk (doğru sözlü) diye yazılır. Yalancılık kötüye götürür. Kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb (çok yalancı) diye yazılır. (Buhârî, Edeb, 69; Müslim, Birr, 103, 104.)</item>
+        <item>( Mümin) kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yolunu kaybeden kimseye yol göstermen sadakadır. Yoldan taş, diken, kemik gibi şeyleri kaldırıp atman da senin için sadakadır. (Tirmizî, Birr, 36.)</item>
+        <item>Allah sizin ne dış görünüşünüze ne de mallarınıza bakar. Ama o sizin kalplerinize ve işlerinize bakar. (Müslim, Birr, 33; ‹bn Mâce, Zühd, 9; Ahmed b. Hanbel, 2/285, 539.)</item>
+        <item>Allah\'ın rızası, anne ve babanın rızasındadır. Allah\'ın öfkesi de anne babanın öfkesindedir. (Tirmizî, Birr, 3.)</item>
+        <item>Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, misafirin duası ve babanın evladına duası. (İbn Mâce, Dua, 11.)</item>
+        <item>Hiçbir baba, çocuğuna, güzel terbiyeden daha üstün bir hediye veremez. (Tirmizî, Birr, 33.)</item>
+        <item>Peygamberimiz işaret parmağı ve orta parmağıyla işaret ederek: “ Gerek kendisine ve gerekse başkasına ait herhangi bir yetimi görüp gözetmeyi üzerine alan kimse ile ben, cennette işte böyle yanyanayız buyurmuştur. (Buhârî, Talâk, 25, Edeb, 24; Müslim, Zühd, 42.)</item>
+        <item>Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir. (Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66)</item>
+        <item>Sizin en hayırlılarınız, hanımlarına karşı en iyi davrananlarınızdır. (Tirmizî, Radâ\', 11; ‹bn Mâce, Nikâh, 50. Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66.)</item>
+        <item>Cebrâil bana komşu hakkında o kadar çok tavsiyede bulundu ki; ben ( Allah Teâlâ) komşuyu komşuya mirasçı kılacak zannettim. (Buhârî, Edeb, 28; Müslim, Birr, 140, 141)</item>
+        <item>Birbirinize buğuz etmeyin, birbirinize haset etmeyin, birbirinize arka çevirmeyin; ey Allah\'ın kulları, kardeş olun. Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz. (Buhârî, Edeb, 57, 58.)</item>
+        <item>(İnsanı) helâk eden şu yedi şeyden kaçının. Onlar nelerdir ya Resulullah dediler. Bunun üzerine: Allah\'a şirk koşmak, sihir, Allah\'ın haram kıldığı cana kıymak, faiz yemek, yetim malı yemek, savaştan kaçmak, suçsuz ve namuslu mümin kadınlara iftirada bulunmak buyurdu. (Buhârî, Vasâyâ, 23, Tıbb, 48; Müslim, Îmân, 144)</item>
+        <item>Allah\'a ve ahiret gününe imân eden kimse, komşusuna eziyet etmesin. Allah\'a ve ahiret gününe imân eden misafirine ikramda bulunsun. Allah\'a ve ahiret gününe imân eden kimse, ya hayır söylesin veya sussun. (Buhârî, Edeb, 31, 85; Müslim, Îmân, 74, 75)</item>
+        <item>Söz taşıyanlar (cezalarını çekmeden yada affedilmedikçe) cennete giremezler. (Müslim, Îmân, 168; Tirmizî, Birr, 79.)</item>
+        <item>Dul ve fakirlere yardım eden kimse, Allah yolunda cihad eden veya gündüzleri (nafile) oruç tutup, gecelerini (nafile) ibadetle geçiren kimse gibidir. (Buhârî, Nafakât, 1; Müslim, Zühd, 41; Tirmizî, Birr, 44; Nesâî, Zekât, 78)</item>
+        <item>Her insan hata eder. Hata işleyenlerin en hayırlıları tevbe edenlerdir. (Tirmizî, Kıyâme, 49; İbn Mâce, Zühd, 30.)</item>
+        <item>İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir. (Buhârî, Îmân, 39; Müslim, Müsâkât, 107.)</item>
+        <item>Mü\'minin başka hiç kimsede bulunmayan ilginç bir hali vardır; O\'nun her işi hayırdır. Eğer bir genişliğe (nimete) kavuşursa şükreder ve bu onun için bir hayır olur. Eğer bir darlığa (musibete) uğrarsa sabreder ve bu da onun için bir hayır olur (Müslim, Zühd, 64; Dârim, Rikâk, 61.)</item>
+        <item>Bir müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri şeyler, o müslüman için birer sadakadır. (Buhârî, Edeb, 27; Müslim, Müsâkât, 7, 10.)</item>
+        <item>Bizi aldatan bizden değildir. (Müslim, Îmân, 164.)</item>
+        <item>Dua, ibadetin özüdür. (Tirmizî, Deavât, 1)</item>
+        <item>Mümin kimseye lanet etmek, onu öldürmek gibidir. Her kim, mümin bir kimseyi küfürle itham ederse, onu öldürmüş gibidir. Kim kendisini herhangi bir şeyle keserse, kıyamet gününde, o şeyle kesilir. [Buhârî, Edeb 44, 73; Müslim, İman 177 (110)]</item>
+        <item>Namazda Fatiha suresini okumayan kimsenin namazı yoktur. [Buhârî, Ezân 94; Müslim, Salât 337,( 394); Ebu Dâvud, Salât, 13132 (822)]</item>
+        <item>Güneş ve ay; bir kimsenin ölümü ya da hayatı için tutulmazlar. Fakat güneş ve ay, Allah’ın varlığının delillerindendir. Allah, bunları kullarına gösterir. Güneş ve ayın tutulduklarını gördüğünüz zaman hemen namaz kılmayan koşun. [Buhârî, Küsûf 2, 4; Müslim, Küsûf 1,2,3,4,6]</item>
+        <item>Kim hakkı olmadığı halde başkasına ait bir toprak parçasını gasp ederse kıyamet günü o yerin yedi kat toprağı o kişinin sırtına yüklenir . [Buhârî, Mezâlim, B.13, Bedü’l- Halk, B.2; Ahmed b. Hanbel, Müsned, II, 99)]</item>
+        <item>Sizden birinin, bir lokması düştüğünde onu alsın, temizleyip yesin, şeytana bırakmasın. [Müslim, Eşribe, 136]</item>
+        <item>Küçüğümüze merhamet etmeyen ve büyüğümüzün şerefini tanımayan bizden değildir. [Ebu Davud, Kitabu’l-Edeb, 4943, Tirmizi, el-Birr, 1921]</item>
+        <item>Bir adam Allah rızası için ailesinin nafakasını temin ederse, onun için sadaka olur. [Buhârî , Kitabu’l İman, 9/437]</item>
+        <item>İyilik güzel ahlaktır; günah da içinde tereddüt uyandıran ve halkın bilmesini istemediğin şeydir. [Müslim, el-Birrü ve’s Sıle, 2553]</item>
+        <item>Sadaka malı eksiltmez. Bir kul başkalarını affederse Allah onun şerefini artırır. Kim Allah için tevazu gösterirse Allah onu yükseltir. [Müslim, Kitabu’l Birr, babu istihabil affi vet tevazui, 2588]</item>
+        <item>Dünyada garip yahut yolcu ol. [Buhârî, Rikak, babu kavlin Nebiyi, 11/199, 200]</item>
+        <item>Zulümden sakının; zira zulüm kıyamet gününde zülumat(karanlık)tır. Cimrilikten sakının; zira cimrilik sizden öncekileri helak etti; onları kanlarını dökmeye ve haramları helal saymaya sevk etti. [Müslim, Birr, babu tahrimiz zülmi, 2578]</item>
+        <item>Gücünüzün yettiği ibadeti yapın. Zira siz usanmadıkça Allah usanmaz. [Buhârî Teheccüd 3/31; Müslim Müsafirin, 785]</item>
+        <item>Allah yemek yeyip de arkasından kendisine hamdeden, su içip de arkasından kendisine hamdeden kulundan razı olur. [Müslim, Zikr, 2734]</item>
+        <item>Her kul öldüğü hal üzere dirilir. [Müslim, Cennet 2878]</item>
+        <item>Ölüyü üç şey takip eder: Ailesi, malı ve ameli. İkisi geri döner; biri kalır: Ailesi ve malı geri döner; ameli ise kalır. [Buhârî, Rikak, 11/315]</item>
+        <item>Kim bir şeye yemin eder de takvaya daha yakın başka bir şey görürse, o şeyi yapsın. [Müslim, İman, 1651]</item>
+        <item>Allah da kıskanır. Allah’ın kıskanması haramların çiğnenmesidir. [Buhârî, Nikah, 9/281; Müslim, Tevbe, 2761]</item>
+        <item>Alışveriş yapanlar meclisten ayrılmadıkları sürece muhayyerdirler. Eğer doğru konuşurlarsa alışverişlerinin bereketini görürler. Eğer bazı şeyleri saklarlarsa alışverişlerinin bereketi kaçar. [Buhârî, Buyu’, 1532]</item>
+        <item>Allah kimin hayrını murad ederse, ona musibet verir. [Buhârî, el-Marda, 10/94]</item>
+        <item>Taharet imanın yarısıdır. Elhamdülillah mizanı doldurur, sübhanallah velhamdulillah göklerle yerin arasını doldururlar. Namaz nurdur, sadaka delildir, sabır ışıktır, Kur’ân da ya lehine ya da aleyhine şahittir. Herkes sabahleyin kalkar; nefsini satar; ya onu azat eder, yahut da helak eder. [Müslim, Taharet, 223]</item>
+        <item>Allah;  gündüz günah işleyenin tevbe etmesi için gece elini açar ve gece günah işleyenin tevbe etmesi için de gündüz elini açar. Bu, güneşin batıdan doğmasına kadar devam eder. [Müslim, Kitabu’t Tevbe, 2760]</item>
+        <item>Pehlivan başkalarını yere çalan (yenen) değildir. Asıl pehlivan öfke anında nefsine sahip olandır. [Buhârî, Edeb, 10/431 Müslim, 2609]</item>
+        <item>Haksız yere öldürülen her canda Âdem’in ilk oğluna bir günah payı vardır. Çünkü öldürme olayını ilk önce o âdet etmiştir. [Buhârî, Cenaiz, 6/262; Müslim, Kasame, 1677]</item>
+        <item>Kim bir hayra delalet ederse, onu yapan kadar sevap kazanır. [Müslim, İmare, 1893]</item>
+        <item>Kim Allah yolunda bir gaziyi teçhiz ederse gaza etmiş olur ve kim bir gazinin ailesine bakarsa, yine gaza etmiş olur. [Buhârî, Cihad, 6/36; Müslim, İmare, 1895]</item>
+        <item>Münafığın alâmeti üçtür: Konuştuğu zaman yalan söyler, söz verdiği zaman üzerinde durmaz, bir şey emanet edilirse hıyanet eder. [Buhârî, İman, 59]</item>
+        <item>Kim iki kız çocuğuna buluğa erinceye kadar bakarsa ben ve o cennette şöyleyiz. (İki elini birbirine birleştirmiştir) [Müslim, Kitabul Birri ve’s Sıla ve’l Edeb, 2631]</item>
+        <item>Kim Allah rızası için öğrenilmesi gereken bir ilmi dünya metaı elde etmek için öğrenirse, kıyamet gününde cennetin kokusunu bile duymaz. [Ebu Dâvud, Kitabu’l-İlm, 2664]</item>
+        <item>Yedi tehlikeli günahtan sakının. Allah’a şirk koşmak, büyü yapmak, Allah’ın haram kıldığı cana haksız yere kıymak, faiz yemek, yetim malı yemek, savaştan kaçmak ve namuslu, bir şeyden haberi olmayan Mü’min kadınlara iftira etmek. [Buhârî, Kitabu’l-Vasaya, 5/294, Müslim Kitabu’l İman, 89]</item>
+        <item>Zenginin borcunu savsaklaması zulümdür. Biriniz zengine havale edilirse, kabul etsin. [Buhârî, Havalat, 4/381; Müslim, Kitabu’l Buyu’, 1564]</item>
+        <item>Üç kişi olursanız ötekisi olmadan iki kişi insanlara karışmadan gizli konuşmasınlar. Çünkü bu onu üzer. [Buhârî, Kitabu’l İstizan, 11/69; Müslim, Kitabu’s-Selam, 2184]</item>
+        <item>Bir mü’mine mü’min kardeşini üç günden fazla terk etmesi helal değildir. Eğer üç gün geçerse, karşısına çıksın, ona selam versin. Eğer selamını alırsa, sevapta ortak olurlar. Eğer almazsa, günahı o yüklenir ve selam veren küsme durumundan çıkar. [Ebu Dâvud, Kitabu’l-Edeb, 4912]</item>
+        <item>Hasetten uzak durun; zira ateş nasıl odunu/ kuru otu yakar bitirirse, haset de iyilikleri öylece yakar bitirir. [Ebu Dâvud,Edeb, 4903]</item>
+        <item>Ölülere sövmeyin; çünkü onlar amelleri ile baş başa kalmışlardır. [Buhârî, Cenaiz, 3/206]</item>
+        <item>Lanet edenler kıyamet gününde ne şefaatçi ne de şahid olabilirler. [Müslim, Kitabu’l-Birr, 2598]</item>
+        <item>İnsanların arasını bulan; hayır ulaştıran yahut hayır söyleyen yalancı değildir. [Buhârî, Kitabu’s-Sulh, 5/220]</item>
+        <item>Yalanın en büyüğü görmediği halde rüya gördüm, demektir. [Buhârî, Tabir, 12/376]</item>
+        <item>Laf götürüp getiren cennete girmez. [Buhârî, Edeb, 10/394; Müslim, Kitabu’l İman, 105]</item>
+        <item>Kim bir Müslüman kardeşinin namusunu müdafaa ederse, Allah da kıyamet gününde onun yüzünü cehennemden korur. [Tirmizî, Ebvabu’l-Birri ve’s Sıle, 1932]</item>
+        <item>Hayâ imandandır. Müslim</item>
+        <item>Temizlik, imanın yarısıdır. Müslim</item>
+        <item>Bizi aldatan bizden değildir. Müslim</item>
+        <item>Hayra vesile olan, hayrı yapan gibidir. Tirmizi</item>
+        <item>Mü’min, bir delikten iki defa sokulmaz. Buhari, Müslim</item>
+        <item>Akrabalık bağını kesen cennete giremez. Buhari 5984, Müslim 2000/19</item>
+        <item>Sizden hiç biriniz banyo yaptığı yere işemesin! Tirmizi</item>
+        <item>Laf taşıyan, (dedikoduculuk yapan) cennete giremez. Buhari, Müslim</item>
+        <item>İnsanlara merhamet etmeyene Allah merhamet etmez. Müslim, Tirmizi</item>
+        <item>Kolaylaştırınız, zorlaştırmayınız, müjdeleyiniz, nefret ettirmeyiniz. Buhari, Müslim</item>
+        <item>Kolaylaştırınız, güçleştirmeyiniz, müjdeleyiniz, nefret ettirmeyiniz. (Buhârî, İ lm, 12; Müslim, Cihâd, 6.)</item>
+        <item>İslâm, güzel ahlâktır. (Kenzü\'l-Ummâl, 3/17, HadisNo: 5225)</item>
+        <item>İnsanlara merhamet etmeyene Allah merhamet etmez. (Müslim, Fedâil, 66; Tirmizî, Birr, 16)</item>
+        <item>Nerede olursan ol Allah\'a karşı gelmekten sakın; yaptığın kötülüğün arkasından bir iyilik yap ki bu onu yok etsin. İnsanlara karşı güzel ahlakın gereğine göre davran. (Tirmizî, Birr, 55)</item>
+        <item>Hayra vesile olan, hayrı yapan gibidir. (Tirmizî, İlm, 14.)</item>
+        <item>Mümin, bir delikten iki defa sokulmaz. (Mümin, iki defa aynı yanılgıya düşmez) (Buhârî, Edeb, 83; Müslim, Zühd, 63.</item>
+        <item>Allah, sizden birinizin yaptığı işi, ameli ve görevi sağlam ve iyi yapmasından hoşnut olur. (Taberânî, el-Mu\'cemü\'l-Evsat, 1/275; Beyhakî,.)</item>
+        <item>İman, yetmiş küsur derecedir. En üstünü “Lâ ilâhe illallah (Allah\'tan başka ilah yoktur) sözüdür, en düşük derecesi de rahatsız edici bir şeyi yoldan kaldırmaktır. Haya da imandandır. (Buhârî, Îmân, 3; Müslim, Îmân, 57, 58).</item>
+        <item>Müslüman, insanların elinden ve dilinden emin olduğu kimsedir. (Tirmizî, Îmân, 12; Nesâî, Îmân, 8.)</item>
+        <item>(Mümin) kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getirmeyeceğin bir söz verme. (Tirmizî, Birr, 58.)</item>
+        <item>İnsanların Peygamberlerden öğrenegeldikleri sözlerden biri de: “Utanmadıktan sonra dilediğini yap! sözüdür. (Buhârî, Enbiyâ, 54; EbuDâvûd, Edeb, 6. )</item>
+        <item>(Allah Rasûlü) “Din nasihattır/samimiyettir buyurdu. “Kime Yâ Rasûlallah? diye sorduk. O da; “Allah\'a, Kitabına, Peygamberine, Müslümanların yöneticilerine ve bütün müslümanlara diye cevap verdi. (Müslim, İ mân, 95 )</item>
+        <item>Kim kötü ve çirkin bir iş görürse onu eliyle düzeltsin; eğer buna gücü yetmiyorsa diliyle düzeltsin; buna da gücü yetmezse, kalben karşı koysun. Bu da imanın en zayıf derecesidir. (Müslim, Îmân, 78; Ebû Dâvûd, Salât, 248.)</item>
+        <item>İki göz vardır ki, cehennem ateşi onlara dokunmaz: Allah korkusundan ağlayan göz, bir de gecesini Allah yolunda, nöbet tutarak geçiren göz. (Tirmizî , Fedâilü\'l-Cihâd, 12.)</item>
+        <item>Zarar vermek ve zarara zararla karşılık vermek yoktur. (İbn Mâce, Ahkâm, 17; Muvatta\', Akdıye, 31.)</item>
+        <item>Hiçbiriniz kendisi için istediğini (mü\'min) kardeşi için istemedikçe (gerçek) iman etmiş olamaz. (Buhârî, Îmân, 7; Müslim, Îmân, 71.)</item>
+        <item>Müslüman müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez. Kim, (mümin) kardeşinin bir ihtiyacını giderirse Allah da onun bir ihtiyacını giderir. Kim müslümanı bir sıkıntıdan kurtarırsa, bu sebeple Allah da onu kıyamet günü sıkıntılarının birinden kurtarır. Kim bir müslümanı(n kusurunu) örterse, Allah da Kıyamet günü onu(n kusurunu) örter. (Buhârî, Mezâlim, 3; Müslim, Birr, 58.)</item>
+        <item>İman etmedikçe cennete giremezsiniz, birbirinizi sevmedikçe de (gerçek anlamda) iman etmiş olamazsınız. (Müslim, Îmân, 93; Tirmizî, Sıfâtu\'l-Kıyâme, 56.)</item>
+        <item>İşçiye ücretini, (alnının) teri kurumadan veriniz. (İbn Mâce, Ruhûn, 4 .)</item>
+        <item>Rabbinize karşı gelmekten sakının, beş vakit namazınızı kılın, Ramazan orucunuzu tutun, mallarınızın zekatını verin, yöneticilerinize itaat edin. (Böylelikle) Rabbinizin cennetine girersiniz. (Tirmizî, Cum\'a, 80.)</item>
+        <item>Hiç şüphe yok ki doğruluk iyiliğe götürür. İyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk (doğru sözlü) diye yazılır. Yalancılık kötüye götürür. Kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb (çok yalancı) diye yazılır. (Buhârî, Edeb, 69; Müslim, Birr, 103, 104.)</item>
+        <item>( Mümin) kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yolunu kaybeden kimseye yol göstermen sadakadır. Yoldan taş, diken, kemik gibi şeyleri kaldırıp atman da senin için sadakadır. (Tirmizî, Birr, 36.)</item>
+        <item>Allah sizin ne dış görünüşünüze ne de mallarınıza bakar. Ama o sizin kalplerinize ve işlerinize bakar. (Müslim, Birr, 33; ‹bn Mâce, Zühd, 9; Ahmed b. Hanbel, 2/285, 539.)</item>
+        <item>Allah\'ın rızası, anne ve babanın rızasındadır. Allah\'ın öfkesi de anne babanın öfkesindedir. (Tirmizî, Birr, 3.)</item>
+        <item>Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, misafirin duası ve babanın evladına duası. (İbn Mâce, Dua, 11.)</item>
+        <item>Hiçbir baba, çocuğuna, güzel terbiyeden daha üstün bir hediye veremez. (Tirmizî, Birr, 33.)</item>
+        <item>Peygamberimiz işaret parmağı ve orta parmağıyla işaret ederek: “ Gerek kendisine ve gerekse başkasına ait herhangi bir yetimi görüp gözetmeyi üzerine alan kimse ile ben, cennette işte böyle yanyanayız buyurmuştur. (Buhârî, Talâk, 25, Edeb, 24; Müslim, Zühd, 42.)</item>
+        <item>Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir. (Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66)</item>
+        <item>Sizin en hayırlılarınız, hanımlarına karşı en iyi davrananlarınızdır. (Tirmizî, Radâ\', 11; ‹bn Mâce, Nikâh, 50. Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66.)</item>
+        <item>Cebrâil bana komşu hakkında o kadar çok tavsiyede bulundu ki; ben ( Allah Teâlâ) komşuyu komşuya mirasçı kılacak zannettim. (Buhârî, Edeb, 28; Müslim, Birr, 140, 141)</item>
+        <item>Birbirinize buğuz etmeyin, birbirinize haset etmeyin, birbirinize arka çevirmeyin; ey Allah\'ın kulları, kardeş olun. Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz. (Buhârî, Edeb, 57, 58.)</item>
+        <item>(İnsanı) helâk eden şu yedi şeyden kaçının. Onlar nelerdir ya Resulullah dediler. Bunun üzerine: Allah\'a şirk koşmak, sihir, Allah\'ın haram kıldığı cana kıymak, faiz yemek, yetim malı yemek, savaştan kaçmak, suçsuz ve namuslu mümin kadınlara iftirada bulunmak buyurdu. (Buhârî, Vasâyâ, 23, Tıbb, 48; Müslim, Îmân, 144)</item>
+        <item>Allah\'a ve ahiret gününe imân eden kimse, komşusuna eziyet etmesin. Allah\'a ve ahiret gününe imân eden misafirine ikramda bulunsun. Allah\'a ve ahiret gününe imân eden kimse, ya hayır söylesin veya sussun. (Buhârî, Edeb, 31, 85; Müslim, Îmân, 74, 75)</item>
+        <item>Söz taşıyanlar (cezalarını çekmeden yada affedilmedikçe) cennete giremezler. (Müslim, Îmân, 168; Tirmizî, Birr, 79.)</item>
+        <item>Dul ve fakirlere yardım eden kimse, Allah yolunda cihad eden veya gündüzleri (nafile) oruç tutup, gecelerini (nafile) ibadetle geçiren kimse gibidir. (Buhârî, Nafakât, 1; Müslim, Zühd, 41; Tirmizî, Birr, 44; Nesâî, Zekât, 78)</item>
+        <item>Her insan hata eder. Hata işleyenlerin en hayırlıları tevbe edenlerdir. (Tirmizî, Kıyâme, 49; İbn Mâce, Zühd, 30.)</item>
+        <item>İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir. (Buhârî, Îmân, 39; Müslim, Müsâkât, 107.)</item>
+        <item>Mü\'minin başka hiç kimsede bulunmayan ilginç bir hali vardır; O\'nun her işi hayırdır. Eğer bir genişliğe (nimete) kavuşursa şükreder ve bu onun için bir hayır olur. Eğer bir darlığa (musibete) uğrarsa sabreder ve bu da onun için bir hayır olur (Müslim, Zühd, 64; Dârim, Rikâk, 61.)</item>
+        <item>Bir müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri şeyler, o müslüman için birer sadakadır. (Buhârî, Edeb, 27; Müslim, Müsâkât, 7, 10.)</item>
+        <item>Bizi aldatan bizden değildir. (Müslim, Îmân, 164.)</item>
+        <item>Kolaylaştırınız, güçleştirmeyiniz, müjdeleyiniz, nefret ettirmeyiniz. (Buhârî, İ lm, 12; Müslim, Cihâd, 6.)</item>
+        <item>İslâm, güzel ahlâktır. (Kenzü\'l-Ummâl, 3/17, HadisNo: 5225)</item>
+        <item>İnsanlara merhamet etmeyene Allah merhamet etmez. (Müslim, Fedâil, 66; Tirmizî, Birr, 16)</item>
+        <item>Nerede olursan ol Allah\'a karşı gelmekten sakın; yaptığın kötülüğün arkasından bir iyilik yap ki bu onu yok etsin. İnsanlara karşı güzel ahlakın gereğine göre davran. (Tirmizî, Birr, 55)</item>
+        <item>Hayra vesile olan, hayrı yapan gibidir. (Tirmizî, İlm, 14.)</item>
+        <item>Mümin, bir delikten iki defa sokulmaz. (Mümin, iki defa aynı yanılgıya düşmez) (Buhârî, Edeb, 83; Müslim, Zühd, 63.</item>
+        <item>Allah, sizden birinizin yaptığı işi, ameli ve görevi sağlam ve iyi yapmasından hoşnut olur. (Taberânî, el-Mu\'cemü\'l-Evsat, 1/275; Beyhakî,.)</item>
+        <item>İman, yetmiş küsur derecedir. En üstünü “Lâ ilâhe illallah (Allah\'tan başka ilah yoktur) sözüdür, en düşük derecesi de rahatsız edici bir şeyi yoldan kaldırmaktır. Haya da imandandır. (Buhârî, Îmân, 3; Müslim, Îmân, 57, 58).</item>
+        <item>Müslüman, insanların elinden ve dilinden emin olduğu kimsedir. (Tirmizî, Îmân, 12; Nesâî, Îmân, 8.)</item>
+        <item>(Mümin) kardeşinle münakaşa etme, onun hoşuna gitmeyecek şakalar yapma ve ona yerine getirmeyeceğin bir söz verme. (Tirmizî, Birr, 58.)</item>
+        <item>İnsanların Peygamberlerden öğrenegeldikleri sözlerden biri de: “Utanmadıktan sonra dilediğini yap! sözüdür. (Buhârî, Enbiyâ, 54; EbuDâvûd, Edeb, 6. )</item>
+        <item>(Allah Rasûlü) “Din nasihattır/samimiyettir buyurdu. “Kime Yâ Rasûlallah? diye sorduk. O da; “Allah\'a, Kitabına, Peygamberine, Müslümanların yöneticilerine ve bütün müslümanlara diye cevap verdi. (Müslim, İ mân, 95 )</item>
+        <item>Kim kötü ve çirkin bir iş görürse onu eliyle düzeltsin; eğer buna gücü yetmiyorsa diliyle düzeltsin; buna da gücü yetmezse, kalben karşı koysun. Bu da imanın en zayıf derecesidir. (Müslim, Îmân, 78; Ebû Dâvûd, Salât, 248.)</item>
+        <item>İki göz vardır ki, cehennem ateşi onlara dokunmaz: Allah korkusundan ağlayan göz, bir de gecesini Allah yolunda, nöbet tutarak geçiren göz. (Tirmizî , Fedâilü\'l-Cihâd, 12.)</item>
+        <item>Zarar vermek ve zarara zararla karşılık vermek yoktur. (İbn Mâce, Ahkâm, 17; Muvatta\', Akdıye, 31.)</item>
+        <item>Hiçbiriniz kendisi için istediğini (mü\'min) kardeşi için istemedikçe (gerçek) iman etmiş olamaz. (Buhârî, Îmân, 7; Müslim, Îmân, 71.)</item>
+        <item>Müslüman müslümanın kardeşidir. Ona zulmetmez, onu (düşmanına) teslim etmez. Kim, (mümin) kardeşinin bir ihtiyacını giderirse Allah da onun bir ihtiyacını giderir. Kim müslümanı bir sıkıntıdan kurtarırsa, bu sebeple Allah da onu kıyamet günü sıkıntılarının birinden kurtarır. Kim bir müslümanı(n kusurunu) örterse, Allah da Kıyamet günü onu(n kusurunu) örter. (Buhârî, Mezâlim, 3; Müslim, Birr, 58.)</item>
+        <item>İman etmedikçe cennete giremezsiniz, birbirinizi sevmedikçe de (gerçek anlamda) iman etmiş olamazsınız. (Müslim, Îmân, 93; Tirmizî, Sıfâtu\'l-Kıyâme, 56.)</item>
+        <item>İşçiye ücretini, (alnının) teri kurumadan veriniz. (İbn Mâce, Ruhûn, 4 .)</item>
+        <item>Rabbinize karşı gelmekten sakının, beş vakit namazınızı kılın, Ramazan orucunuzu tutun, mallarınızın zekatını verin, yöneticilerinize itaat edin. (Böylelikle) Rabbinizin cennetine girersiniz. (Tirmizî, Cum\'a, 80.)</item>
+        <item>Hiç şüphe yok ki doğruluk iyiliğe götürür. İyilik de cennete götürür. Kişi doğru söyleye söyleye Allah katında sıddîk (doğru sözlü) diye yazılır. Yalancılık kötüye götürür. Kötülük de cehenneme götürür. Kişi yalan söyleye söyleye Allah katında kezzâb (çok yalancı) diye yazılır. (Buhârî, Edeb, 69; Müslim, Birr, 103, 104.)</item>
+        <item>( Mümin) kardeşine tebessüm etmen sadakadır. İyiliği emredip kötülükten sakındırman sadakadır. Yolunu kaybeden kimseye yol göstermen sadakadır. Yoldan taş, diken, kemik gibi şeyleri kaldırıp atman da senin için sadakadır. (Tirmizî, Birr, 36.)</item>
+        <item>Allah sizin ne dış görünüşünüze ne de mallarınıza bakar. Ama o sizin kalplerinize ve işlerinize bakar. (Müslim, Birr, 33; ‹bn Mâce, Zühd, 9; Ahmed b. Hanbel, 2/285, 539.)</item>
+        <item>Allah\'ın rızası, anne ve babanın rızasındadır. Allah\'ın öfkesi de anne babanın öfkesindedir. (Tirmizî, Birr, 3.)</item>
+        <item>Üç dua vardır ki, bunlar şüphesiz kabul edilir: Mazlumun duası, misafirin duası ve babanın evladına duası. (İbn Mâce, Dua, 11.)</item>
+        <item>Hiçbir baba, çocuğuna, güzel terbiyeden daha üstün bir hediye veremez. (Tirmizî, Birr, 33.)</item>
+        <item>Peygamberimiz işaret parmağı ve orta parmağıyla işaret ederek: “ Gerek kendisine ve gerekse başkasına ait herhangi bir yetimi görüp gözetmeyi üzerine alan kimse ile ben, cennette işte böyle yanyanayız buyurmuştur. (Buhârî, Talâk, 25, Edeb, 24; Müslim, Zühd, 42.)</item>
+        <item>Küçüklerimize merhamet etmeyen, büyüklerimize saygı göstermeyen bizden değildir. (Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66)</item>
+        <item>Sizin en hayırlılarınız, hanımlarına karşı en iyi davrananlarınızdır. (Tirmizî, Radâ\', 11; ‹bn Mâce, Nikâh, 50. Tirmizî, Birr, 15; Ebû Dâvûd, Edeb, 66.)</item>
+        <item>Cebrâil bana komşu hakkında o kadar çok tavsiyede bulundu ki; ben ( Allah Teâlâ) komşuyu komşuya mirasçı kılacak zannettim. (Buhârî, Edeb, 28; Müslim, Birr, 140, 141)</item>
+        <item>Birbirinize buğuz etmeyin, birbirinize haset etmeyin, birbirinize arka çevirmeyin; ey Allah\'ın kulları, kardeş olun. Bir müslümana, üç günden fazla (din) kardeşi ile dargın durması helal olmaz. (Buhârî, Edeb, 57, 58.)</item>
+        <item>(İnsanı) helâk eden şu yedi şeyden kaçının. Onlar nelerdir ya Resulullah dediler. Bunun üzerine: Allah\'a şirk koşmak, sihir, Allah\'ın haram kıldığı cana kıymak, faiz yemek, yetim malı yemek, savaştan kaçmak, suçsuz ve namuslu mümin kadınlara iftirada bulunmak buyurdu. (Buhârî, Vasâyâ, 23, Tıbb, 48; Müslim, Îmân, 144)</item>
+        <item>Allah\'a ve ahiret gününe imân eden kimse, komşusuna eziyet etmesin. Allah\'a ve ahiret gününe imân eden misafirine ikramda bulunsun. Allah\'a ve ahiret gününe imân eden kimse, ya hayır söylesin veya sussun. (Buhârî, Edeb, 31, 85; Müslim, Îmân, 74, 75)</item>
+        <item>Söz taşıyanlar (cezalarını çekmeden yada affedilmedikçe) cennete giremezler. (Müslim, Îmân, 168; Tirmizî, Birr, 79.)</item>
+        <item>Dul ve fakirlere yardım eden kimse, Allah yolunda cihad eden veya gündüzleri (nafile) oruç tutup, gecelerini (nafile) ibadetle geçiren kimse gibidir. (Buhârî, Nafakât, 1; Müslim, Zühd, 41; Tirmizî, Birr, 44; Nesâî, Zekât, 78)</item>
+        <item>Her insan hata eder. Hata işleyenlerin en hayırlıları tevbe edenlerdir. (Tirmizî, Kıyâme, 49; İbn Mâce, Zühd, 30.)</item>
+        <item>İnsanda bir organ vardır. Eğer o sağlıklı ise bütün vücut sağlıklı olur; eğer o bozulursa bütün vücut bozulur. Dikkat edin! O, kalptir. (Buhârî, Îmân, 39; Müslim, Müsâkât, 107.)</item>
+        <item>Mü\'minin başka hiç kimsede bulunmayan ilginç bir hali vardır; O\'nun her işi hayırdır. Eğer bir genişliğe (nimete) kavuşursa şükreder ve bu onun için bir hayır olur. Eğer bir darlığa (musibete) uğrarsa sabreder ve bu da onun için bir hayır olur (Müslim, Zühd, 64; Dârim, Rikâk, 61.)</item>
+        <item>Bir müslümanın diktiği ağaçtan veya ektiği ekinden insan, hayvan ve kuşların yedikleri şeyler, o müslüman için birer sadakadır. (Buhârî, Edeb, 27; Müslim, Müsâkât, 7, 10.)</item>
+        <item>Bizi aldatan bizden değildir. (Müslim, Îmân, 164.)</item>
+        <item>Dua, ibadetin özüdür. (Tirmizî, Deavât, 1)</item>
+        <item>Mümin kimseye lanet etmek, onu öldürmek gibidir. Her kim, mümin bir kimseyi küfürle itham ederse, onu öldürmüş gibidir. Kim kendisini herhangi bir şeyle keserse, kıyamet gününde, o şeyle kesilir. [Buhârî, Edeb 44, 73; Müslim, İman 177 (110)]</item>
+        <item>Namazda Fatiha suresini okumayan kimsenin namazı yoktur. [Buhârî, Ezân 94; Müslim, Salât 337,( 394); Ebu Dâvud, Salât, 13132 (822)]</item>
+        <item>Güneş ve ay; bir kimsenin ölümü ya da hayatı için tutulmazlar. Fakat güneş ve ay, Allah’ın varlığının delillerindendir. Allah, bunları kullarına gösterir. Güneş ve ayın tutulduklarını gördüğünüz zaman hemen namaz kılmayan koşun. [Buhârî, Küsûf 2, 4; Müslim, Küsûf 1,2,3,4,6]</item>
+        <item>Kim hakkı olmadığı halde başkasına ait bir toprak parçasını gasp ederse kıyamet günü o yerin yedi kat toprağı o kişinin sırtına yüklenir . [Buhârî, Mezâlim, B.13, Bedü’l- Halk, B.2; Ahmed b. Hanbel, Müsned, II, 99)]</item>
+        <item>Sizden birinin, bir lokması düştüğünde onu alsın, temizleyip yesin, şeytana bırakmasın. [Müslim, Eşribe, 136]</item>
+        <item>Küçüğümüze merhamet etmeyen ve büyüğümüzün şerefini tanımayan bizden değildir. [Ebu Davud, Kitabu’l-Edeb, 4943, Tirmizi, el-Birr, 1921]</item>
+        <item>Bir adam Allah rızası için ailesinin nafakasını temin ederse, onun için sadaka olur. [Buhârî , Kitabu’l İman, 9/437]</item>
+        <item>İyilik güzel ahlaktır; günah da içinde tereddüt uyandıran ve halkın bilmesini istemediğin şeydir. [Müslim, el-Birrü ve’s Sıle, 2553]</item>
+        <item>Sadaka malı eksiltmez. Bir kul başkalarını affederse Allah onun şerefini artırır. Kim Allah için tevazu gösterirse Allah onu yükseltir. [Müslim, Kitabu’l Birr, babu istihabil affi vet tevazui, 2588]</item>
+        <item>Dünyada garip yahut yolcu ol. [Buhârî, Rikak, babu kavlin Nebiyi, 11/199, 200]</item>
+
+    </string-array>
+
+
+    <string-array name="sunnetler">
+
+    <item>Suyu oturarak içer ve 3 yudumla bitirirdi.</item>
+    <item>Suyu içmeye besmeleyle başlar bitirince hamd ederdi.</item>
+    <item>Bıyıkları en çok kaşları kadar uzatırdı,dudakların altına sarkıtmazdı.</item>
+    <item>Mezarlıktan geçerken selam verirdi.</item>
+    <item>Ölüye definden sonra telkin verirdi.</item>
+    <item>Tırnaklarını Cuma günleri keserdi.</item>
+    <item>Tırnak kesmeye Şahadet Parmağından başlardı.</item>
+    <item>Yatarken sağ tarafının üzerine yatardı.</item>
+    <item>Yatmadan önce abdest alır abdestli olarak uyurdu.</item>
+    <item>Yemek yemeye tuzla başlardı.Yemek sofrasında sirke bulundururdu.</item>
+    <item>Ayakkabısını giymeden önce mutlaka ters çevirir giyerdi.</item>
+    <item>Fakirlere uşur verirdi.</item>
+    <item>Duş altıkdan sonra çıkarken ayaklarını yıkardı.</item>
+    <item>Ezan okunurken dururdu.Abdest aldıktan sonra kıbleye döner ve su içerdi.</item>
+    <item>Gömleğin düğmelerini aşağıdan yukarı doğru ilklemek, çözerken yukarıdan aşağı doğru çözmek.</item>
+    <item>Namazda sol ayak üzerine oturmak sağa ayağı dikmek.</item>
+    <item>Namazda kıyamda iken rükuya eğilirken sol ayağı sağ ayağın yanına getirmek.</item>
+    <item>Hapşırınca Elhanmdülillah, duyarsa Yerhamükellah derdi.</item>
+    <item>Cenaze evine yemek gönderirdi.</item>
+    <item>Kabir üzerine su dökerdi.</item>
+    <item>Kabri balık sırtı yapardı.</item>
+    <item>Cevizi peynirle  (Şifadır)Üzümü ekmekle yerdi.</item>
+    <item>Buğday ekmeğine arpa unu karıştırırdı.</item>
+    <item>Yemekte güzel şeylerden bahsederdi.</item>
+    <item>Biri seslendiğinde seslenene doğru bütün vücudu ile dönerdi.</item>
+    <item>Yolda başı öne eğik yürürdü.</item>
+    <item>Sabah ve ikindi namazından sonra istiğfar okurdu.</item>
+    <item>Diş temizliği için misvak kullanırdı.</item>
+    <item>İstişare ederdi.Mübah olan yerlere sağ ayakla girer sağ ayakla çıkardı.</item>
+    <item>Günde iki öğün yemeye gayret ederdi.</item>
+    <item>Cenaze namazından sonra ayakta dua ederdi.</item>
+    <item>Namazda ruküya giderken sırtı dümdüz olurdu.</item>
+    <item>Ölüm halinde olanlara su içirirdi.</item>
+    <item>Güzel koku sürünürdü.</item>
+    <item>Dini nikah kıymak.</item>
+    <item>Tesbih namazı kılardı.</item>
+    <item>Aynaya bakınca dua etmek.</item>
+    <item>Her işe besmele ile başlamak.</item>
+    <item>Abdest alırken yüzüğü çevirmek.</item>
+    <item>Davete icabet etmek.</item>
+    <item>Doymadan kalkmak.</item>
+    <item>Pazarlık yapmak.</item>
+    <item>Temiz giyinmek.</item>
+    <item>3 kez sarılmak.</item>
+    <item>Sahur yapmak.</item>
+    <item>Hasta iken hamd etmek.</item>
+    <item>İlk verilen sözü tutmak.</item>
+    <item>Yemekten sonra tatlı yemek</item>
+    <item>Cuma günü gusül abdesti almak</item>
+    <item>Yerde yemek yeme.</item>
+    <item>Her cuma sadaka vermek</item>
+    <item>Kıyafet katlamak</item>
+    <item>Allahın selamını vermek ve almak</item>
+    <item>Gusülden sonra iki rekat namaz kılmak </item>
+    <item>Koku sürmek</item>
+    <item>Kabak yemek</item>
+    <item>Teravi kılmak</item>
+    <item>Selâm vermek</item>
+    <item>Yardımlaşmak</item>
+    <item>3 kez sarılmak</item>
+    <item>Sahur yapmak</item>
+    <item>Düzenli olmak</item>
+    <item>İlim öğrenmek</item>
+    <item>Sessiz ağlamak</item>
+    <item>Sadaka vermek</item>
+    <item>Ezanı dinlemek</item>
+    <item>İki öğün yemek</item>
+    <item>Teşekkür etmek</item>
+    <item>Temiz giyinmek</item>
+    <item>Birbirini sevmek</item>
+    <item>Pazarlık yapmak</item>
+    <item>Hal hatır sormak</item>
+    <item>Tebessüm etmek</item>
+    <item>Misafir ağırlamak</item>
+    <item>Kıyafeti katlamak</item>
+    <item>Birbirini uyarmak</item>
+    <item>Artık bırakmamak</item>
+    <item>Kaşları düzeltmek</item>
+    <item>İğne iplik taşımak</item>
+    <item>Eşikte oturmamak</item>
+    <item>Ölümü hatırlamak</item>
+    <item>Misafiri uğurlamak</item>
+    <item>Sevdiğini söylemek</item>
+    <item>Heybetli görünmek</item>
+    <item>Yumurtayı yıkamak</item>
+    <item>Yastıksız yatmamak</item>
+    <item>Birbirine sabretmek</item>
+    <item>Doymadan kalkmak</item>
+    <item>Yerde yemek yemek</item>
+    <item>Gül suyu kullanmak</item>
+    <item>Davete icabet etmek</item>
+    <item>Yemeği yavaş yemek</item>
+    <item>Sebze ve eti yıkamak</item>
+    <item>Öğle uykusu uyumak</item>
+    <item>Ekmeği elle koparmak</item>
+    <item>Yeri gelince konuşmak</item>
+    <item>Vakıa sûresini okumak</item>
+    <item>Misafire ilgi göstermek</item>
+    <item>Hasta iken hamdetmek</item>
+    <item>İlk verilen sözü tutmak</item>
+    <item>Yemeğe tuzla başlamak</item>
+    <item>Beyaz ve yeşil giyinmek</item>
+    <item>Yavaş ve tane konuşmak</item>
+    <item>Suyu üç yudumda içmek</item>
+    <item>Yoldaki engeli kaldırmak</item>
+    <item>Yemekte güzel konuşmak</item>
+    <item>Kahvaltıda 7 zeytin yemek</item>
+    <item>Aynaya bakınca dua etmek</item>
+    <item>Misafiri tekrar davet etmek</item>
+    <item>Sabah uyanınca el yıkamak</item>
+    <item>Birbirinin kusurunu örtmek</item>
+    <item>Elleri ve yüzü kurulamamak</item>
+    <item>Akşam bulaşık bırakmamak</item>
+    <item>Yemekten sonra tatlı yemek</item>
+    <item>Yemeklerin ağzını kapatmak</item>
+    <item>Su içerken kıbleye yönelmek</item>
+    <item>Kapı açıldığında yan durmak</item>
+    <item>Her işe besmele ile başlamak</item>
+    <item>Çatlak bardaktan su içmemek</item>
+    <item>Yemeğe besmele ile başlamak</item>
+    <item>Arkadaş ziyaretinde bulunmak</item>
+    <item>Seccadeyi sünnet üzere katlamak</item>
+    <item>Abdest alırken yüzüğü çevirmek</item>
+    <item>Cuma günü gusül abdesti almak</item>
+    <item>Bir şey yerken 3 parmakla yemek</item>
+    <item>İsraf etmemek ışıkları söndürmek</item>
+    <item>Hayırlı işlerde sağı adi işlerde solu kullanmak.</item>
+    <item>Yemekten önce ve sonra elleri yıkamak.</item>
+    <item>Yemeğe besmele ile başlamak sonsuz ikram ve nimetlerini tefekkür ederek yemek sonunda da hamd etmek.</item>
+    <item>Yemekte tabağın kendi önümüze gelen tarafından yemek.</item>
+    <item>Yerde bir sofra bezinin üstünde yemek. İhtiyaç olduğu takdirde masada da yenilebilir.</item>
+    <item>Yemeğe sofradakiler ile beraber başlamak.</item>
+    <item>Acıkmadıkça yememek tam doymadan yemeği bırakmak.</item>
+    <item>Tabağa az yemek koydurtup artık bırakmamak.</item>
+    <item>Sofrada sağ dizi dikip sol dizi yere yatırmak.</item>
+    <item>Saf ipek ve saf altın Ümmet)i Muhammed’in erkeklerine haram kılınmıştır.</item>
+    <item>Selamı yaymak. Selam kelamdan önce gelir.</item>
+    <item>Eve girince ilk söz ev halkına selam vermek olmalıdır.</item>
+    <item>Selamla birlikte samimiyetle tebessüm ederek musafahada bulunmak.</item>
+    <item>Musafahada önce eli uzatan çekmelidir. Biz çekersek buluşmadan memnuniyetsizlik manası çıkabilir.</item>
+    <item>Hediyeleşmek ve gelen hediyeye aynıyla veya daha güzeliyle karşılık vermek.</item>
+    <item>Az gülmek gülünce kahkaha ile değil tebessüm ederek gülmek. Mütebessim olmak.</item>
+    <item>Çoğu zaman susmak tefekkür etmek ihtiyaç olunca konuşmak.</item>
+    <item>Tane tane orta bir ses tonuyla konuşmak. Çok mühim şeyleri üç defa tekrar etmek.</item>
+    <item>Konuşmaya Cenab-ı Allah’ın adıyla başlamak ve Allah’ın adıyla bitirmek.</item>
+    <item>Nefsi ve dünyalık bir şey için öfkelenmemek. Bir hak zayi olduğunda ve uhrevi meselelerde ve din hakkı için öfkelenmek.</item>
+    <item>Doğru sözle şaka ve mizah yapmak.</item>
+    <item>Boş işler (malayani) ile iştigal etmemek.</item>
+    <item>Uyku için yatınca önce sağ tarafına yatmak sağ yanağını sağ avucunun içine koymak ve o günün muhasebesini yapmak.</item>
+    <item>Yüzükoyun yatmamak.</item>
+    <item>Beyaz giymek.</item>
+    <item>Mest giymek.</item>
+    <item>Ayakkabı giyerken önce sağdan başlamak çıkarırken de önce soldan çıkarmak.</item>
+    <item>Takke ve sarıkla başı kapatıp namazı öyle kılmak.</item>
+    <item>Soğan ve sarımsak kokusuyla mescid ve meclislere yaklaşmamak.</item>
+    <item>Üzerinde kudsi kelimeler ve ayetler yazılı eşya ile tuvalet ve pis yerlere girmemek.</item>
+    <item>Misafire elinde bulunandan ikramda bulunmak. Misafir ve ziyaretçileri temiz bir kılık kıyafetle karşılamalı.</item>
+    <item>Esnemeyi mümkün olduğu kadar gizlemek. </item>
+    <item>Davete icabet ve hediyeyi kabul etmek.</item>
+    <item>Gelen misafire ikramda bulunmak.</item>
+    <item>Gözlere sürme çekmek (yatarken)</item>
+    <item>Misvak kullanmak</item>
+    <item>Çevreyi temizlemek</item>
+    <item>Sadaka vermek.</item>
+    <item>Büyük ve umumi banyolarda tesettürle yıkanmalı peştamal kullanılmalı.</item>
+    <item>Mümkünse her abdest alışta misvak kullanmak.</item>
+    <item>Abdest aldıktan sonra kıbleye dönüp su içmek</item>
+    <item>Cömertlik.</item>
+    <item>Çok tefekkür etmek.</item>
+    <item>Suyu üç yudumda ve oturarak içmek</item>
+    <item>Kabristandan geçerken selam vermek ve onbir İhlas okumak</item>
+    <item>Ölmüş kimseleri hayırla yad etmek.</item>
+    <item>Tırnak kesmeye şehadet parmağından başlamak.</item>
+    <item>Tırnağını Cuma günü kesmek</item>
+    <item>Kabirleri ziyaret etmek.</item>
+    <item>Hasta akraba dost ve arkadaşları ziyaret etmek.</item>
+    <item>Yatarken sağ tarafına yatmak</item>
+    <item>Abdestli yatmak</item>
+    <item>Anne)babaya itaat etmek onlara ihsanda bulunmak kalplerini kırmamak ve hayır dualarını almak.</item>
+    <item>Yemeğe tuz ile başlamak</item>
+    <item>Sofrada sirke bulundurmak</item>
+    <item>Ayakkabıyı giymeden önce ters çevirmek içine birşey girmişse silkelemek.</item>
+    <item>Yolda başı öne eğik yürümek</item>
+    <item>Biri seslendiğinde seslenene doğru bütün vücudu ile dönmek.</item>
+    <item>Cuma günü gusl abdesti almak.</item>
+    <item>Güzel koku sürünmek.</item>
+    <item>Yemeği tek bir kaptan yemek.</item>
+    <item>Yemekte güzel şeylerden bahsetmek (Yemekte konuşulmaz lafının aslı yoktur)</item>
+    <item>Günde iki öğün yemek.</item>
+    <item>Camiye Girerken birileri varsa selam vermek yoksa Esselamu Aleyna ve Ala iba dilla hissalihiyn demek.</item>
+    <item>Suyu üç yudumda oturarak içmek</item>
+    <item>Evden çıkarken aynaya bakmak</item>
+    <item>Sabah hiç birşey yapmadan önce elini yüzünü yıkamak.</item>
+    <item>Tebessüm etmek.</item>
+    <item>Yanında ayna taşımak.</item>
+    <item>Yanında tarak taşımak.</item>
+    <item>Yatmadan önce dişlerini temizlemek.</item>
+    <item>Yanına gelen çocuklara güzel muamele etmek onlara dua etmek.</item>
+    <item>Davete icabet ve hediyeyi kabul etmek.</item>
+    <item>Dua ederken ” Subhane Rabbiyel aliyyül ağlel vehhab ” ile başlamak.</item>
+    <item>Sofra hazırlanırken yardımcı olmak.</item>
+    <item>Büyükleri sofraya oturmadan sofraya oturmamak.</item>
+    <item>Yemeğe başlarken Besmele çekip Allah’a vermiş olduğu nimetler için şükür etmek.</item>
+    <item>Sağ eliyle yemek.</item>
+    <item>Ağızda yemek varken konuşmamak gülmemek.</item>
+    <item>Yemek seçmemeye özen göstermek.</item>
+    <item>Lokmasını ve aldığı yemeği bitirmek.</item>
+    <item>Toplu yemek yenirken herkes yeyip bitirmedikçe sofradan kalkmamak.</item>
+    <item>Yemek bitince “Elhamdülillah” demek.</item>
+    <item>ALLAH yolunda çektiğimiz sıkıntıları söylememek.</item>
+    <item>Yemeği yapana teşekkür etmek.</item>
+    <item>Sofra kaldırırken yardımcı olmak.</item>
+    <item>Gezinerek yemek yememek.</item>
+    <item>Acıkmadan yemek yememek.</item>
+    <item>Yemek tabağını iyice sıyırmak.</item>
+    <item>Meyveleri sağ elle yiyip çekirdeğini sol elle çıkarmak.</item>
+    <item>Gömleğin düğmelerini aşağıdan yukarı doğru iliklemekçözerken yukardan aşağı doğru çözmek</item>
+    <item>Yeni bir elbise edindiklerinde onu cuma günü giyerlerdi</item>
+    <item>Akşam olduğunda ışığı yakmadan önce perdeleri çekmek.</item>
+    <item>Her gün ölümü düşünmek.</item>
+    <item>Haksızlığın karşısında susmamak.</item>
+
+    </string-array>
+
+
+
+</resources>
